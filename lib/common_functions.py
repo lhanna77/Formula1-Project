@@ -1,10 +1,16 @@
 # Databricks notebook source
 
-from datetime import datetime
+from datetime import date
 from pyspark.sql import SparkSession
+from pandas import ExcelWriter
+from pathlib import Path
+from os import path
+from requests import request
+from csv import reader as csv_reader, writer as csv_writer
 
 def get_ingestion_date():
-  date_today = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+  #date_today = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+  date_today = date.today().strftime("%Y-%m-%d")
   
   return date_today
 
@@ -12,6 +18,33 @@ def get_spark_session():
   spark = SparkSession.builder.appName('formula1').getOrCreate()
   
   return spark
+
+def get_relpath(file_location):
+	
+	ROOT_DIR = Path(__file__).parents[2]
+	rel_file_path = Path(path.join(ROOT_DIR, file_location))
+	
+	return rel_file_path
+
+def add_to_excel(file_path, df, sheet_name):
+    output_dir = get_relpath(file_path)
+
+    with ExcelWriter(output_dir) as writer:
+        df.to_excel(writer, sheet_name=sheet_name)
+        
+    print(f'\n{df} added to  - {output_dir}.\n')
+
+def add_header_to_excel(target_file,header_text):
+    with open(target_file,'w',encoding='utf-8',newline='') as file:
+      file.write(header_text)
+      file.write("\n")
+
+def call_api(url):
+  
+  json_url = url + '.json?limit=1000'
+  response = request("GET", json_url)
+
+  return response.json()
 
 def re_arrange_partition_column(input_df, partition_column):
   column_list = []
