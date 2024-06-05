@@ -6,7 +6,6 @@ This project aims to perform incremental data loading from a Formula 1 API into 
 ## Requirements
 - Python 3.10
 - Jupyter Notebooks
-- Formula 1 API access
 
 ## Installation
 1. Clone this repository to your local machine.
@@ -14,25 +13,27 @@ This project aims to perform incremental data loading from a Formula 1 API into 
     ```
     pip install -r requirements.txt
     ```
-3. Obtain access to the Formula 1 API and configure authentication credentials.
 
 ## Usage
-1. Open the Jupyter Notebook `incremental_load.ipynb`.
-2. Follow the step-by-step instructions within the notebook.
-3. Execute each cell to fetch, transform, and load data incrementally into the Lakehouse.
+File run order...
+
+- plan.sh (only for GCP table loads)
+- apply.sh (only for GCP table loads)
+- get_latest_data_from_api.py
+- 1.ingest_circuits_file.ipynb
+- 3.ingest_constructors_file.ipynb
+- 4.ingest_drivers_file.ipynb
+- 9.ingest_races_file_api_multi.ipynb
+- 10.ingest_results_file_api_mulit.ipynb
+- bq_silver_gold_loads_api.py (only for GCP table loads)
 
 ## Project Structure
-- `incremental_load.ipynb`: Jupyter Notebook containing the incremental load process.
 - `requirements.txt`: List of required Python packages.
 - `files/`: Directory to store fetched Formula 1 data.
-- `src/`: Directory containing helper functions and scripts.
+- `files/latest_data_from_api/`: Directory to store fetched latest Formula 1 data direct from API.
 
 ## How It Works
-1. **Data Fetching**: Utilizes the Formula 1 API to fetch the latest data.
-2. **Data Transformation**: Cleans, processes, and structures the fetched data for compatibility with the Lakehouse schema.
-3. **Incremental Load**: Compares fetched data with existing data in the Lakehouse, identifies changes, and loads only the new or modified data.
-4. **Data Integrity**: Ensures data consistency and integrity during the loading process.
-5. **Efficiency**: Optimizes the loading process for speed and resource utilization.
+1. **get_latest_data_from_api**: main() refreshes Results data from API, main(latest = False), refreshes all files.
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
@@ -42,6 +43,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 Special thanks to the Formula 1 API for providing access to the data used in this project.
-
-## Contact
-For any questions or inquiries, please contact [Your Name](mailto:youremail@example.com).
