@@ -24,12 +24,16 @@ File run order...
 - 3.ingest_constructors_file.ipynb
 - 4.ingest_drivers_file.ipynb
 - 9.ingest_races_file_api_multi.ipynb
-- 10.ingest_results_file_api_mulit.ipynb
+- 10.ingest_race_circuits_file_api_multi.ipynb
+- 11.ingest_results_file_api_mulit.ipynb
 - bq_silver_gold_loads_api.py (only for GCP table loads)
+
+To refresh only this years results...
+
+- Run bash - source run_new_results_load_in_order.sh
 
 ## Project Structure
 - `requirements.txt`: List of required Python packages.
-- `files/`: Directory to store fetched Formula 1 data.
 - `files/latest_data_from_api/`: Directory to store fetched latest Formula 1 data direct from API.
 
 ## How It Works
