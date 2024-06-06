@@ -1,0 +1,72 @@
+[
+  {
+    "mode": "REQUIRED",
+    "name": "result_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "race_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "driver_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "constructor_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "number",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "grid",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "position",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "position_text",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "position_order",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "points",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "laps",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "status",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "data_source",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ingestion_date",
+    "type": "DATE"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "race_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "race_id_join",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "race_round",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "race_year",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "race_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "race_date",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "circuit_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "circuit_location",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "circuit_country",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "circuit_latitude",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "circuit_longitude",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "data_source",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ingestion_date",
+    "type": "DATE"
+  }
+]

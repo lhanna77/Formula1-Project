@@ -1,0 +1,1126 @@
+race_id,race_id_join,race_round,race_year,race_name,race_date,circuit_name,circuit_location,circuit_country,circuit_latitude,circuit_longitude,data_source,ingestion_date
+81,German Grand Prix1959,6,1959,German Grand Prix,1959-08-02 06:00:00,AVUS,Berlin,Germany,52.4806,13.2514,dev,2024-06-06
+420,Australian Grand Prix1985,16,1985,Australian Grand Prix,1985-11-03 06:00:00,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,dev,2024-06-06
+436,Australian Grand Prix1986,16,1986,Australian Grand Prix,1986-10-26 06:00:00,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,dev,2024-06-06
+452,Australian Grand Prix1987,16,1987,Australian Grand Prix,1987-11-15 06:00:00,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,dev,2024-06-06
+468,Australian Grand Prix1988,16,1988,Australian Grand Prix,1988-11-13 06:00:00,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,dev,2024-06-06
+484,Australian Grand Prix1989,16,1989,Australian Grand Prix,1989-11-05 06:00:00,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,dev,2024-06-06
+500,Australian Grand Prix1990,16,1990,Australian Grand Prix,1990-11-04 06:00:00,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,dev,2024-06-06
+516,Australian Grand Prix1991,16,1991,Australian Grand Prix,1991-11-03 06:00:00,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,dev,2024-06-06
+532,Australian Grand Prix1992,16,1992,Australian Grand Prix,1992-11-08 06:00:00,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,dev,2024-06-06
+548,Australian Grand Prix1993,16,1993,Australian Grand Prix,1993-11-07 06:00:00,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,dev,2024-06-06
+564,Australian Grand Prix1994,16,1994,Australian Grand Prix,1994-11-13 06:00:00,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,dev,2024-06-06
+581,Australian Grand Prix1995,17,1995,Australian Grand Prix,1995-11-12 06:00:00,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,dev,2024-06-06
+75,Moroccan Grand Prix1958,11,1958,Moroccan Grand Prix,1958-10-19 06:00:00,Ain Diab,Casablanca,Morocco,33.5786,-7.6875,dev,2024-06-06
+47,British Grand Prix1955,6,1955,British Grand Prix,1955-07-16 06:00:00,Aintree,Liverpool,UK,53.4769,-2.94056,dev,2024-06-06
+61,British Grand Prix1957,5,1957,British Grand Prix,1957-07-20 06:00:00,Aintree,Liverpool,UK,53.4769,-2.94056,dev,2024-06-06
+80,British Grand Prix1959,5,1959,British Grand Prix,1959-07-18 06:00:00,Aintree,Liverpool,UK,53.4769,-2.94056,dev,2024-06-06
+99,British Grand Prix1961,5,1961,British Grand Prix,1961-07-15 06:00:00,Aintree,Liverpool,UK,53.4769,-2.94056,dev,2024-06-06
+107,British Grand Prix1962,5,1962,British Grand Prix,1962-07-21 06:00:00,Aintree,Liverpool,UK,53.4769,-2.94056,dev,2024-06-06
+582,Australian Grand Prix1996,1,1996,Australian Grand Prix,1996-03-10 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+598,Australian Grand Prix1997,1,1997,Australian Grand Prix,1997-03-09 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+615,Australian Grand Prix1998,1,1998,Australian Grand Prix,1998-03-08 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+631,Australian Grand Prix1999,1,1999,Australian Grand Prix,1999-03-07 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+647,Australian Grand Prix2000,1,2000,Australian Grand Prix,2000-03-12 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+664,Australian Grand Prix2001,1,2001,Australian Grand Prix,2001-03-04 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+681,Australian Grand Prix2002,1,2002,Australian Grand Prix,2002-03-03 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+698,Australian Grand Prix2003,1,2003,Australian Grand Prix,2003-03-09 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+714,Australian Grand Prix2004,1,2004,Australian Grand Prix,2004-03-07 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+732,Australian Grand Prix2005,1,2005,Australian Grand Prix,2005-03-06 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+753,Australian Grand Prix2006,3,2006,Australian Grand Prix,2006-04-02 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+769,Australian Grand Prix2007,1,2007,Australian Grand Prix,2007-03-18 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+786,Australian Grand Prix2008,1,2008,Australian Grand Prix,2008-03-16 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+804,Australian Grand Prix2009,1,2009,Australian Grand Prix,2009-03-29 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+822,Australian Grand Prix2010,2,2010,Australian Grand Prix,2010-03-28 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+840,Australian Grand Prix2011,1,2011,Australian Grand Prix,2011-03-27 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+859,Australian Grand Prix2012,1,2012,Australian Grand Prix,2012-03-18 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+879,Australian Grand Prix2013,1,2013,Australian Grand Prix,2013-03-17 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+898,Australian Grand Prix2014,1,2014,Australian Grand Prix,2014-03-16 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+917,Australian Grand Prix2015,1,2015,Australian Grand Prix,2015-03-15 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+936,Australian Grand Prix2016,1,2016,Australian Grand Prix,2016-03-20 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+957,Australian Grand Prix2017,1,2017,Australian Grand Prix,2017-03-26 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+977,Australian Grand Prix2018,1,2018,Australian Grand Prix,2018-03-25 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+998,Australian Grand Prix2019,1,2019,Australian Grand Prix,2019-03-17 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+1060,Australian Grand Prix2022,3,2022,Australian Grand Prix,2022-04-10 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+1082,Australian Grand Prix2023,3,2023,Australian Grand Prix,2023-04-02 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+1104,Australian Grand Prix2024,3,2024,Australian Grand Prix,2024-03-24 06:00:00,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,dev,2024-06-06
+340,Italian Grand Prix1980,12,1980,Italian Grand Prix,1980-09-14 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+346,San Marino Grand Prix1981,4,1981,San Marino Grand Prix,1981-05-03 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+361,San Marino Grand Prix1982,4,1982,San Marino Grand Prix,1982-04-25 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+377,San Marino Grand Prix1983,4,1983,San Marino Grand Prix,1983-05-01 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+392,San Marino Grand Prix1984,4,1984,San Marino Grand Prix,1984-05-06 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+407,San Marino Grand Prix1985,3,1985,San Marino Grand Prix,1985-05-05 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+423,San Marino Grand Prix1986,3,1986,San Marino Grand Prix,1986-04-27 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+438,San Marino Grand Prix1987,2,1987,San Marino Grand Prix,1987-05-03 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+454,San Marino Grand Prix1988,2,1988,San Marino Grand Prix,1988-05-01 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+470,San Marino Grand Prix1989,2,1989,San Marino Grand Prix,1989-04-23 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+487,San Marino Grand Prix1990,3,1990,San Marino Grand Prix,1990-05-13 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+503,San Marino Grand Prix1991,3,1991,San Marino Grand Prix,1991-04-28 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+521,San Marino Grand Prix1992,5,1992,San Marino Grand Prix,1992-05-17 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+536,San Marino Grand Prix1993,4,1993,San Marino Grand Prix,1993-04-25 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+551,San Marino Grand Prix1994,3,1994,San Marino Grand Prix,1994-05-01 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+567,San Marino Grand Prix1995,3,1995,San Marino Grand Prix,1995-04-30 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+586,San Marino Grand Prix1996,5,1996,San Marino Grand Prix,1996-05-05 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+601,San Marino Grand Prix1997,4,1997,San Marino Grand Prix,1997-04-27 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+618,San Marino Grand Prix1998,4,1998,San Marino Grand Prix,1998-04-26 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+633,San Marino Grand Prix1999,3,1999,San Marino Grand Prix,1999-05-02 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+649,San Marino Grand Prix2000,3,2000,San Marino Grand Prix,2000-04-09 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+667,San Marino Grand Prix2001,4,2001,San Marino Grand Prix,2001-04-15 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+684,San Marino Grand Prix2002,4,2002,San Marino Grand Prix,2002-04-14 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+701,San Marino Grand Prix2003,4,2003,San Marino Grand Prix,2003-04-20 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+717,San Marino Grand Prix2004,4,2004,San Marino Grand Prix,2004-04-25 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+735,San Marino Grand Prix2005,4,2005,San Marino Grand Prix,2005-04-24 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+754,San Marino Grand Prix2006,4,2006,San Marino Grand Prix,2006-04-23 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+1031,Emilia Romagna Grand Prix2020,13,2020,Emilia Romagna Grand Prix,2020-11-01 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+1037,Emilia Romagna Grand Prix2021,2,2021,Emilia Romagna Grand Prix,2021-04-18 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+1061,Emilia Romagna Grand Prix2022,4,2022,Emilia Romagna Grand Prix,2022-04-24 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+1108,Emilia Romagna Grand Prix2024,7,2024,Emilia Romagna Grand Prix,2024-05-19 06:00:00,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,dev,2024-06-06
+1027,Tuscan Grand Prix2020,9,2020,Tuscan Grand Prix,2020-09-13 06:00:00,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719,dev,2024-06-06
+7,Italian Grand Prix1950,7,1950,Italian Grand Prix,1950-09-03 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+14,Italian Grand Prix1951,7,1951,Italian Grand Prix,1951-09-16 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+23,Italian Grand Prix1952,8,1952,Italian Grand Prix,1952-09-07 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+32,Italian Grand Prix1953,9,1953,Italian Grand Prix,1953-09-13 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+40,Italian Grand Prix1954,8,1954,Italian Grand Prix,1954-09-05 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+48,Italian Grand Prix1955,7,1955,Italian Grand Prix,1955-09-11 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+56,Italian Grand Prix1956,8,1956,Italian Grand Prix,1956-09-02 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+64,Italian Grand Prix1957,8,1957,Italian Grand Prix,1957-09-08 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+74,Italian Grand Prix1958,10,1958,Italian Grand Prix,1958-09-07 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+83,Italian Grand Prix1959,8,1959,Italian Grand Prix,1959-09-13 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+93,Italian Grand Prix1960,9,1960,Italian Grand Prix,1960-09-04 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+101,Italian Grand Prix1961,7,1961,Italian Grand Prix,1961-09-10 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+109,Italian Grand Prix1962,7,1962,Italian Grand Prix,1962-09-16 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+118,Italian Grand Prix1963,7,1963,Italian Grand Prix,1963-09-08 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+129,Italian Grand Prix1964,8,1964,Italian Grand Prix,1964-09-06 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+139,Italian Grand Prix1965,8,1965,Italian Grand Prix,1965-09-12 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+148,Italian Grand Prix1966,7,1966,Italian Grand Prix,1966-09-04 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+159,Italian Grand Prix1967,9,1967,Italian Grand Prix,1967-09-10 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+170,Italian Grand Prix1968,9,1968,Italian Grand Prix,1968-09-08 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+181,Italian Grand Prix1969,8,1969,Italian Grand Prix,1969-09-07 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+194,Italian Grand Prix1970,10,1970,Italian Grand Prix,1970-09-06 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+206,Italian Grand Prix1971,9,1971,Italian Grand Prix,1971-09-05 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+218,Italian Grand Prix1972,10,1972,Italian Grand Prix,1972-09-10 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+233,Italian Grand Prix1973,13,1973,Italian Grand Prix,1973-09-09 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+248,Italian Grand Prix1974,13,1974,Italian Grand Prix,1974-09-08 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+263,Italian Grand Prix1975,13,1975,Italian Grand Prix,1975-09-07 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+277,Italian Grand Prix1976,13,1976,Italian Grand Prix,1976-09-12 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+294,Italian Grand Prix1977,14,1977,Italian Grand Prix,1977-09-11 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+311,Italian Grand Prix1978,14,1978,Italian Grand Prix,1978-09-10 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+326,Italian Grand Prix1979,13,1979,Italian Grand Prix,1979-09-09 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+355,Italian Grand Prix1981,13,1981,Italian Grand Prix,1981-09-13 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+372,Italian Grand Prix1982,15,1982,Italian Grand Prix,1982-09-12 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+386,Italian Grand Prix1983,13,1983,Italian Grand Prix,1983-09-11 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+402,Italian Grand Prix1984,14,1984,Italian Grand Prix,1984-09-09 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+416,Italian Grand Prix1985,12,1985,Italian Grand Prix,1985-09-08 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+433,Italian Grand Prix1986,13,1986,Italian Grand Prix,1986-09-07 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+447,Italian Grand Prix1987,11,1987,Italian Grand Prix,1987-09-06 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+464,Italian Grand Prix1988,12,1988,Italian Grand Prix,1988-09-11 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+480,Italian Grand Prix1989,12,1989,Italian Grand Prix,1989-09-10 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+496,Italian Grand Prix1990,12,1990,Italian Grand Prix,1990-09-09 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+512,Italian Grand Prix1991,12,1991,Italian Grand Prix,1991-09-08 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+529,Italian Grand Prix1992,13,1992,Italian Grand Prix,1992-09-13 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+545,Italian Grand Prix1993,13,1993,Italian Grand Prix,1993-09-12 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+560,Italian Grand Prix1994,12,1994,Italian Grand Prix,1994-09-11 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+576,Italian Grand Prix1995,12,1995,Italian Grand Prix,1995-09-10 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+595,Italian Grand Prix1996,14,1996,Italian Grand Prix,1996-09-08 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+610,Italian Grand Prix1997,13,1997,Italian Grand Prix,1997-09-07 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+628,Italian Grand Prix1998,14,1998,Italian Grand Prix,1998-09-13 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+643,Italian Grand Prix1999,13,1999,Italian Grand Prix,1999-09-12 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+660,Italian Grand Prix2000,14,2000,Italian Grand Prix,2000-09-10 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+678,Italian Grand Prix2001,15,2001,Italian Grand Prix,2001-09-16 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+695,Italian Grand Prix2002,15,2002,Italian Grand Prix,2002-09-15 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+711,Italian Grand Prix2003,14,2003,Italian Grand Prix,2003-09-14 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+728,Italian Grand Prix2004,15,2004,Italian Grand Prix,2004-09-12 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+746,Italian Grand Prix2005,15,2005,Italian Grand Prix,2005-09-04 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+765,Italian Grand Prix2006,15,2006,Italian Grand Prix,2006-09-10 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+781,Italian Grand Prix2007,13,2007,Italian Grand Prix,2007-09-09 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+799,Italian Grand Prix2008,14,2008,Italian Grand Prix,2008-09-14 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+816,Italian Grand Prix2009,13,2009,Italian Grand Prix,2009-09-13 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+834,Italian Grand Prix2010,14,2010,Italian Grand Prix,2010-09-12 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+852,Italian Grand Prix2011,13,2011,Italian Grand Prix,2011-09-11 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+871,Italian Grand Prix2012,13,2012,Italian Grand Prix,2012-09-09 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+890,Italian Grand Prix2013,12,2013,Italian Grand Prix,2013-09-08 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+910,Italian Grand Prix2014,13,2014,Italian Grand Prix,2014-09-07 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+928,Italian Grand Prix2015,12,2015,Italian Grand Prix,2015-09-06 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+949,Italian Grand Prix2016,14,2016,Italian Grand Prix,2016-09-04 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+969,Italian Grand Prix2017,13,2017,Italian Grand Prix,2017-09-03 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+990,Italian Grand Prix2018,14,2018,Italian Grand Prix,2018-09-02 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+1011,Italian Grand Prix2019,14,2019,Italian Grand Prix,2019-09-08 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+1026,Italian Grand Prix2020,8,2020,Italian Grand Prix,2020-09-06 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+1049,Italian Grand Prix2021,14,2021,Italian Grand Prix,2021-09-12 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+1073,Italian Grand Prix2022,16,2022,Italian Grand Prix,2022-09-11 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+1093,Italian Grand Prix2023,14,2023,Italian Grand Prix,2023-09-03 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+1117,Italian Grand Prix2024,16,2024,Italian Grand Prix,2024-09-01 06:00:00,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,dev,2024-06-06
+120,Mexican Grand Prix1963,9,1963,Mexican Grand Prix,1963-10-27 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+131,Mexican Grand Prix1964,10,1964,Mexican Grand Prix,1964-10-25 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+141,Mexican Grand Prix1965,10,1965,Mexican Grand Prix,1965-10-24 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+150,Mexican Grand Prix1966,9,1966,Mexican Grand Prix,1966-10-23 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+161,Mexican Grand Prix1967,11,1967,Mexican Grand Prix,1967-10-22 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+173,Mexican Grand Prix1968,12,1968,Mexican Grand Prix,1968-11-03 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+184,Mexican Grand Prix1969,11,1969,Mexican Grand Prix,1969-10-19 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+197,Mexican Grand Prix1970,13,1970,Mexican Grand Prix,1970-10-25 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+435,Mexican Grand Prix1986,15,1986,Mexican Grand Prix,1986-10-12 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+450,Mexican Grand Prix1987,14,1987,Mexican Grand Prix,1987-10-18 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+456,Mexican Grand Prix1988,4,1988,Mexican Grand Prix,1988-05-29 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+472,Mexican Grand Prix1989,4,1989,Mexican Grand Prix,1989-05-28 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+490,Mexican Grand Prix1990,6,1990,Mexican Grand Prix,1990-06-24 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+506,Mexican Grand Prix1991,6,1991,Mexican Grand Prix,1991-06-16 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+518,Mexican Grand Prix1992,2,1992,Mexican Grand Prix,1992-03-22 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+933,Mexican Grand Prix2015,17,2015,Mexican Grand Prix,2015-11-01 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+954,Mexican Grand Prix2016,19,2016,Mexican Grand Prix,2016-10-30 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+974,Mexican Grand Prix2017,18,2017,Mexican Grand Prix,2017-10-29 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+995,Mexican Grand Prix2018,19,2018,Mexican Grand Prix,2018-10-28 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+1015,Mexican Grand Prix2019,18,2019,Mexican Grand Prix,2019-10-27 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+1053,Mexico City Grand Prix2021,18,2021,Mexico City Grand Prix,2021-11-07 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+1077,Mexico City Grand Prix2022,20,2022,Mexico City Grand Prix,2022-10-30 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+1098,Mexico City Grand Prix2023,19,2023,Mexico City Grand Prix,2023-10-29 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+1121,Mexico City Grand Prix2024,20,2024,Mexico City Grand Prix,2024-10-27 06:00:00,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,dev,2024-06-06
+299,Brazilian Grand Prix1978,2,1978,Brazilian Grand Prix,1978-01-29 06:00:00,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,dev,2024-06-06
+344,Brazilian Grand Prix1981,2,1981,Brazilian Grand Prix,1981-03-29 06:00:00,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,dev,2024-06-06
+359,Brazilian Grand Prix1982,2,1982,Brazilian Grand Prix,1982-03-21 06:00:00,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,dev,2024-06-06
+374,Brazilian Grand Prix1983,1,1983,Brazilian Grand Prix,1983-03-13 06:00:00,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,dev,2024-06-06
+389,Brazilian Grand Prix1984,1,1984,Brazilian Grand Prix,1984-03-25 06:00:00,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,dev,2024-06-06
+405,Brazilian Grand Prix1985,1,1985,Brazilian Grand Prix,1985-04-07 06:00:00,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,dev,2024-06-06
+421,Brazilian Grand Prix1986,1,1986,Brazilian Grand Prix,1986-03-23 06:00:00,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,dev,2024-06-06
+437,Brazilian Grand Prix1987,1,1987,Brazilian Grand Prix,1987-04-12 06:00:00,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,dev,2024-06-06
+453,Brazilian Grand Prix1988,1,1988,Brazilian Grand Prix,1988-04-03 06:00:00,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,dev,2024-06-06
+469,Brazilian Grand Prix1989,1,1989,Brazilian Grand Prix,1989-03-26 06:00:00,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,dev,2024-06-06
+1030,Portuguese Grand Prix2020,12,2020,Portuguese Grand Prix,2020-10-25 06:00:00,Autódromo Internacional do Algarve,Portimão,Portugal,37.227,-8.6267,dev,2024-06-06
+1038,Portuguese Grand Prix2021,3,2021,Portuguese Grand Prix,2021-05-02 06:00:00,Autódromo Internacional do Algarve,Portimão,Portugal,37.227,-8.6267,dev,2024-06-06
+222,Brazilian Grand Prix1973,2,1973,Brazilian Grand Prix,1973-02-11 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+237,Brazilian Grand Prix1974,2,1974,Brazilian Grand Prix,1974-01-27 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+252,Brazilian Grand Prix1975,2,1975,Brazilian Grand Prix,1975-01-26 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+265,Brazilian Grand Prix1976,1,1976,Brazilian Grand Prix,1976-01-25 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+282,Brazilian Grand Prix1977,2,1977,Brazilian Grand Prix,1977-01-23 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+315,Brazilian Grand Prix1979,2,1979,Brazilian Grand Prix,1979-02-04 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+330,Brazilian Grand Prix1980,2,1980,Brazilian Grand Prix,1980-01-27 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+486,Brazilian Grand Prix1990,2,1990,Brazilian Grand Prix,1990-03-25 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+502,Brazilian Grand Prix1991,2,1991,Brazilian Grand Prix,1991-03-24 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+519,Brazilian Grand Prix1992,3,1992,Brazilian Grand Prix,1992-04-05 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+534,Brazilian Grand Prix1993,2,1993,Brazilian Grand Prix,1993-03-28 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+549,Brazilian Grand Prix1994,1,1994,Brazilian Grand Prix,1994-03-27 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+565,Brazilian Grand Prix1995,1,1995,Brazilian Grand Prix,1995-03-26 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+583,Brazilian Grand Prix1996,2,1996,Brazilian Grand Prix,1996-03-31 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+599,Brazilian Grand Prix1997,2,1997,Brazilian Grand Prix,1997-03-30 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+616,Brazilian Grand Prix1998,2,1998,Brazilian Grand Prix,1998-03-29 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+632,Brazilian Grand Prix1999,2,1999,Brazilian Grand Prix,1999-04-11 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+648,Brazilian Grand Prix2000,2,2000,Brazilian Grand Prix,2000-03-26 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+666,Brazilian Grand Prix2001,3,2001,Brazilian Grand Prix,2001-04-01 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+683,Brazilian Grand Prix2002,3,2002,Brazilian Grand Prix,2002-03-31 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+700,Brazilian Grand Prix2003,3,2003,Brazilian Grand Prix,2003-04-06 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+731,Brazilian Grand Prix2004,18,2004,Brazilian Grand Prix,2004-10-24 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+748,Brazilian Grand Prix2005,17,2005,Brazilian Grand Prix,2005-09-25 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+768,Brazilian Grand Prix2006,18,2006,Brazilian Grand Prix,2006-10-22 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+785,Brazilian Grand Prix2007,17,2007,Brazilian Grand Prix,2007-10-21 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+803,Brazilian Grand Prix2008,18,2008,Brazilian Grand Prix,2008-11-02 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+819,Brazilian Grand Prix2009,16,2009,Brazilian Grand Prix,2009-10-18 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+838,Brazilian Grand Prix2010,18,2010,Brazilian Grand Prix,2010-11-07 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+858,Brazilian Grand Prix2011,19,2011,Brazilian Grand Prix,2011-11-27 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+878,Brazilian Grand Prix2012,20,2012,Brazilian Grand Prix,2012-11-25 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+897,Brazilian Grand Prix2013,19,2013,Brazilian Grand Prix,2013-11-24 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+915,Brazilian Grand Prix2014,18,2014,Brazilian Grand Prix,2014-11-09 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+934,Brazilian Grand Prix2015,18,2015,Brazilian Grand Prix,2015-11-15 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+955,Brazilian Grand Prix2016,20,2016,Brazilian Grand Prix,2016-11-13 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+975,Brazilian Grand Prix2017,19,2017,Brazilian Grand Prix,2017-11-12 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+996,Brazilian Grand Prix2018,20,2018,Brazilian Grand Prix,2018-11-11 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+1017,Brazilian Grand Prix2019,20,2019,Brazilian Grand Prix,2019-11-17 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+1054,São Paulo Grand Prix2021,19,2021,São Paulo Grand Prix,2021-11-14 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+1078,São Paulo Grand Prix2022,21,2022,São Paulo Grand Prix,2022-11-13 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+1099,São Paulo Grand Prix2023,20,2023,São Paulo Grand Prix,2023-11-05 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+1122,São Paulo Grand Prix2024,21,2024,São Paulo Grand Prix,2024-11-03 06:00:00,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,dev,2024-06-06
+24,Argentine Grand Prix1953,1,1953,Argentine Grand Prix,1953-01-18 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+33,Argentine Grand Prix1954,1,1954,Argentine Grand Prix,1954-01-17 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+42,Argentine Grand Prix1955,1,1955,Argentine Grand Prix,1955-01-16 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+49,Argentine Grand Prix1956,1,1956,Argentine Grand Prix,1956-01-22 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+57,Argentine Grand Prix1957,1,1957,Argentine Grand Prix,1957-01-13 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+65,Argentine Grand Prix1958,1,1958,Argentine Grand Prix,1958-01-19 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+85,Argentine Grand Prix1960,1,1960,Argentine Grand Prix,1960-02-07 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+209,Argentine Grand Prix1972,1,1972,Argentine Grand Prix,1972-01-23 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+221,Argentine Grand Prix1973,1,1973,Argentine Grand Prix,1973-01-28 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+236,Argentine Grand Prix1974,1,1974,Argentine Grand Prix,1974-01-13 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+251,Argentine Grand Prix1975,1,1975,Argentine Grand Prix,1975-01-12 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+281,Argentine Grand Prix1977,1,1977,Argentine Grand Prix,1977-01-09 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+298,Argentine Grand Prix1978,1,1978,Argentine Grand Prix,1978-01-15 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+314,Argentine Grand Prix1979,1,1979,Argentine Grand Prix,1979-01-21 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+329,Argentine Grand Prix1980,1,1980,Argentine Grand Prix,1980-01-13 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+345,Argentine Grand Prix1981,3,1981,Argentine Grand Prix,1981-04-12 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+566,Argentine Grand Prix1995,2,1995,Argentine Grand Prix,1995-04-09 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+584,Argentine Grand Prix1996,3,1996,Argentine Grand Prix,1996-04-07 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+600,Argentine Grand Prix1997,3,1997,Argentine Grand Prix,1997-04-13 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+617,Argentine Grand Prix1998,3,1998,Argentine Grand Prix,1998-04-12 06:00:00,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,dev,2024-06-06
+404,Portuguese Grand Prix1984,16,1984,Portuguese Grand Prix,1984-10-21 06:00:00,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,dev,2024-06-06
+406,Portuguese Grand Prix1985,2,1985,Portuguese Grand Prix,1985-04-21 06:00:00,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,dev,2024-06-06
+434,Portuguese Grand Prix1986,14,1986,Portuguese Grand Prix,1986-09-21 06:00:00,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,dev,2024-06-06
+448,Portuguese Grand Prix1987,12,1987,Portuguese Grand Prix,1987-09-20 06:00:00,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,dev,2024-06-06
+465,Portuguese Grand Prix1988,13,1988,Portuguese Grand Prix,1988-09-25 06:00:00,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,dev,2024-06-06
+481,Portuguese Grand Prix1989,13,1989,Portuguese Grand Prix,1989-09-24 06:00:00,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,dev,2024-06-06
+497,Portuguese Grand Prix1990,13,1990,Portuguese Grand Prix,1990-09-23 06:00:00,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,dev,2024-06-06
+513,Portuguese Grand Prix1991,13,1991,Portuguese Grand Prix,1991-09-22 06:00:00,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,dev,2024-06-06
+530,Portuguese Grand Prix1992,14,1992,Portuguese Grand Prix,1992-09-27 06:00:00,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,dev,2024-06-06
+546,Portuguese Grand Prix1993,14,1993,Portuguese Grand Prix,1993-09-26 06:00:00,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,dev,2024-06-06
+561,Portuguese Grand Prix1994,13,1994,Portuguese Grand Prix,1994-09-25 06:00:00,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,dev,2024-06-06
+577,Portuguese Grand Prix1995,13,1995,Portuguese Grand Prix,1995-09-24 06:00:00,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,dev,2024-06-06
+596,Portuguese Grand Prix1996,15,1996,Portuguese Grand Prix,1996-09-22 06:00:00,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,dev,2024-06-06
+716,Bahrain Grand Prix2004,3,2004,Bahrain Grand Prix,2004-04-04 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+734,Bahrain Grand Prix2005,3,2005,Bahrain Grand Prix,2005-04-03 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+751,Bahrain Grand Prix2006,1,2006,Bahrain Grand Prix,2006-03-12 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+771,Bahrain Grand Prix2007,3,2007,Bahrain Grand Prix,2007-04-15 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+788,Bahrain Grand Prix2008,3,2008,Bahrain Grand Prix,2008-04-06 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+807,Bahrain Grand Prix2009,4,2009,Bahrain Grand Prix,2009-04-26 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+821,Bahrain Grand Prix2010,1,2010,Bahrain Grand Prix,2010-03-14 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+862,Bahrain Grand Prix2012,4,2012,Bahrain Grand Prix,2012-04-22 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+882,Bahrain Grand Prix2013,4,2013,Bahrain Grand Prix,2013-04-21 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+900,Bahrain Grand Prix2014,3,2014,Bahrain Grand Prix,2014-04-06 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+920,Bahrain Grand Prix2015,4,2015,Bahrain Grand Prix,2015-04-19 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+937,Bahrain Grand Prix2016,2,2016,Bahrain Grand Prix,2016-04-03 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+959,Bahrain Grand Prix2017,3,2017,Bahrain Grand Prix,2017-04-16 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+978,Bahrain Grand Prix2018,2,2018,Bahrain Grand Prix,2018-04-08 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+999,Bahrain Grand Prix2019,2,2019,Bahrain Grand Prix,2019-03-31 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+1033,Bahrain Grand Prix2020,15,2020,Bahrain Grand Prix,2020-11-29 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+1034,Sakhir Grand Prix2020,16,2020,Sakhir Grand Prix,2020-12-06 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+1036,Bahrain Grand Prix2021,1,2021,Bahrain Grand Prix,2021-03-28 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+1058,Bahrain Grand Prix2022,1,2022,Bahrain Grand Prix,2022-03-20 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+1080,Bahrain Grand Prix2023,1,2023,Bahrain Grand Prix,2023-03-05 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+1102,Bahrain Grand Prix2024,1,2024,Bahrain Grand Prix,2024-03-02 06:00:00,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,dev,2024-06-06
+943,European Grand Prix2016,8,2016,European Grand Prix,2016-06-19 06:00:00,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,dev,2024-06-06
+964,Azerbaijan Grand Prix2017,8,2017,Azerbaijan Grand Prix,2017-06-25 06:00:00,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,dev,2024-06-06
+980,Azerbaijan Grand Prix2018,4,2018,Azerbaijan Grand Prix,2018-04-29 06:00:00,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,dev,2024-06-06
+1001,Azerbaijan Grand Prix2019,4,2019,Azerbaijan Grand Prix,2019-04-28 06:00:00,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,dev,2024-06-06
+1041,Azerbaijan Grand Prix2021,6,2021,Azerbaijan Grand Prix,2021-06-06 06:00:00,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,dev,2024-06-06
+1065,Azerbaijan Grand Prix2022,8,2022,Azerbaijan Grand Prix,2022-06-12 06:00:00,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,dev,2024-06-06
+1083,Azerbaijan Grand Prix2023,4,2023,Azerbaijan Grand Prix,2023-04-30 06:00:00,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,dev,2024-06-06
+1118,Azerbaijan Grand Prix2024,17,2024,Azerbaijan Grand Prix,2024-09-15 06:00:00,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,dev,2024-06-06
+126,British Grand Prix1964,5,1964,British Grand Prix,1964-07-11 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+145,British Grand Prix1966,4,1966,British Grand Prix,1966-07-16 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+168,British Grand Prix1968,7,1968,British Grand Prix,1968-07-20 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+191,British Grand Prix1970,7,1970,British Grand Prix,1970-07-18 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+215,British Grand Prix1972,7,1972,British Grand Prix,1972-07-15 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+245,British Grand Prix1974,10,1974,British Grand Prix,1974-07-20 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+273,British Grand Prix1976,9,1976,British Grand Prix,1976-07-18 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+307,British Grand Prix1978,10,1978,British Grand Prix,1978-07-16 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+336,British Grand Prix1980,8,1980,British Grand Prix,1980-07-13 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+367,British Grand Prix1982,10,1982,British Grand Prix,1982-07-18 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+387,European Grand Prix1983,14,1983,European Grand Prix,1983-09-25 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+398,British Grand Prix1984,10,1984,British Grand Prix,1984-07-22 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+418,European Grand Prix1985,14,1985,European Grand Prix,1985-10-06 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+429,British Grand Prix1986,9,1986,British Grand Prix,1986-07-13 06:00:00,Brands Hatch,Kent,UK,51.3569,0.263056,dev,2024-06-06
+856,Indian Grand Prix2011,17,2011,Indian Grand Prix,2011-10-30 06:00:00,Buddh International Circuit,Uttar Pradesh,India,28.3487,77.5331,dev,2024-06-06
+875,Indian Grand Prix2012,17,2012,Indian Grand Prix,2012-10-28 06:00:00,Buddh International Circuit,Uttar Pradesh,India,28.3487,77.5331,dev,2024-06-06
+894,Indian Grand Prix2013,16,2013,Indian Grand Prix,2013-10-27 06:00:00,Buddh International Circuit,Uttar Pradesh,India,28.3487,77.5331,dev,2024-06-06
+135,French Grand Prix1965,4,1965,French Grand Prix,1965-06-27 06:00:00,Charade Circuit,Clermont-Ferrand,France,45.7472,3.03889,dev,2024-06-06
+178,French Grand Prix1969,5,1969,French Grand Prix,1969-07-06 06:00:00,Charade Circuit,Clermont-Ferrand,France,45.7472,3.03889,dev,2024-06-06
+190,French Grand Prix1970,6,1970,French Grand Prix,1970-07-05 06:00:00,Charade Circuit,Clermont-Ferrand,France,45.7472,3.03889,dev,2024-06-06
+214,French Grand Prix1972,6,1972,French Grand Prix,1972-07-02 06:00:00,Charade Circuit,Clermont-Ferrand,France,45.7472,3.03889,dev,2024-06-06
+4,Swiss Grand Prix1950,4,1950,Swiss Grand Prix,1950-06-04 06:00:00,Circuit Bremgarten,Bern,Switzerland,46.9589,7.40194,dev,2024-06-06
+8,Swiss Grand Prix1951,1,1951,Swiss Grand Prix,1951-05-27 06:00:00,Circuit Bremgarten,Bern,Switzerland,46.9589,7.40194,dev,2024-06-06
+16,Swiss Grand Prix1952,1,1952,Swiss Grand Prix,1952-05-18 06:00:00,Circuit Bremgarten,Bern,Switzerland,46.9589,7.40194,dev,2024-06-06
+31,Swiss Grand Prix1953,8,1953,Swiss Grand Prix,1953-08-23 06:00:00,Circuit Bremgarten,Bern,Switzerland,46.9589,7.40194,dev,2024-06-06
+39,Swiss Grand Prix1954,7,1954,Swiss Grand Prix,1954-08-22 06:00:00,Circuit Bremgarten,Bern,Switzerland,46.9589,7.40194,dev,2024-06-06
+313,Canadian Grand Prix1978,16,1978,Canadian Grand Prix,1978-10-08 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+327,Canadian Grand Prix1979,14,1979,Canadian Grand Prix,1979-09-30 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+341,Canadian Grand Prix1980,13,1980,Canadian Grand Prix,1980-09-28 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+356,Canadian Grand Prix1981,14,1981,Canadian Grand Prix,1981-09-27 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+365,Canadian Grand Prix1982,8,1982,Canadian Grand Prix,1982-06-13 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+381,Canadian Grand Prix1983,8,1983,Canadian Grand Prix,1983-06-12 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+395,Canadian Grand Prix1984,7,1984,Canadian Grand Prix,1984-06-17 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+409,Canadian Grand Prix1985,5,1985,Canadian Grand Prix,1985-06-16 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+426,Canadian Grand Prix1986,6,1986,Canadian Grand Prix,1986-06-15 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+457,Canadian Grand Prix1988,5,1988,Canadian Grand Prix,1988-06-12 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+474,Canadian Grand Prix1989,6,1989,Canadian Grand Prix,1989-06-18 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+489,Canadian Grand Prix1990,5,1990,Canadian Grand Prix,1990-06-10 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+505,Canadian Grand Prix1991,5,1991,Canadian Grand Prix,1991-06-02 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+523,Canadian Grand Prix1992,7,1992,Canadian Grand Prix,1992-06-14 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+539,Canadian Grand Prix1993,7,1993,Canadian Grand Prix,1993-06-13 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+554,Canadian Grand Prix1994,6,1994,Canadian Grand Prix,1994-06-12 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+570,Canadian Grand Prix1995,6,1995,Canadian Grand Prix,1995-06-11 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+589,Canadian Grand Prix1996,8,1996,Canadian Grand Prix,1996-06-16 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+604,Canadian Grand Prix1997,7,1997,Canadian Grand Prix,1997-06-15 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+621,Canadian Grand Prix1998,7,1998,Canadian Grand Prix,1998-06-07 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+636,Canadian Grand Prix1999,6,1999,Canadian Grand Prix,1999-06-13 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+654,Canadian Grand Prix2000,8,2000,Canadian Grand Prix,2000-06-18 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+671,Canadian Grand Prix2001,8,2001,Canadian Grand Prix,2001-06-10 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+688,Canadian Grand Prix2002,8,2002,Canadian Grand Prix,2002-06-09 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+705,Canadian Grand Prix2003,8,2003,Canadian Grand Prix,2003-06-15 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+721,Canadian Grand Prix2004,8,2004,Canadian Grand Prix,2004-06-13 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+739,Canadian Grand Prix2005,8,2005,Canadian Grand Prix,2005-06-12 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+759,Canadian Grand Prix2006,9,2006,Canadian Grand Prix,2006-06-25 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+774,Canadian Grand Prix2007,6,2007,Canadian Grand Prix,2007-06-10 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+792,Canadian Grand Prix2008,7,2008,Canadian Grand Prix,2008-06-08 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+828,Canadian Grand Prix2010,8,2010,Canadian Grand Prix,2010-06-13 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+846,Canadian Grand Prix2011,7,2011,Canadian Grand Prix,2011-06-12 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+865,Canadian Grand Prix2012,7,2012,Canadian Grand Prix,2012-06-10 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+885,Canadian Grand Prix2013,7,2013,Canadian Grand Prix,2013-06-09 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+904,Canadian Grand Prix2014,7,2014,Canadian Grand Prix,2014-06-08 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+923,Canadian Grand Prix2015,7,2015,Canadian Grand Prix,2015-06-07 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+942,Canadian Grand Prix2016,7,2016,Canadian Grand Prix,2016-06-12 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+963,Canadian Grand Prix2017,7,2017,Canadian Grand Prix,2017-06-11 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+983,Canadian Grand Prix2018,7,2018,Canadian Grand Prix,2018-06-10 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+1004,Canadian Grand Prix2019,7,2019,Canadian Grand Prix,2019-06-09 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+1066,Canadian Grand Prix2022,9,2022,Canadian Grand Prix,2022-06-19 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+1087,Canadian Grand Prix2023,8,2023,Canadian Grand Prix,2023-06-18 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+1110,Canadian Grand Prix2024,9,2024,Canadian Grand Prix,2024-06-09 06:00:00,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,dev,2024-06-06
+171,Canadian Grand Prix1968,10,1968,Canadian Grand Prix,1968-09-22 06:00:00,Circuit Mont-Tremblant,Quebec,Canada,46.1877,-74.6099,dev,2024-06-06
+195,Canadian Grand Prix1970,11,1970,Canadian Grand Prix,1970-09-20 06:00:00,Circuit Mont-Tremblant,Quebec,Canada,46.1877,-74.6099,dev,2024-06-06
+22,Dutch Grand Prix1952,7,1952,Dutch Grand Prix,1952-08-17 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+26,Dutch Grand Prix1953,3,1953,Dutch Grand Prix,1953-06-07 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+46,Dutch Grand Prix1955,5,1955,Dutch Grand Prix,1955-06-19 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+67,Dutch Grand Prix1958,3,1958,Dutch Grand Prix,1958-05-26 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+78,Dutch Grand Prix1959,3,1959,Dutch Grand Prix,1959-05-31 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+88,Dutch Grand Prix1960,4,1960,Dutch Grand Prix,1960-06-06 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+96,Dutch Grand Prix1961,2,1961,Dutch Grand Prix,1961-05-22 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+103,Dutch Grand Prix1962,1,1962,Dutch Grand Prix,1962-05-20 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+114,Dutch Grand Prix1963,3,1963,Dutch Grand Prix,1963-06-23 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+123,Dutch Grand Prix1964,2,1964,Dutch Grand Prix,1964-05-24 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+137,Dutch Grand Prix1965,6,1965,Dutch Grand Prix,1965-07-18 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+146,Dutch Grand Prix1966,5,1966,Dutch Grand Prix,1966-07-24 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+153,Dutch Grand Prix1967,3,1967,Dutch Grand Prix,1967-06-04 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+166,Dutch Grand Prix1968,5,1968,Dutch Grand Prix,1968-06-23 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+177,Dutch Grand Prix1969,4,1969,Dutch Grand Prix,1969-06-21 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+189,Dutch Grand Prix1970,5,1970,Dutch Grand Prix,1970-06-21 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+201,Dutch Grand Prix1971,4,1971,Dutch Grand Prix,1971-06-20 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+230,Dutch Grand Prix1973,10,1973,Dutch Grand Prix,1973-07-29 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+243,Dutch Grand Prix1974,8,1974,Dutch Grand Prix,1974-06-23 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+258,Dutch Grand Prix1975,8,1975,Dutch Grand Prix,1975-06-22 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+276,Dutch Grand Prix1976,12,1976,Dutch Grand Prix,1976-08-29 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+293,Dutch Grand Prix1977,13,1977,Dutch Grand Prix,1977-08-28 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+310,Dutch Grand Prix1978,13,1978,Dutch Grand Prix,1978-08-27 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+325,Dutch Grand Prix1979,12,1979,Dutch Grand Prix,1979-08-26 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+339,Dutch Grand Prix1980,11,1980,Dutch Grand Prix,1980-08-31 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+354,Dutch Grand Prix1981,12,1981,Dutch Grand Prix,1981-08-30 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+366,Dutch Grand Prix1982,9,1982,Dutch Grand Prix,1982-07-03 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+385,Dutch Grand Prix1983,12,1983,Dutch Grand Prix,1983-08-28 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+401,Dutch Grand Prix1984,13,1984,Dutch Grand Prix,1984-08-26 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+415,Dutch Grand Prix1985,11,1985,Dutch Grand Prix,1985-08-25 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+1048,Dutch Grand Prix2021,13,2021,Dutch Grand Prix,2021-09-05 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+1072,Dutch Grand Prix2022,15,2022,Dutch Grand Prix,2022-09-04 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+1092,Dutch Grand Prix2023,13,2023,Dutch Grand Prix,2023-08-27 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+1116,Dutch Grand Prix2024,15,2024,Dutch Grand Prix,2024-08-25 06:00:00,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,dev,2024-06-06
+202,French Grand Prix1971,5,1971,French Grand Prix,1971-07-04 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+228,French Grand Prix1973,8,1973,French Grand Prix,1973-07-01 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+259,French Grand Prix1975,9,1975,French Grand Prix,1975-07-06 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+272,French Grand Prix1976,8,1976,French Grand Prix,1976-07-04 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+306,French Grand Prix1978,9,1978,French Grand Prix,1978-07-02 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+335,French Grand Prix1980,7,1980,French Grand Prix,1980-06-29 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+368,French Grand Prix1982,11,1982,French Grand Prix,1982-07-25 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+376,French Grand Prix1983,3,1983,French Grand Prix,1983-04-17 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+411,French Grand Prix1985,7,1985,French Grand Prix,1985-07-07 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+428,French Grand Prix1986,8,1986,French Grand Prix,1986-07-06 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+442,French Grand Prix1987,6,1987,French Grand Prix,1987-07-05 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+459,French Grand Prix1988,7,1988,French Grand Prix,1988-07-03 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+475,French Grand Prix1989,7,1989,French Grand Prix,1989-07-09 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+491,French Grand Prix1990,7,1990,French Grand Prix,1990-07-08 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+984,French Grand Prix2018,8,2018,French Grand Prix,2018-06-24 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+1005,French Grand Prix2019,8,2019,French Grand Prix,2019-06-23 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+1042,French Grand Prix2021,7,2021,French Grand Prix,2021-06-20 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+1069,French Grand Prix2022,12,2022,French Grand Prix,2022-07-24 06:00:00,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,dev,2024-06-06
+514,Spanish Grand Prix1991,14,1991,Spanish Grand Prix,1991-09-29 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+520,Spanish Grand Prix1992,4,1992,Spanish Grand Prix,1992-05-03 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+537,Spanish Grand Prix1993,5,1993,Spanish Grand Prix,1993-05-09 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+553,Spanish Grand Prix1994,5,1994,Spanish Grand Prix,1994-05-29 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+568,Spanish Grand Prix1995,4,1995,Spanish Grand Prix,1995-05-14 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+588,Spanish Grand Prix1996,7,1996,Spanish Grand Prix,1996-06-02 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+603,Spanish Grand Prix1997,6,1997,Spanish Grand Prix,1997-05-25 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+619,Spanish Grand Prix1998,5,1998,Spanish Grand Prix,1998-05-10 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+635,Spanish Grand Prix1999,5,1999,Spanish Grand Prix,1999-05-30 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+651,Spanish Grand Prix2000,5,2000,Spanish Grand Prix,2000-05-07 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+668,Spanish Grand Prix2001,5,2001,Spanish Grand Prix,2001-04-29 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+685,Spanish Grand Prix2002,5,2002,Spanish Grand Prix,2002-04-28 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+702,Spanish Grand Prix2003,5,2003,Spanish Grand Prix,2003-05-04 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+718,Spanish Grand Prix2004,5,2004,Spanish Grand Prix,2004-05-09 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+736,Spanish Grand Prix2005,5,2005,Spanish Grand Prix,2005-05-08 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+756,Spanish Grand Prix2006,6,2006,Spanish Grand Prix,2006-05-14 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+772,Spanish Grand Prix2007,4,2007,Spanish Grand Prix,2007-05-13 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+789,Spanish Grand Prix2008,4,2008,Spanish Grand Prix,2008-04-27 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+808,Spanish Grand Prix2009,5,2009,Spanish Grand Prix,2009-05-10 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+825,Spanish Grand Prix2010,5,2010,Spanish Grand Prix,2010-05-09 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+844,Spanish Grand Prix2011,5,2011,Spanish Grand Prix,2011-05-22 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+863,Spanish Grand Prix2012,5,2012,Spanish Grand Prix,2012-05-13 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+883,Spanish Grand Prix2013,5,2013,Spanish Grand Prix,2013-05-12 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+902,Spanish Grand Prix2014,5,2014,Spanish Grand Prix,2014-05-11 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+921,Spanish Grand Prix2015,5,2015,Spanish Grand Prix,2015-05-10 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+940,Spanish Grand Prix2016,5,2016,Spanish Grand Prix,2016-05-15 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+961,Spanish Grand Prix2017,5,2017,Spanish Grand Prix,2017-05-14 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+981,Spanish Grand Prix2018,5,2018,Spanish Grand Prix,2018-05-13 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+1002,Spanish Grand Prix2019,5,2019,Spanish Grand Prix,2019-05-12 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+1024,Spanish Grand Prix2020,6,2020,Spanish Grand Prix,2020-08-16 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+1039,Spanish Grand Prix2021,4,2021,Spanish Grand Prix,2021-05-09 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+1063,Spanish Grand Prix2022,6,2022,Spanish Grand Prix,2022-05-22 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+1086,Spanish Grand Prix2023,7,2023,Spanish Grand Prix,2023-06-04 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+1111,Spanish Grand Prix2024,10,2024,Spanish Grand Prix,2024-06-23 06:00:00,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,dev,2024-06-06
+2,Monaco Grand Prix1950,2,1950,Monaco Grand Prix,1950-05-21 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+43,Monaco Grand Prix1955,2,1955,Monaco Grand Prix,1955-05-22 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+50,Monaco Grand Prix1956,2,1956,Monaco Grand Prix,1956-05-13 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+58,Monaco Grand Prix1957,2,1957,Monaco Grand Prix,1957-05-19 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+66,Monaco Grand Prix1958,2,1958,Monaco Grand Prix,1958-05-18 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+76,Monaco Grand Prix1959,1,1959,Monaco Grand Prix,1959-05-10 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+86,Monaco Grand Prix1960,2,1960,Monaco Grand Prix,1960-05-29 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+95,Monaco Grand Prix1961,1,1961,Monaco Grand Prix,1961-05-14 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+104,Monaco Grand Prix1962,2,1962,Monaco Grand Prix,1962-06-03 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+112,Monaco Grand Prix1963,1,1963,Monaco Grand Prix,1963-05-26 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+122,Monaco Grand Prix1964,1,1964,Monaco Grand Prix,1964-05-10 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+133,Monaco Grand Prix1965,2,1965,Monaco Grand Prix,1965-05-30 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+142,Monaco Grand Prix1966,1,1966,Monaco Grand Prix,1966-05-22 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+152,Monaco Grand Prix1967,2,1967,Monaco Grand Prix,1967-05-07 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+164,Monaco Grand Prix1968,3,1968,Monaco Grand Prix,1968-05-26 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+176,Monaco Grand Prix1969,3,1969,Monaco Grand Prix,1969-05-18 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+187,Monaco Grand Prix1970,3,1970,Monaco Grand Prix,1970-05-10 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+200,Monaco Grand Prix1971,3,1971,Monaco Grand Prix,1971-05-23 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+212,Monaco Grand Prix1972,4,1972,Monaco Grand Prix,1972-05-14 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+226,Monaco Grand Prix1973,6,1973,Monaco Grand Prix,1973-06-03 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+241,Monaco Grand Prix1974,6,1974,Monaco Grand Prix,1974-05-26 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+255,Monaco Grand Prix1975,5,1975,Monaco Grand Prix,1975-05-11 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+270,Monaco Grand Prix1976,6,1976,Monaco Grand Prix,1976-05-30 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+286,Monaco Grand Prix1977,6,1977,Monaco Grand Prix,1977-05-22 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+302,Monaco Grand Prix1978,5,1978,Monaco Grand Prix,1978-05-07 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+320,Monaco Grand Prix1979,7,1979,Monaco Grand Prix,1979-05-27 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+334,Monaco Grand Prix1980,6,1980,Monaco Grand Prix,1980-05-18 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+348,Monaco Grand Prix1981,6,1981,Monaco Grand Prix,1981-05-31 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+363,Monaco Grand Prix1982,6,1982,Monaco Grand Prix,1982-05-23 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+378,Monaco Grand Prix1983,5,1983,Monaco Grand Prix,1983-05-15 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+394,Monaco Grand Prix1984,6,1984,Monaco Grand Prix,1984-06-03 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+408,Monaco Grand Prix1985,4,1985,Monaco Grand Prix,1985-05-19 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+424,Monaco Grand Prix1986,4,1986,Monaco Grand Prix,1986-05-11 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+440,Monaco Grand Prix1987,4,1987,Monaco Grand Prix,1987-05-31 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+455,Monaco Grand Prix1988,3,1988,Monaco Grand Prix,1988-05-15 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+471,Monaco Grand Prix1989,3,1989,Monaco Grand Prix,1989-05-07 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+488,Monaco Grand Prix1990,4,1990,Monaco Grand Prix,1990-05-27 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+504,Monaco Grand Prix1991,4,1991,Monaco Grand Prix,1991-05-12 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+522,Monaco Grand Prix1992,6,1992,Monaco Grand Prix,1992-05-31 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+538,Monaco Grand Prix1993,6,1993,Monaco Grand Prix,1993-05-23 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+552,Monaco Grand Prix1994,4,1994,Monaco Grand Prix,1994-05-15 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+569,Monaco Grand Prix1995,5,1995,Monaco Grand Prix,1995-05-28 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+587,Monaco Grand Prix1996,6,1996,Monaco Grand Prix,1996-05-19 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+602,Monaco Grand Prix1997,5,1997,Monaco Grand Prix,1997-05-11 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+620,Monaco Grand Prix1998,6,1998,Monaco Grand Prix,1998-05-24 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+634,Monaco Grand Prix1999,4,1999,Monaco Grand Prix,1999-05-16 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+653,Monaco Grand Prix2000,7,2000,Monaco Grand Prix,2000-06-04 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+670,Monaco Grand Prix2001,7,2001,Monaco Grand Prix,2001-05-27 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+687,Monaco Grand Prix2002,7,2002,Monaco Grand Prix,2002-05-26 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+704,Monaco Grand Prix2003,7,2003,Monaco Grand Prix,2003-06-01 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+719,Monaco Grand Prix2004,6,2004,Monaco Grand Prix,2004-05-23 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+737,Monaco Grand Prix2005,6,2005,Monaco Grand Prix,2005-05-22 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+757,Monaco Grand Prix2006,7,2006,Monaco Grand Prix,2006-05-28 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+773,Monaco Grand Prix2007,5,2007,Monaco Grand Prix,2007-05-27 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+791,Monaco Grand Prix2008,6,2008,Monaco Grand Prix,2008-05-25 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+809,Monaco Grand Prix2009,6,2009,Monaco Grand Prix,2009-05-24 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+826,Monaco Grand Prix2010,6,2010,Monaco Grand Prix,2010-05-16 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+845,Monaco Grand Prix2011,6,2011,Monaco Grand Prix,2011-05-29 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+864,Monaco Grand Prix2012,6,2012,Monaco Grand Prix,2012-05-27 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+884,Monaco Grand Prix2013,6,2013,Monaco Grand Prix,2013-05-26 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+903,Monaco Grand Prix2014,6,2014,Monaco Grand Prix,2014-05-25 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+922,Monaco Grand Prix2015,6,2015,Monaco Grand Prix,2015-05-24 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+941,Monaco Grand Prix2016,6,2016,Monaco Grand Prix,2016-05-29 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+962,Monaco Grand Prix2017,6,2017,Monaco Grand Prix,2017-05-28 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+982,Monaco Grand Prix2018,6,2018,Monaco Grand Prix,2018-05-27 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+1003,Monaco Grand Prix2019,6,2019,Monaco Grand Prix,2019-05-26 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+1040,Monaco Grand Prix2021,5,2021,Monaco Grand Prix,2021-05-23 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+1064,Monaco Grand Prix2022,7,2022,Monaco Grand Prix,2022-05-29 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+1085,Monaco Grand Prix2023,6,2023,Monaco Grand Prix,2023-05-28 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+1109,Monaco Grand Prix2024,8,2024,Monaco Grand Prix,2024-05-26 06:00:00,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,dev,2024-06-06
+507,French Grand Prix1991,7,1991,French Grand Prix,1991-07-07 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+524,French Grand Prix1992,8,1992,French Grand Prix,1992-07-05 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+540,French Grand Prix1993,8,1993,French Grand Prix,1993-07-04 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+555,French Grand Prix1994,7,1994,French Grand Prix,1994-07-03 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+571,French Grand Prix1995,7,1995,French Grand Prix,1995-07-02 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+590,French Grand Prix1996,9,1996,French Grand Prix,1996-06-30 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+605,French Grand Prix1997,8,1997,French Grand Prix,1997-06-29 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+622,French Grand Prix1998,8,1998,French Grand Prix,1998-06-28 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+637,French Grand Prix1999,7,1999,French Grand Prix,1999-06-27 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+655,French Grand Prix2000,9,2000,French Grand Prix,2000-07-02 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+673,French Grand Prix2001,10,2001,French Grand Prix,2001-07-01 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+691,French Grand Prix2002,11,2002,French Grand Prix,2002-07-21 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+707,French Grand Prix2003,10,2003,French Grand Prix,2003-07-06 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+723,French Grand Prix2004,10,2004,French Grand Prix,2004-07-04 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+741,French Grand Prix2005,10,2005,French Grand Prix,2005-07-03 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+761,French Grand Prix2006,11,2006,French Grand Prix,2006-07-16 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+776,French Grand Prix2007,8,2007,French Grand Prix,2007-07-01 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+793,French Grand Prix2008,8,2008,French Grand Prix,2008-06-22 06:00:00,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,dev,2024-06-06
+15,Spanish Grand Prix1951,8,1951,Spanish Grand Prix,1951-10-28 06:00:00,Circuit de Pedralbes,Barcelona,Spain,41.3903,2.11667,dev,2024-06-06
+41,Spanish Grand Prix1954,9,1954,Spanish Grand Prix,1954-10-24 06:00:00,Circuit de Pedralbes,Barcelona,Spain,41.3903,2.11667,dev,2024-06-06
+5,Belgian Grand Prix1950,5,1950,Belgian Grand Prix,1950-06-18 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+10,Belgian Grand Prix1951,3,1951,Belgian Grand Prix,1951-06-17 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+18,Belgian Grand Prix1952,3,1952,Belgian Grand Prix,1952-06-22 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+27,Belgian Grand Prix1953,4,1953,Belgian Grand Prix,1953-06-21 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+35,Belgian Grand Prix1954,3,1954,Belgian Grand Prix,1954-06-20 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+45,Belgian Grand Prix1955,4,1955,Belgian Grand Prix,1955-06-05 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+52,Belgian Grand Prix1956,4,1956,Belgian Grand Prix,1956-06-03 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+69,Belgian Grand Prix1958,5,1958,Belgian Grand Prix,1958-06-15 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+89,Belgian Grand Prix1960,5,1960,Belgian Grand Prix,1960-06-19 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+97,Belgian Grand Prix1961,3,1961,Belgian Grand Prix,1961-06-18 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+105,Belgian Grand Prix1962,3,1962,Belgian Grand Prix,1962-06-17 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+113,Belgian Grand Prix1963,2,1963,Belgian Grand Prix,1963-06-09 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+124,Belgian Grand Prix1964,3,1964,Belgian Grand Prix,1964-06-14 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+134,Belgian Grand Prix1965,3,1965,Belgian Grand Prix,1965-06-13 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+143,Belgian Grand Prix1966,2,1966,Belgian Grand Prix,1966-06-12 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+154,Belgian Grand Prix1967,4,1967,Belgian Grand Prix,1967-06-18 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+165,Belgian Grand Prix1968,4,1968,Belgian Grand Prix,1968-06-09 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+188,Belgian Grand Prix1970,4,1970,Belgian Grand Prix,1970-06-07 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+379,Belgian Grand Prix1983,6,1983,Belgian Grand Prix,1983-05-22 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+417,Belgian Grand Prix1985,13,1985,Belgian Grand Prix,1985-09-15 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+425,Belgian Grand Prix1986,5,1986,Belgian Grand Prix,1986-05-25 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+439,Belgian Grand Prix1987,3,1987,Belgian Grand Prix,1987-05-17 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+463,Belgian Grand Prix1988,11,1988,Belgian Grand Prix,1988-08-28 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+479,Belgian Grand Prix1989,11,1989,Belgian Grand Prix,1989-08-27 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+495,Belgian Grand Prix1990,11,1990,Belgian Grand Prix,1990-08-26 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+511,Belgian Grand Prix1991,11,1991,Belgian Grand Prix,1991-08-25 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+528,Belgian Grand Prix1992,12,1992,Belgian Grand Prix,1992-08-30 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+544,Belgian Grand Prix1993,12,1993,Belgian Grand Prix,1993-08-29 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+559,Belgian Grand Prix1994,11,1994,Belgian Grand Prix,1994-08-28 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+575,Belgian Grand Prix1995,11,1995,Belgian Grand Prix,1995-08-27 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+594,Belgian Grand Prix1996,13,1996,Belgian Grand Prix,1996-08-25 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+609,Belgian Grand Prix1997,12,1997,Belgian Grand Prix,1997-08-24 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+627,Belgian Grand Prix1998,13,1998,Belgian Grand Prix,1998-08-30 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+642,Belgian Grand Prix1999,12,1999,Belgian Grand Prix,1999-08-29 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+659,Belgian Grand Prix2000,13,2000,Belgian Grand Prix,2000-08-27 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+677,Belgian Grand Prix2001,14,2001,Belgian Grand Prix,2001-09-02 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+694,Belgian Grand Prix2002,14,2002,Belgian Grand Prix,2002-09-01 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+727,Belgian Grand Prix2004,14,2004,Belgian Grand Prix,2004-08-29 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+747,Belgian Grand Prix2005,16,2005,Belgian Grand Prix,2005-09-11 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+782,Belgian Grand Prix2007,14,2007,Belgian Grand Prix,2007-09-16 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+798,Belgian Grand Prix2008,13,2008,Belgian Grand Prix,2008-09-07 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+815,Belgian Grand Prix2009,12,2009,Belgian Grand Prix,2009-08-30 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+833,Belgian Grand Prix2010,13,2010,Belgian Grand Prix,2010-08-29 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+851,Belgian Grand Prix2011,12,2011,Belgian Grand Prix,2011-08-28 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+870,Belgian Grand Prix2012,12,2012,Belgian Grand Prix,2012-09-02 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+889,Belgian Grand Prix2013,11,2013,Belgian Grand Prix,2013-08-25 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+909,Belgian Grand Prix2014,12,2014,Belgian Grand Prix,2014-08-24 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+927,Belgian Grand Prix2015,11,2015,Belgian Grand Prix,2015-08-23 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+948,Belgian Grand Prix2016,13,2016,Belgian Grand Prix,2016-08-28 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+968,Belgian Grand Prix2017,12,2017,Belgian Grand Prix,2017-08-27 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+989,Belgian Grand Prix2018,13,2018,Belgian Grand Prix,2018-08-26 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+1010,Belgian Grand Prix2019,13,2019,Belgian Grand Prix,2019-09-01 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+1025,Belgian Grand Prix2020,7,2020,Belgian Grand Prix,2020-08-30 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+1047,Belgian Grand Prix2021,12,2021,Belgian Grand Prix,2021-08-29 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+1071,Belgian Grand Prix2022,14,2022,Belgian Grand Prix,2022-08-28 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+1091,Belgian Grand Prix2023,12,2023,Belgian Grand Prix,2023-07-30 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+1115,Belgian Grand Prix2024,14,2024,Belgian Grand Prix,2024-07-28 06:00:00,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,dev,2024-06-06
+877,United States Grand Prix2012,19,2012,United States Grand Prix,2012-11-18 06:00:00,Circuit of the Americas,Austin,USA,30.1328,-97.6411,dev,2024-06-06
+896,United States Grand Prix2013,18,2013,United States Grand Prix,2013-11-17 06:00:00,Circuit of the Americas,Austin,USA,30.1328,-97.6411,dev,2024-06-06
+914,United States Grand Prix2014,17,2014,United States Grand Prix,2014-11-02 06:00:00,Circuit of the Americas,Austin,USA,30.1328,-97.6411,dev,2024-06-06
+932,United States Grand Prix2015,16,2015,United States Grand Prix,2015-10-25 06:00:00,Circuit of the Americas,Austin,USA,30.1328,-97.6411,dev,2024-06-06
+953,United States Grand Prix2016,18,2016,United States Grand Prix,2016-10-23 06:00:00,Circuit of the Americas,Austin,USA,30.1328,-97.6411,dev,2024-06-06
+973,United States Grand Prix2017,17,2017,United States Grand Prix,2017-10-22 06:00:00,Circuit of the Americas,Austin,USA,30.1328,-97.6411,dev,2024-06-06
+994,United States Grand Prix2018,18,2018,United States Grand Prix,2018-10-21 06:00:00,Circuit of the Americas,Austin,USA,30.1328,-97.6411,dev,2024-06-06
+1016,United States Grand Prix2019,19,2019,United States Grand Prix,2019-11-03 06:00:00,Circuit of the Americas,Austin,USA,30.1328,-97.6411,dev,2024-06-06
+1052,United States Grand Prix2021,17,2021,United States Grand Prix,2021-10-24 06:00:00,Circuit of the Americas,Austin,USA,30.1328,-97.6411,dev,2024-06-06
+1076,United States Grand Prix2022,19,2022,United States Grand Prix,2022-10-23 06:00:00,Circuit of the Americas,Austin,USA,30.1328,-97.6411,dev,2024-06-06
+1097,United States Grand Prix2023,18,2023,United States Grand Prix,2023-10-22 06:00:00,Circuit of the Americas,Austin,USA,30.1328,-97.6411,dev,2024-06-06
+1120,United States Grand Prix2024,19,2024,United States Grand Prix,2024-10-20 06:00:00,Circuit of the Americas,Austin,USA,30.1328,-97.6411,dev,2024-06-06
+73,Portuguese Grand Prix1958,9,1958,Portuguese Grand Prix,1958-08-24 06:00:00,Circuito da Boavista,Oporto,Portugal,41.1705,-8.67325,dev,2024-06-06
+92,Portuguese Grand Prix1960,8,1960,Portuguese Grand Prix,1960-08-14 06:00:00,Circuito da Boavista,Oporto,Portugal,41.1705,-8.67325,dev,2024-06-06
+422,Spanish Grand Prix1986,2,1986,Spanish Grand Prix,1986-04-13 06:00:00,Circuito de Jerez,Jerez de la Frontera,Spain,36.7083,-6.03417,dev,2024-06-06
+449,Spanish Grand Prix1987,13,1987,Spanish Grand Prix,1987-09-27 06:00:00,Circuito de Jerez,Jerez de la Frontera,Spain,36.7083,-6.03417,dev,2024-06-06
+466,Spanish Grand Prix1988,14,1988,Spanish Grand Prix,1988-10-02 06:00:00,Circuito de Jerez,Jerez de la Frontera,Spain,36.7083,-6.03417,dev,2024-06-06
+482,Spanish Grand Prix1989,14,1989,Spanish Grand Prix,1989-10-01 06:00:00,Circuito de Jerez,Jerez de la Frontera,Spain,36.7083,-6.03417,dev,2024-06-06
+498,Spanish Grand Prix1990,14,1990,Spanish Grand Prix,1990-09-30 06:00:00,Circuito de Jerez,Jerez de la Frontera,Spain,36.7083,-6.03417,dev,2024-06-06
+562,European Grand Prix1994,14,1994,European Grand Prix,1994-10-16 06:00:00,Circuito de Jerez,Jerez de la Frontera,Spain,36.7083,-6.03417,dev,2024-06-06
+614,European Grand Prix1997,17,1997,European Grand Prix,1997-10-26 06:00:00,Circuito de Jerez,Jerez de la Frontera,Spain,36.7083,-6.03417,dev,2024-06-06
+364,Detroit Grand Prix1982,7,1982,Detroit Grand Prix,1982-06-06 06:00:00,Detroit Street Circuit,Detroit,USA,42.3298,-83.0401,dev,2024-06-06
+380,Detroit Grand Prix1983,7,1983,Detroit Grand Prix,1983-06-05 06:00:00,Detroit Street Circuit,Detroit,USA,42.3298,-83.0401,dev,2024-06-06
+396,Detroit Grand Prix1984,8,1984,Detroit Grand Prix,1984-06-24 06:00:00,Detroit Street Circuit,Detroit,USA,42.3298,-83.0401,dev,2024-06-06
+410,Detroit Grand Prix1985,6,1985,Detroit Grand Prix,1985-06-23 06:00:00,Detroit Street Circuit,Detroit,USA,42.3298,-83.0401,dev,2024-06-06
+427,Detroit Grand Prix1986,7,1986,Detroit Grand Prix,1986-06-22 06:00:00,Detroit Street Circuit,Detroit,USA,42.3298,-83.0401,dev,2024-06-06
+441,Detroit Grand Prix1987,5,1987,Detroit Grand Prix,1987-06-21 06:00:00,Detroit Street Circuit,Detroit,USA,42.3298,-83.0401,dev,2024-06-06
+458,Detroit Grand Prix1988,6,1988,Detroit Grand Prix,1988-06-19 06:00:00,Detroit Street Circuit,Detroit,USA,42.3298,-83.0401,dev,2024-06-06
+244,French Grand Prix1974,9,1974,French Grand Prix,1974-07-07 06:00:00,Dijon-Prenois,Dijon,France,47.3625,4.89913,dev,2024-06-06
+289,French Grand Prix1977,9,1977,French Grand Prix,1977-07-03 06:00:00,Dijon-Prenois,Dijon,France,47.3625,4.89913,dev,2024-06-06
+321,French Grand Prix1979,8,1979,French Grand Prix,1979-07-01 06:00:00,Dijon-Prenois,Dijon,France,47.3625,4.89913,dev,2024-06-06
+350,French Grand Prix1981,8,1981,French Grand Prix,1981-07-05 06:00:00,Dijon-Prenois,Dijon,France,47.3625,4.89913,dev,2024-06-06
+371,Swiss Grand Prix1982,14,1982,Swiss Grand Prix,1982-08-29 06:00:00,Dijon-Prenois,Dijon,France,47.3625,4.89913,dev,2024-06-06
+393,French Grand Prix1984,5,1984,French Grand Prix,1984-05-20 06:00:00,Dijon-Prenois,Dijon,France,47.3625,4.89913,dev,2024-06-06
+535,European Grand Prix1993,3,1993,European Grand Prix,1993-04-11 06:00:00,Donington Park,Castle Donington,UK,52.8306,-1.37528,dev,2024-06-06
+397,Dallas Grand Prix1984,9,1984,Dallas Grand Prix,1984-07-08 06:00:00,Fair Park,Dallas,USA,32.7774,-96.7587,dev,2024-06-06
+280,Japanese Grand Prix1976,16,1976,Japanese Grand Prix,1976-10-24 06:00:00,Fuji Speedway,Oyama,Japan,35.3717,138.927,dev,2024-06-06
+297,Japanese Grand Prix1977,17,1977,Japanese Grand Prix,1977-10-23 06:00:00,Fuji Speedway,Oyama,Japan,35.3717,138.927,dev,2024-06-06
+783,Japanese Grand Prix2007,15,2007,Japanese Grand Prix,2007-09-30 06:00:00,Fuji Speedway,Oyama,Japan,35.3717,138.927,dev,2024-06-06
+801,Japanese Grand Prix2008,16,2008,Japanese Grand Prix,2008-10-12 06:00:00,Fuji Speedway,Oyama,Japan,35.3717,138.927,dev,2024-06-06
+192,German Grand Prix1970,8,1970,German Grand Prix,1970-08-02 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+291,German Grand Prix1977,11,1977,German Grand Prix,1977-07-31 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+308,German Grand Prix1978,11,1978,German Grand Prix,1978-07-30 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+323,German Grand Prix1979,10,1979,German Grand Prix,1979-07-29 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+337,German Grand Prix1980,9,1980,German Grand Prix,1980-08-10 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+352,German Grand Prix1981,10,1981,German Grand Prix,1981-08-02 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+369,German Grand Prix1982,12,1982,German Grand Prix,1982-08-08 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+383,German Grand Prix1983,10,1983,German Grand Prix,1983-08-07 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+399,German Grand Prix1984,11,1984,German Grand Prix,1984-08-05 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+430,German Grand Prix1986,10,1986,German Grand Prix,1986-07-27 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+444,German Grand Prix1987,8,1987,German Grand Prix,1987-07-26 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+461,German Grand Prix1988,9,1988,German Grand Prix,1988-07-24 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+477,German Grand Prix1989,9,1989,German Grand Prix,1989-07-30 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+493,German Grand Prix1990,9,1990,German Grand Prix,1990-07-29 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+509,German Grand Prix1991,9,1991,German Grand Prix,1991-07-28 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+526,German Grand Prix1992,10,1992,German Grand Prix,1992-07-26 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+542,German Grand Prix1993,10,1993,German Grand Prix,1993-07-25 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+557,German Grand Prix1994,9,1994,German Grand Prix,1994-07-31 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+573,German Grand Prix1995,9,1995,German Grand Prix,1995-07-30 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+592,German Grand Prix1996,11,1996,German Grand Prix,1996-07-28 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+607,German Grand Prix1997,10,1997,German Grand Prix,1997-07-27 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+625,German Grand Prix1998,11,1998,German Grand Prix,1998-08-02 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+640,German Grand Prix1999,10,1999,German Grand Prix,1999-08-01 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+657,German Grand Prix2000,11,2000,German Grand Prix,2000-07-30 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+675,German Grand Prix2001,12,2001,German Grand Prix,2001-07-29 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+692,German Grand Prix2002,12,2002,German Grand Prix,2002-07-28 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+709,German Grand Prix2003,12,2003,German Grand Prix,2003-08-03 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+725,German Grand Prix2004,12,2004,German Grand Prix,2004-07-25 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+743,German Grand Prix2005,12,2005,German Grand Prix,2005-07-24 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+762,German Grand Prix2006,12,2006,German Grand Prix,2006-07-30 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+795,German Grand Prix2008,10,2008,German Grand Prix,2008-07-20 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+831,German Grand Prix2010,11,2010,German Grand Prix,2010-07-25 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+868,German Grand Prix2012,10,2012,German Grand Prix,2012-07-22 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+907,German Grand Prix2014,10,2014,German Grand Prix,2014-07-20 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+947,German Grand Prix2016,12,2016,German Grand Prix,2016-07-31 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+987,German Grand Prix2018,11,2018,German Grand Prix,2018-07-22 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+1008,German Grand Prix2019,11,2019,German Grand Prix,2019-07-28 06:00:00,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,dev,2024-06-06
+431,Hungarian Grand Prix1986,11,1986,Hungarian Grand Prix,1986-08-10 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+445,Hungarian Grand Prix1987,9,1987,Hungarian Grand Prix,1987-08-09 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+462,Hungarian Grand Prix1988,10,1988,Hungarian Grand Prix,1988-08-07 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+478,Hungarian Grand Prix1989,10,1989,Hungarian Grand Prix,1989-08-13 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+494,Hungarian Grand Prix1990,10,1990,Hungarian Grand Prix,1990-08-12 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+510,Hungarian Grand Prix1991,10,1991,Hungarian Grand Prix,1991-08-11 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+527,Hungarian Grand Prix1992,11,1992,Hungarian Grand Prix,1992-08-16 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+543,Hungarian Grand Prix1993,11,1993,Hungarian Grand Prix,1993-08-15 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+558,Hungarian Grand Prix1994,10,1994,Hungarian Grand Prix,1994-08-14 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+574,Hungarian Grand Prix1995,10,1995,Hungarian Grand Prix,1995-08-13 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+593,Hungarian Grand Prix1996,12,1996,Hungarian Grand Prix,1996-08-11 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+608,Hungarian Grand Prix1997,11,1997,Hungarian Grand Prix,1997-08-10 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+626,Hungarian Grand Prix1998,12,1998,Hungarian Grand Prix,1998-08-16 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+641,Hungarian Grand Prix1999,11,1999,Hungarian Grand Prix,1999-08-15 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+658,Hungarian Grand Prix2000,12,2000,Hungarian Grand Prix,2000-08-13 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+676,Hungarian Grand Prix2001,13,2001,Hungarian Grand Prix,2001-08-19 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+693,Hungarian Grand Prix2002,13,2002,Hungarian Grand Prix,2002-08-18 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+710,Hungarian Grand Prix2003,13,2003,Hungarian Grand Prix,2003-08-24 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+726,Hungarian Grand Prix2004,13,2004,Hungarian Grand Prix,2004-08-15 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+744,Hungarian Grand Prix2005,13,2005,Hungarian Grand Prix,2005-07-31 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+763,Hungarian Grand Prix2006,13,2006,Hungarian Grand Prix,2006-08-06 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+779,Hungarian Grand Prix2007,11,2007,Hungarian Grand Prix,2007-08-05 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+796,Hungarian Grand Prix2008,11,2008,Hungarian Grand Prix,2008-08-03 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+813,Hungarian Grand Prix2009,10,2009,Hungarian Grand Prix,2009-07-26 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+832,Hungarian Grand Prix2010,12,2010,Hungarian Grand Prix,2010-08-01 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+850,Hungarian Grand Prix2011,11,2011,Hungarian Grand Prix,2011-07-31 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+869,Hungarian Grand Prix2012,11,2012,Hungarian Grand Prix,2012-07-29 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+888,Hungarian Grand Prix2013,10,2013,Hungarian Grand Prix,2013-07-28 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+908,Hungarian Grand Prix2014,11,2014,Hungarian Grand Prix,2014-07-27 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+926,Hungarian Grand Prix2015,10,2015,Hungarian Grand Prix,2015-07-26 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+946,Hungarian Grand Prix2016,11,2016,Hungarian Grand Prix,2016-07-24 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+967,Hungarian Grand Prix2017,11,2017,Hungarian Grand Prix,2017-07-30 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+988,Hungarian Grand Prix2018,12,2018,Hungarian Grand Prix,2018-07-29 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+1009,Hungarian Grand Prix2019,12,2019,Hungarian Grand Prix,2019-08-04 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+1021,Hungarian Grand Prix2020,3,2020,Hungarian Grand Prix,2020-07-19 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+1046,Hungarian Grand Prix2021,11,2021,Hungarian Grand Prix,2021-08-01 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+1070,Hungarian Grand Prix2022,13,2022,Hungarian Grand Prix,2022-07-31 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+1090,Hungarian Grand Prix2023,11,2023,Hungarian Grand Prix,2023-07-23 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+1114,Hungarian Grand Prix2024,13,2024,Hungarian Grand Prix,2024-07-21 06:00:00,Hungaroring,Budapest,Hungary,47.5789,19.2486,dev,2024-06-06
+3,Indianapolis 5001950,3,1950,Indianapolis 500,1950-05-30 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+9,Indianapolis 5001951,2,1951,Indianapolis 500,1951-05-30 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+17,Indianapolis 5001952,2,1952,Indianapolis 500,1952-05-30 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+25,Indianapolis 5001953,2,1953,Indianapolis 500,1953-05-30 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+34,Indianapolis 5001954,2,1954,Indianapolis 500,1954-05-31 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+44,Indianapolis 5001955,3,1955,Indianapolis 500,1955-05-30 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+51,Indianapolis 5001956,3,1956,Indianapolis 500,1956-05-30 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+59,Indianapolis 5001957,3,1957,Indianapolis 500,1957-05-30 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+68,Indianapolis 5001958,4,1958,Indianapolis 500,1958-05-30 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+77,Indianapolis 5001959,2,1959,Indianapolis 500,1959-05-30 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+87,Indianapolis 5001960,3,1960,Indianapolis 500,1960-05-30 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+661,United States Grand Prix2000,15,2000,United States Grand Prix,2000-09-24 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+679,United States Grand Prix2001,16,2001,United States Grand Prix,2001-09-30 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+696,United States Grand Prix2002,16,2002,United States Grand Prix,2002-09-29 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+712,United States Grand Prix2003,15,2003,United States Grand Prix,2003-09-28 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+722,United States Grand Prix2004,9,2004,United States Grand Prix,2004-06-20 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+740,United States Grand Prix2005,9,2005,United States Grand Prix,2005-06-19 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+760,United States Grand Prix2006,10,2006,United States Grand Prix,2006-07-02 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+775,United States Grand Prix2007,7,2007,United States Grand Prix,2007-06-17 06:00:00,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,dev,2024-06-06
+745,Turkish Grand Prix2005,14,2005,Turkish Grand Prix,2005-08-21 06:00:00,Istanbul Park,Istanbul,Turkey,40.9517,29.405,dev,2024-06-06
+764,Turkish Grand Prix2006,14,2006,Turkish Grand Prix,2006-08-27 06:00:00,Istanbul Park,Istanbul,Turkey,40.9517,29.405,dev,2024-06-06
+780,Turkish Grand Prix2007,12,2007,Turkish Grand Prix,2007-08-26 06:00:00,Istanbul Park,Istanbul,Turkey,40.9517,29.405,dev,2024-06-06
+790,Turkish Grand Prix2008,5,2008,Turkish Grand Prix,2008-05-11 06:00:00,Istanbul Park,Istanbul,Turkey,40.9517,29.405,dev,2024-06-06
+810,Turkish Grand Prix2009,7,2009,Turkish Grand Prix,2009-06-07 06:00:00,Istanbul Park,Istanbul,Turkey,40.9517,29.405,dev,2024-06-06
+827,Turkish Grand Prix2010,7,2010,Turkish Grand Prix,2010-05-30 06:00:00,Istanbul Park,Istanbul,Turkey,40.9517,29.405,dev,2024-06-06
+843,Turkish Grand Prix2011,4,2011,Turkish Grand Prix,2011-05-08 06:00:00,Istanbul Park,Istanbul,Turkey,40.9517,29.405,dev,2024-06-06
+1032,Turkish Grand Prix2020,14,2020,Turkish Grand Prix,2020-11-15 06:00:00,Istanbul Park,Istanbul,Turkey,40.9517,29.405,dev,2024-06-06
+1051,Turkish Grand Prix2021,16,2021,Turkish Grand Prix,2021-10-10 06:00:00,Istanbul Park,Istanbul,Turkey,40.9517,29.405,dev,2024-06-06
+163,Spanish Grand Prix1968,2,1968,Spanish Grand Prix,1968-05-12 06:00:00,Jarama,Madrid,Spain,40.6171,-3.58558,dev,2024-06-06
+186,Spanish Grand Prix1970,2,1970,Spanish Grand Prix,1970-04-19 06:00:00,Jarama,Madrid,Spain,40.6171,-3.58558,dev,2024-06-06
+211,Spanish Grand Prix1972,3,1972,Spanish Grand Prix,1972-05-01 06:00:00,Jarama,Madrid,Spain,40.6171,-3.58558,dev,2024-06-06
+239,Spanish Grand Prix1974,4,1974,Spanish Grand Prix,1974-04-28 06:00:00,Jarama,Madrid,Spain,40.6171,-3.58558,dev,2024-06-06
+268,Spanish Grand Prix1976,4,1976,Spanish Grand Prix,1976-05-02 06:00:00,Jarama,Madrid,Spain,40.6171,-3.58558,dev,2024-06-06
+285,Spanish Grand Prix1977,5,1977,Spanish Grand Prix,1977-05-08 06:00:00,Jarama,Madrid,Spain,40.6171,-3.58558,dev,2024-06-06
+304,Spanish Grand Prix1978,7,1978,Spanish Grand Prix,1978-06-04 06:00:00,Jarama,Madrid,Spain,40.6171,-3.58558,dev,2024-06-06
+318,Spanish Grand Prix1979,5,1979,Spanish Grand Prix,1979-04-29 06:00:00,Jarama,Madrid,Spain,40.6171,-3.58558,dev,2024-06-06
+349,Spanish Grand Prix1981,7,1981,Spanish Grand Prix,1981-06-21 06:00:00,Jarama,Madrid,Spain,40.6171,-3.58558,dev,2024-06-06
+1056,Saudi Arabian Grand Prix2021,21,2021,Saudi Arabian Grand Prix,2021-12-05 06:00:00,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,21.6319,39.1044,dev,2024-06-06
+1059,Saudi Arabian Grand Prix2022,2,2022,Saudi Arabian Grand Prix,2022-03-27 06:00:00,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,21.6319,39.1044,dev,2024-06-06
+1081,Saudi Arabian Grand Prix2023,2,2023,Saudi Arabian Grand Prix,2023-03-19 06:00:00,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,21.6319,39.1044,dev,2024-06-06
+1103,Saudi Arabian Grand Prix2024,2,2024,Saudi Arabian Grand Prix,2024-03-09 06:00:00,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,21.6319,39.1044,dev,2024-06-06
+837,Korean Grand Prix2010,17,2010,Korean Grand Prix,2010-10-24 06:00:00,Korean International Circuit,Yeongam County,Korea,34.7333,126.417,dev,2024-06-06
+855,Korean Grand Prix2011,16,2011,Korean Grand Prix,2011-10-16 06:00:00,Korean International Circuit,Yeongam County,Korea,34.7333,126.417,dev,2024-06-06
+874,Korean Grand Prix2012,16,2012,Korean Grand Prix,2012-10-14 06:00:00,Korean International Circuit,Yeongam County,Korea,34.7333,126.417,dev,2024-06-06
+892,Korean Grand Prix2013,14,2013,Korean Grand Prix,2013-10-06 06:00:00,Korean International Circuit,Yeongam County,Korea,34.7333,126.417,dev,2024-06-06
+151,South African Grand Prix1967,1,1967,South African Grand Prix,1967-01-02 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+162,South African Grand Prix1968,1,1968,South African Grand Prix,1968-01-01 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+174,South African Grand Prix1969,1,1969,South African Grand Prix,1969-03-01 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+185,South African Grand Prix1970,1,1970,South African Grand Prix,1970-03-07 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+198,South African Grand Prix1971,1,1971,South African Grand Prix,1971-03-06 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+210,South African Grand Prix1972,2,1972,South African Grand Prix,1972-03-04 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+223,South African Grand Prix1973,3,1973,South African Grand Prix,1973-03-03 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+238,South African Grand Prix1974,3,1974,South African Grand Prix,1974-03-30 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+253,South African Grand Prix1975,3,1975,South African Grand Prix,1975-03-01 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+266,South African Grand Prix1976,2,1976,South African Grand Prix,1976-03-06 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+283,South African Grand Prix1977,3,1977,South African Grand Prix,1977-03-05 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+300,South African Grand Prix1978,3,1978,South African Grand Prix,1978-03-04 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+316,South African Grand Prix1979,3,1979,South African Grand Prix,1979-03-03 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+331,South African Grand Prix1980,3,1980,South African Grand Prix,1980-03-01 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+358,South African Grand Prix1982,1,1982,South African Grand Prix,1982-01-23 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+388,South African Grand Prix1983,15,1983,South African Grand Prix,1983-10-15 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+390,South African Grand Prix1984,2,1984,South African Grand Prix,1984-04-07 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+419,South African Grand Prix1985,15,1985,South African Grand Prix,1985-10-19 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+517,South African Grand Prix1992,1,1992,South African Grand Prix,1992-03-01 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+533,South African Grand Prix1993,1,1993,South African Grand Prix,1993-03-14 06:00:00,Kyalami,Midrand,South Africa,-25.9894,28.0767,dev,2024-06-06
+357,Caesars Palace Grand Prix1981,15,1981,Caesars Palace Grand Prix,1981-10-17 06:00:00,Las Vegas Street Circuit,Nevada,USA,36.1162,-115.174,dev,2024-06-06
+373,Caesars Palace Grand Prix1982,16,1982,Caesars Palace Grand Prix,1982-09-25 06:00:00,Las Vegas Street Circuit,Nevada,USA,36.1162,-115.174,dev,2024-06-06
+1100,Las Vegas Grand Prix2023,21,2023,Las Vegas Grand Prix,2023-11-19 06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,36.1147,-115.173,dev,2024-06-06
+1123,Las Vegas Grand Prix2024,22,2024,Las Vegas Grand Prix,2024-11-23 06:00:00,Las Vegas Strip Street Circuit,Las Vegas,United States,36.1147,-115.173,dev,2024-06-06
+155,French Grand Prix1967,5,1967,French Grand Prix,1967-07-02 06:00:00,Le Mans,Le Mans,France,47.95,0.224231,dev,2024-06-06
+267,United States Grand Prix West1976,3,1976,United States Grand Prix West,1976-03-28 06:00:00,Long Beach,California,USA,33.7651,-118.189,dev,2024-06-06
+284,United States Grand Prix West1977,4,1977,United States Grand Prix West,1977-04-03 06:00:00,Long Beach,California,USA,33.7651,-118.189,dev,2024-06-06
+301,United States Grand Prix West1978,4,1978,United States Grand Prix West,1978-04-02 06:00:00,Long Beach,California,USA,33.7651,-118.189,dev,2024-06-06
+317,United States Grand Prix West1979,4,1979,United States Grand Prix West,1979-04-08 06:00:00,Long Beach,California,USA,33.7651,-118.189,dev,2024-06-06
+332,United States Grand Prix West1980,4,1980,United States Grand Prix West,1980-03-30 06:00:00,Long Beach,California,USA,33.7651,-118.189,dev,2024-06-06
+343,United States Grand Prix West1981,1,1981,United States Grand Prix West,1981-03-15 06:00:00,Long Beach,California,USA,33.7651,-118.189,dev,2024-06-06
+360,United States Grand Prix West1982,3,1982,United States Grand Prix West,1982-04-04 06:00:00,Long Beach,California,USA,33.7651,-118.189,dev,2024-06-06
+375,United States Grand Prix West1983,2,1983,United States Grand Prix West,1983-03-27 06:00:00,Long Beach,California,USA,33.7651,-118.189,dev,2024-06-06
+1055,Qatar Grand Prix2021,20,2021,Qatar Grand Prix,2021-11-21 06:00:00,Losail International Circuit,Al Daayen,Qatar,25.49,51.4542,dev,2024-06-06
+1096,Qatar Grand Prix2023,17,2023,Qatar Grand Prix,2023-10-08 06:00:00,Losail International Circuit,Al Daayen,Qatar,25.49,51.4542,dev,2024-06-06
+1124,Qatar Grand Prix2024,23,2024,Qatar Grand Prix,2024-12-01 06:00:00,Losail International Circuit,Al Daayen,Qatar,25.49,51.4542,dev,2024-06-06
+800,Singapore Grand Prix2008,15,2008,Singapore Grand Prix,2008-09-28 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+817,Singapore Grand Prix2009,14,2009,Singapore Grand Prix,2009-09-27 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+835,Singapore Grand Prix2010,15,2010,Singapore Grand Prix,2010-09-26 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+853,Singapore Grand Prix2011,14,2011,Singapore Grand Prix,2011-09-25 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+872,Singapore Grand Prix2012,14,2012,Singapore Grand Prix,2012-09-23 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+891,Singapore Grand Prix2013,13,2013,Singapore Grand Prix,2013-09-22 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+911,Singapore Grand Prix2014,14,2014,Singapore Grand Prix,2014-09-21 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+929,Singapore Grand Prix2015,13,2015,Singapore Grand Prix,2015-09-20 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+950,Singapore Grand Prix2016,15,2016,Singapore Grand Prix,2016-09-18 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+970,Singapore Grand Prix2017,14,2017,Singapore Grand Prix,2017-09-17 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+991,Singapore Grand Prix2018,15,2018,Singapore Grand Prix,2018-09-16 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+1012,Singapore Grand Prix2019,15,2019,Singapore Grand Prix,2019-09-22 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+1074,Singapore Grand Prix2022,17,2022,Singapore Grand Prix,2022-10-02 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+1094,Singapore Grand Prix2023,15,2023,Singapore Grand Prix,2023-09-17 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+1119,Singapore Grand Prix2024,18,2024,Singapore Grand Prix,2024-09-22 06:00:00,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,dev,2024-06-06
+1062,Miami Grand Prix2022,5,2022,Miami Grand Prix,2022-05-08 06:00:00,Miami International Autodrome,Miami,USA,25.9581,-80.2389,dev,2024-06-06
+1084,Miami Grand Prix2023,5,2023,Miami Grand Prix,2023-05-07 06:00:00,Miami International Autodrome,Miami,USA,25.9581,-80.2389,dev,2024-06-06
+1107,Miami Grand Prix2024,6,2024,Miami Grand Prix,2024-05-05 06:00:00,Miami International Autodrome,Miami,USA,25.9581,-80.2389,dev,2024-06-06
+82,Portuguese Grand Prix1959,7,1959,Portuguese Grand Prix,1959-08-23 06:00:00,Monsanto Park Circuit,Lisbon,Portugal,38.7197,-9.20306,dev,2024-06-06
+175,Spanish Grand Prix1969,2,1969,Spanish Grand Prix,1969-05-04 06:00:00,Montjuïc,Barcelona,Spain,41.3664,2.15167,dev,2024-06-06
+199,Spanish Grand Prix1971,2,1971,Spanish Grand Prix,1971-04-18 06:00:00,Montjuïc,Barcelona,Spain,41.3664,2.15167,dev,2024-06-06
+224,Spanish Grand Prix1973,4,1973,Spanish Grand Prix,1973-04-29 06:00:00,Montjuïc,Barcelona,Spain,41.3664,2.15167,dev,2024-06-06
+254,Spanish Grand Prix1975,4,1975,Spanish Grand Prix,1975-04-27 06:00:00,Montjuïc,Barcelona,Spain,41.3664,2.15167,dev,2024-06-06
+158,Canadian Grand Prix1967,8,1967,Canadian Grand Prix,1967-08-27 06:00:00,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,dev,2024-06-06
+182,Canadian Grand Prix1969,9,1969,Canadian Grand Prix,1969-09-20 06:00:00,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,dev,2024-06-06
+207,Canadian Grand Prix1971,10,1971,Canadian Grand Prix,1971-09-19 06:00:00,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,dev,2024-06-06
+219,Canadian Grand Prix1972,11,1972,Canadian Grand Prix,1972-09-24 06:00:00,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,dev,2024-06-06
+234,Canadian Grand Prix1973,14,1973,Canadian Grand Prix,1973-09-23 06:00:00,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,dev,2024-06-06
+249,Canadian Grand Prix1974,14,1974,Canadian Grand Prix,1974-09-22 06:00:00,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,dev,2024-06-06
+278,Canadian Grand Prix1976,14,1976,Canadian Grand Prix,1976-10-03 06:00:00,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,dev,2024-06-06
+296,Canadian Grand Prix1977,16,1977,Canadian Grand Prix,1977-10-09 06:00:00,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,dev,2024-06-06
+213,Belgian Grand Prix1972,5,1972,Belgian Grand Prix,1972-06-04 06:00:00,Nivelles-Baulers,Brussels,Belgium,50.6211,4.32694,dev,2024-06-06
+240,Belgian Grand Prix1974,5,1974,Belgian Grand Prix,1974-05-12 06:00:00,Nivelles-Baulers,Brussels,Belgium,50.6211,4.32694,dev,2024-06-06
+13,German Grand Prix1951,6,1951,German Grand Prix,1951-07-29 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+21,German Grand Prix1952,6,1952,German Grand Prix,1952-08-03 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+30,German Grand Prix1953,7,1953,German Grand Prix,1953-08-02 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+38,German Grand Prix1954,6,1954,German Grand Prix,1954-08-01 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+55,German Grand Prix1956,7,1956,German Grand Prix,1956-08-05 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+62,German Grand Prix1957,6,1957,German Grand Prix,1957-08-04 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+72,German Grand Prix1958,8,1958,German Grand Prix,1958-08-03 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+100,German Grand Prix1961,6,1961,German Grand Prix,1961-08-06 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+108,German Grand Prix1962,6,1962,German Grand Prix,1962-08-05 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+117,German Grand Prix1963,6,1963,German Grand Prix,1963-08-04 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+127,German Grand Prix1964,6,1964,German Grand Prix,1964-08-02 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+138,German Grand Prix1965,7,1965,German Grand Prix,1965-08-01 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+147,German Grand Prix1966,6,1966,German Grand Prix,1966-08-07 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+157,German Grand Prix1967,7,1967,German Grand Prix,1967-08-06 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+169,German Grand Prix1968,8,1968,German Grand Prix,1968-08-04 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+180,German Grand Prix1969,7,1969,German Grand Prix,1969-08-03 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+204,German Grand Prix1971,7,1971,German Grand Prix,1971-08-01 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+216,German Grand Prix1972,8,1972,German Grand Prix,1972-07-30 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+231,German Grand Prix1973,11,1973,German Grand Prix,1973-08-05 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+246,German Grand Prix1974,11,1974,German Grand Prix,1974-08-04 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+261,German Grand Prix1975,11,1975,German Grand Prix,1975-08-03 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+274,German Grand Prix1976,10,1976,German Grand Prix,1976-08-01 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+403,European Grand Prix1984,15,1984,European Grand Prix,1984-10-07 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+413,German Grand Prix1985,9,1985,German Grand Prix,1985-08-04 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+578,European Grand Prix1995,14,1995,European Grand Prix,1995-10-01 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+585,European Grand Prix1996,4,1996,European Grand Prix,1996-04-28 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+612,Luxembourg Grand Prix1997,15,1997,Luxembourg Grand Prix,1997-09-28 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+629,Luxembourg Grand Prix1998,15,1998,Luxembourg Grand Prix,1998-09-27 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+644,European Grand Prix1999,14,1999,European Grand Prix,1999-09-26 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+652,European Grand Prix2000,6,2000,European Grand Prix,2000-05-21 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+672,European Grand Prix2001,9,2001,European Grand Prix,2001-06-24 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+689,European Grand Prix2002,9,2002,European Grand Prix,2002-06-23 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+706,European Grand Prix2003,9,2003,European Grand Prix,2003-06-29 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+720,European Grand Prix2004,7,2004,European Grand Prix,2004-05-30 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+738,European Grand Prix2005,7,2005,European Grand Prix,2005-05-29 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+755,European Grand Prix2006,5,2006,European Grand Prix,2006-05-07 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+778,European Grand Prix2007,10,2007,European Grand Prix,2007-07-22 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+812,German Grand Prix2009,9,2009,German Grand Prix,2009-07-12 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+849,German Grand Prix2011,10,2011,German Grand Prix,2011-07-24 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+887,German Grand Prix2013,9,2013,German Grand Prix,2013-07-07 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+1029,Eifel Grand Prix2020,11,2020,Eifel Grand Prix,2020-10-11 06:00:00,Nürburgring,Nürburg,Germany,50.3356,6.9475,dev,2024-06-06
+550,Pacific Grand Prix1994,2,1994,Pacific Grand Prix,1994-04-17 06:00:00,Okayama International Circuit,Okayama,Japan,34.915,134.221,dev,2024-06-06
+579,Pacific Grand Prix1995,15,1995,Pacific Grand Prix,1995-10-22 06:00:00,Okayama International Circuit,Okayama,Japan,34.915,134.221,dev,2024-06-06
+63,Pescara Grand Prix1957,7,1957,Pescara Grand Prix,1957-08-18 06:00:00,Pescara Circuit,Pescara,Italy,42.475,14.1508,dev,2024-06-06
+473,United States Grand Prix1989,5,1989,United States Grand Prix,1989-06-04 06:00:00,Phoenix street circuit,Phoenix,USA,33.4479,-112.075,dev,2024-06-06
+485,United States Grand Prix1990,1,1990,United States Grand Prix,1990-03-11 06:00:00,Phoenix street circuit,Phoenix,USA,33.4479,-112.075,dev,2024-06-06
+501,United States Grand Prix1991,1,1991,United States Grand Prix,1991-03-10 06:00:00,Phoenix street circuit,Phoenix,USA,33.4479,-112.075,dev,2024-06-06
+111,South African Grand Prix1962,9,1962,South African Grand Prix,1962-12-29 06:00:00,Prince George Circuit,Eastern Cape Province,South Africa,-33.0486,27.8736,dev,2024-06-06
+121,South African Grand Prix1963,10,1963,South African Grand Prix,1963-12-28 06:00:00,Prince George Circuit,Eastern Cape Province,South Africa,-33.0486,27.8736,dev,2024-06-06
+132,South African Grand Prix1965,1,1965,South African Grand Prix,1965-01-01 06:00:00,Prince George Circuit,Eastern Cape Province,South Africa,-33.0486,27.8736,dev,2024-06-06
+193,Austrian Grand Prix1970,9,1970,Austrian Grand Prix,1970-08-16 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+205,Austrian Grand Prix1971,8,1971,Austrian Grand Prix,1971-08-15 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+217,Austrian Grand Prix1972,9,1972,Austrian Grand Prix,1972-08-13 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+232,Austrian Grand Prix1973,12,1973,Austrian Grand Prix,1973-08-19 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+247,Austrian Grand Prix1974,12,1974,Austrian Grand Prix,1974-08-18 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+262,Austrian Grand Prix1975,12,1975,Austrian Grand Prix,1975-08-17 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+275,Austrian Grand Prix1976,11,1976,Austrian Grand Prix,1976-08-15 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+292,Austrian Grand Prix1977,12,1977,Austrian Grand Prix,1977-08-14 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+309,Austrian Grand Prix1978,12,1978,Austrian Grand Prix,1978-08-13 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+324,Austrian Grand Prix1979,11,1979,Austrian Grand Prix,1979-08-12 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+338,Austrian Grand Prix1980,10,1980,Austrian Grand Prix,1980-08-17 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+353,Austrian Grand Prix1981,11,1981,Austrian Grand Prix,1981-08-16 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+370,Austrian Grand Prix1982,13,1982,Austrian Grand Prix,1982-08-15 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+384,Austrian Grand Prix1983,11,1983,Austrian Grand Prix,1983-08-14 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+400,Austrian Grand Prix1984,12,1984,Austrian Grand Prix,1984-08-19 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+414,Austrian Grand Prix1985,10,1985,Austrian Grand Prix,1985-08-18 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+432,Austrian Grand Prix1986,12,1986,Austrian Grand Prix,1986-08-17 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+446,Austrian Grand Prix1987,10,1987,Austrian Grand Prix,1987-08-16 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+611,Austrian Grand Prix1997,14,1997,Austrian Grand Prix,1997-09-21 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+624,Austrian Grand Prix1998,10,1998,Austrian Grand Prix,1998-07-26 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+639,Austrian Grand Prix1999,9,1999,Austrian Grand Prix,1999-07-25 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+656,Austrian Grand Prix2000,10,2000,Austrian Grand Prix,2000-07-16 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+669,Austrian Grand Prix2001,6,2001,Austrian Grand Prix,2001-05-13 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+686,Austrian Grand Prix2002,6,2002,Austrian Grand Prix,2002-05-12 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+703,Austrian Grand Prix2003,6,2003,Austrian Grand Prix,2003-05-18 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+905,Austrian Grand Prix2014,8,2014,Austrian Grand Prix,2014-06-22 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+924,Austrian Grand Prix2015,8,2015,Austrian Grand Prix,2015-06-21 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+944,Austrian Grand Prix2016,9,2016,Austrian Grand Prix,2016-07-03 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+965,Austrian Grand Prix2017,9,2017,Austrian Grand Prix,2017-07-09 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+985,Austrian Grand Prix2018,9,2018,Austrian Grand Prix,2018-07-01 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+1006,Austrian Grand Prix2019,9,2019,Austrian Grand Prix,2019-06-30 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+1019,Austrian Grand Prix2020,1,2020,Austrian Grand Prix,2020-07-05 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+1020,Styrian Grand Prix2020,2,2020,Styrian Grand Prix,2020-07-12 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+1043,Styrian Grand Prix2021,8,2021,Styrian Grand Prix,2021-06-27 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+1044,Austrian Grand Prix2021,9,2021,Austrian Grand Prix,2021-07-04 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+1068,Austrian Grand Prix2022,11,2022,Austrian Grand Prix,2022-07-10 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+1088,Austrian Grand Prix2023,9,2023,Austrian Grand Prix,2023-07-02 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+1112,Austrian Grand Prix2024,11,2024,Austrian Grand Prix,2024-06-30 06:00:00,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,dev,2024-06-06
+6,French Grand Prix1950,6,1950,French Grand Prix,1950-07-02 06:00:00,Reims-Gueux,Reims,France,49.2542,3.93083,dev,2024-06-06
+11,French Grand Prix1951,4,1951,French Grand Prix,1951-07-01 06:00:00,Reims-Gueux,Reims,France,49.2542,3.93083,dev,2024-06-06
+28,French Grand Prix1953,5,1953,French Grand Prix,1953-07-05 06:00:00,Reims-Gueux,Reims,France,49.2542,3.93083,dev,2024-06-06
+36,French Grand Prix1954,4,1954,French Grand Prix,1954-07-04 06:00:00,Reims-Gueux,Reims,France,49.2542,3.93083,dev,2024-06-06
+53,French Grand Prix1956,5,1956,French Grand Prix,1956-07-01 06:00:00,Reims-Gueux,Reims,France,49.2542,3.93083,dev,2024-06-06
+70,French Grand Prix1958,6,1958,French Grand Prix,1958-07-06 06:00:00,Reims-Gueux,Reims,France,49.2542,3.93083,dev,2024-06-06
+79,French Grand Prix1959,4,1959,French Grand Prix,1959-07-05 06:00:00,Reims-Gueux,Reims,France,49.2542,3.93083,dev,2024-06-06
+90,French Grand Prix1960,6,1960,French Grand Prix,1960-07-03 06:00:00,Reims-Gueux,Reims,France,49.2542,3.93083,dev,2024-06-06
+98,French Grand Prix1961,4,1961,French Grand Prix,1961-07-02 06:00:00,Reims-Gueux,Reims,France,49.2542,3.93083,dev,2024-06-06
+115,French Grand Prix1963,4,1963,French Grand Prix,1963-06-30 06:00:00,Reims-Gueux,Reims,France,49.2542,3.93083,dev,2024-06-06
+144,French Grand Prix1966,3,1966,French Grand Prix,1966-07-03 06:00:00,Reims-Gueux,Reims,France,49.2542,3.93083,dev,2024-06-06
+94,United States Grand Prix1960,10,1960,United States Grand Prix,1960-11-20 06:00:00,Riverside International Raceway,California,USA,33.937,-117.273,dev,2024-06-06
+19,French Grand Prix1952,4,1952,French Grand Prix,1952-07-06 06:00:00,Rouen-Les-Essarts,Rouen,France,49.3306,1.00458,dev,2024-06-06
+60,French Grand Prix1957,4,1957,French Grand Prix,1957-07-07 06:00:00,Rouen-Les-Essarts,Rouen,France,49.3306,1.00458,dev,2024-06-06
+106,French Grand Prix1962,4,1962,French Grand Prix,1962-07-08 06:00:00,Rouen-Les-Essarts,Rouen,France,49.3306,1.00458,dev,2024-06-06
+125,French Grand Prix1964,4,1964,French Grand Prix,1964-06-28 06:00:00,Rouen-Les-Essarts,Rouen,France,49.3306,1.00458,dev,2024-06-06
+167,French Grand Prix1968,6,1968,French Grand Prix,1968-07-07 06:00:00,Rouen-Les-Essarts,Rouen,France,49.3306,1.00458,dev,2024-06-06
+227,Swedish Grand Prix1973,7,1973,Swedish Grand Prix,1973-06-17 06:00:00,Scandinavian Raceway,Anderstorp,Sweden,57.2653,13.6042,dev,2024-06-06
+242,Swedish Grand Prix1974,7,1974,Swedish Grand Prix,1974-06-09 06:00:00,Scandinavian Raceway,Anderstorp,Sweden,57.2653,13.6042,dev,2024-06-06
+257,Swedish Grand Prix1975,7,1975,Swedish Grand Prix,1975-06-08 06:00:00,Scandinavian Raceway,Anderstorp,Sweden,57.2653,13.6042,dev,2024-06-06
+271,Swedish Grand Prix1976,7,1976,Swedish Grand Prix,1976-06-13 06:00:00,Scandinavian Raceway,Anderstorp,Sweden,57.2653,13.6042,dev,2024-06-06
+288,Swedish Grand Prix1977,8,1977,Swedish Grand Prix,1977-06-19 06:00:00,Scandinavian Raceway,Anderstorp,Sweden,57.2653,13.6042,dev,2024-06-06
+305,Swedish Grand Prix1978,8,1978,Swedish Grand Prix,1978-06-17 06:00:00,Scandinavian Raceway,Anderstorp,Sweden,57.2653,13.6042,dev,2024-06-06
+84,United States Grand Prix1959,9,1959,United States Grand Prix,1959-12-12 06:00:00,Sebring International Raceway,Florida,USA,27.4547,-81.3483,dev,2024-06-06
+645,Malaysian Grand Prix1999,15,1999,Malaysian Grand Prix,1999-10-17 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+663,Malaysian Grand Prix2000,17,2000,Malaysian Grand Prix,2000-10-22 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+665,Malaysian Grand Prix2001,2,2001,Malaysian Grand Prix,2001-03-18 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+682,Malaysian Grand Prix2002,2,2002,Malaysian Grand Prix,2002-03-17 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+699,Malaysian Grand Prix2003,2,2003,Malaysian Grand Prix,2003-03-23 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+715,Malaysian Grand Prix2004,2,2004,Malaysian Grand Prix,2004-03-21 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+733,Malaysian Grand Prix2005,2,2005,Malaysian Grand Prix,2005-03-20 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+752,Malaysian Grand Prix2006,2,2006,Malaysian Grand Prix,2006-03-19 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+770,Malaysian Grand Prix2007,2,2007,Malaysian Grand Prix,2007-04-08 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+787,Malaysian Grand Prix2008,2,2008,Malaysian Grand Prix,2008-03-23 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+805,Malaysian Grand Prix2009,2,2009,Malaysian Grand Prix,2009-04-05 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+823,Malaysian Grand Prix2010,3,2010,Malaysian Grand Prix,2010-04-04 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+841,Malaysian Grand Prix2011,2,2011,Malaysian Grand Prix,2011-04-10 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+860,Malaysian Grand Prix2012,2,2012,Malaysian Grand Prix,2012-03-25 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+880,Malaysian Grand Prix2013,2,2013,Malaysian Grand Prix,2013-03-24 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+899,Malaysian Grand Prix2014,2,2014,Malaysian Grand Prix,2014-03-30 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+918,Malaysian Grand Prix2015,2,2015,Malaysian Grand Prix,2015-03-29 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+951,Malaysian Grand Prix2016,16,2016,Malaysian Grand Prix,2016-10-02 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+971,Malaysian Grand Prix2017,15,2017,Malaysian Grand Prix,2017-10-01 06:00:00,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,dev,2024-06-06
+729,Chinese Grand Prix2004,16,2004,Chinese Grand Prix,2004-09-26 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+750,Chinese Grand Prix2005,19,2005,Chinese Grand Prix,2005-10-16 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+766,Chinese Grand Prix2006,16,2006,Chinese Grand Prix,2006-10-01 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+784,Chinese Grand Prix2007,16,2007,Chinese Grand Prix,2007-10-07 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+802,Chinese Grand Prix2008,17,2008,Chinese Grand Prix,2008-10-19 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+806,Chinese Grand Prix2009,3,2009,Chinese Grand Prix,2009-04-19 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+824,Chinese Grand Prix2010,4,2010,Chinese Grand Prix,2010-04-18 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+842,Chinese Grand Prix2011,3,2011,Chinese Grand Prix,2011-04-17 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+861,Chinese Grand Prix2012,3,2012,Chinese Grand Prix,2012-04-15 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+881,Chinese Grand Prix2013,3,2013,Chinese Grand Prix,2013-04-14 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+901,Chinese Grand Prix2014,4,2014,Chinese Grand Prix,2014-04-20 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+919,Chinese Grand Prix2015,3,2015,Chinese Grand Prix,2015-04-12 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+938,Chinese Grand Prix2016,3,2016,Chinese Grand Prix,2016-04-17 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+958,Chinese Grand Prix2017,2,2017,Chinese Grand Prix,2017-04-09 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+979,Chinese Grand Prix2018,3,2018,Chinese Grand Prix,2018-04-15 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+1000,Chinese Grand Prix2019,3,2019,Chinese Grand Prix,2019-04-14 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+1106,Chinese Grand Prix2024,5,2024,Chinese Grand Prix,2024-04-21 06:00:00,Shanghai International Circuit,Shanghai,China,31.3389,121.22,dev,2024-06-06
+1,British Grand Prix1950,1,1950,British Grand Prix,1950-05-13 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+12,British Grand Prix1951,5,1951,British Grand Prix,1951-07-14 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+20,British Grand Prix1952,5,1952,British Grand Prix,1952-07-19 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+29,British Grand Prix1953,6,1953,British Grand Prix,1953-07-18 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+37,British Grand Prix1954,5,1954,British Grand Prix,1954-07-17 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+54,British Grand Prix1956,6,1956,British Grand Prix,1956-07-14 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+71,British Grand Prix1958,7,1958,British Grand Prix,1958-07-19 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+91,British Grand Prix1960,7,1960,British Grand Prix,1960-07-16 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+116,British Grand Prix1963,5,1963,British Grand Prix,1963-07-20 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+136,British Grand Prix1965,5,1965,British Grand Prix,1965-07-10 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+156,British Grand Prix1967,6,1967,British Grand Prix,1967-07-15 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+179,British Grand Prix1969,6,1969,British Grand Prix,1969-07-19 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+203,British Grand Prix1971,6,1971,British Grand Prix,1971-07-17 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+229,British Grand Prix1973,9,1973,British Grand Prix,1973-07-14 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+260,British Grand Prix1975,10,1975,British Grand Prix,1975-07-19 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+290,British Grand Prix1977,10,1977,British Grand Prix,1977-07-16 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+322,British Grand Prix1979,9,1979,British Grand Prix,1979-07-14 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+351,British Grand Prix1981,9,1981,British Grand Prix,1981-07-18 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+382,British Grand Prix1983,9,1983,British Grand Prix,1983-07-16 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+412,British Grand Prix1985,8,1985,British Grand Prix,1985-07-21 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+443,British Grand Prix1987,7,1987,British Grand Prix,1987-07-12 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+460,British Grand Prix1988,8,1988,British Grand Prix,1988-07-10 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+476,British Grand Prix1989,8,1989,British Grand Prix,1989-07-16 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+492,British Grand Prix1990,8,1990,British Grand Prix,1990-07-15 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+508,British Grand Prix1991,8,1991,British Grand Prix,1991-07-14 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+525,British Grand Prix1992,9,1992,British Grand Prix,1992-07-12 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+541,British Grand Prix1993,9,1993,British Grand Prix,1993-07-11 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+556,British Grand Prix1994,8,1994,British Grand Prix,1994-07-10 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+572,British Grand Prix1995,8,1995,British Grand Prix,1995-07-16 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+591,British Grand Prix1996,10,1996,British Grand Prix,1996-07-14 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+606,British Grand Prix1997,9,1997,British Grand Prix,1997-07-13 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+623,British Grand Prix1998,9,1998,British Grand Prix,1998-07-12 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+638,British Grand Prix1999,8,1999,British Grand Prix,1999-07-11 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+650,British Grand Prix2000,4,2000,British Grand Prix,2000-04-23 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+674,British Grand Prix2001,11,2001,British Grand Prix,2001-07-15 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+690,British Grand Prix2002,10,2002,British Grand Prix,2002-07-07 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+708,British Grand Prix2003,11,2003,British Grand Prix,2003-07-20 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+724,British Grand Prix2004,11,2004,British Grand Prix,2004-07-11 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+742,British Grand Prix2005,11,2005,British Grand Prix,2005-07-10 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+758,British Grand Prix2006,8,2006,British Grand Prix,2006-06-11 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+777,British Grand Prix2007,9,2007,British Grand Prix,2007-07-08 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+794,British Grand Prix2008,9,2008,British Grand Prix,2008-07-06 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+811,British Grand Prix2009,8,2009,British Grand Prix,2009-06-21 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+830,British Grand Prix2010,10,2010,British Grand Prix,2010-07-11 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+848,British Grand Prix2011,9,2011,British Grand Prix,2011-07-10 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+867,British Grand Prix2012,9,2012,British Grand Prix,2012-07-08 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+886,British Grand Prix2013,8,2013,British Grand Prix,2013-06-30 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+906,British Grand Prix2014,9,2014,British Grand Prix,2014-07-06 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+925,British Grand Prix2015,9,2015,British Grand Prix,2015-07-05 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+945,British Grand Prix2016,10,2016,British Grand Prix,2016-07-10 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+966,British Grand Prix2017,10,2017,British Grand Prix,2017-07-16 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+986,British Grand Prix2018,10,2018,British Grand Prix,2018-07-08 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+1007,British Grand Prix2019,10,2019,British Grand Prix,2019-07-14 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+1022,British Grand Prix2020,4,2020,British Grand Prix,2020-08-02 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+1023,70th Anniversary Grand Prix2020,5,2020,70th Anniversary Grand Prix,2020-08-09 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+1045,British Grand Prix2021,10,2021,British Grand Prix,2021-07-18 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+1067,British Grand Prix2022,10,2022,British Grand Prix,2022-07-03 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+1089,British Grand Prix2023,10,2023,British Grand Prix,2023-07-09 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+1113,British Grand Prix2024,12,2024,British Grand Prix,2024-07-07 06:00:00,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,dev,2024-06-06
+913,Russian Grand Prix2014,16,2014,Russian Grand Prix,2014-10-12 06:00:00,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,dev,2024-06-06
+931,Russian Grand Prix2015,15,2015,Russian Grand Prix,2015-10-11 06:00:00,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,dev,2024-06-06
+939,Russian Grand Prix2016,4,2016,Russian Grand Prix,2016-05-01 06:00:00,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,dev,2024-06-06
+960,Russian Grand Prix2017,4,2017,Russian Grand Prix,2017-04-30 06:00:00,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,dev,2024-06-06
+992,Russian Grand Prix2018,16,2018,Russian Grand Prix,2018-09-30 06:00:00,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,dev,2024-06-06
+1013,Russian Grand Prix2019,16,2019,Russian Grand Prix,2019-09-29 06:00:00,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,dev,2024-06-06
+1028,Russian Grand Prix2020,10,2020,Russian Grand Prix,2020-09-27 06:00:00,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,dev,2024-06-06
+1050,Russian Grand Prix2021,15,2021,Russian Grand Prix,2021-09-26 06:00:00,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,dev,2024-06-06
+451,Japanese Grand Prix1987,15,1987,Japanese Grand Prix,1987-11-01 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+467,Japanese Grand Prix1988,15,1988,Japanese Grand Prix,1988-10-30 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+483,Japanese Grand Prix1989,15,1989,Japanese Grand Prix,1989-10-22 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+499,Japanese Grand Prix1990,15,1990,Japanese Grand Prix,1990-10-21 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+515,Japanese Grand Prix1991,15,1991,Japanese Grand Prix,1991-10-20 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+531,Japanese Grand Prix1992,15,1992,Japanese Grand Prix,1992-10-25 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+547,Japanese Grand Prix1993,15,1993,Japanese Grand Prix,1993-10-24 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+563,Japanese Grand Prix1994,15,1994,Japanese Grand Prix,1994-11-06 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+580,Japanese Grand Prix1995,16,1995,Japanese Grand Prix,1995-10-29 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+597,Japanese Grand Prix1996,16,1996,Japanese Grand Prix,1996-10-13 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+613,Japanese Grand Prix1997,16,1997,Japanese Grand Prix,1997-10-12 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+630,Japanese Grand Prix1998,16,1998,Japanese Grand Prix,1998-11-01 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+646,Japanese Grand Prix1999,16,1999,Japanese Grand Prix,1999-10-31 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+662,Japanese Grand Prix2000,16,2000,Japanese Grand Prix,2000-10-08 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+680,Japanese Grand Prix2001,17,2001,Japanese Grand Prix,2001-10-14 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+697,Japanese Grand Prix2002,17,2002,Japanese Grand Prix,2002-10-13 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+713,Japanese Grand Prix2003,16,2003,Japanese Grand Prix,2003-10-12 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+730,Japanese Grand Prix2004,17,2004,Japanese Grand Prix,2004-10-10 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+749,Japanese Grand Prix2005,18,2005,Japanese Grand Prix,2005-10-09 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+767,Japanese Grand Prix2006,17,2006,Japanese Grand Prix,2006-10-08 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+818,Japanese Grand Prix2009,15,2009,Japanese Grand Prix,2009-10-04 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+836,Japanese Grand Prix2010,16,2010,Japanese Grand Prix,2010-10-10 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+854,Japanese Grand Prix2011,15,2011,Japanese Grand Prix,2011-10-09 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+873,Japanese Grand Prix2012,15,2012,Japanese Grand Prix,2012-10-07 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+893,Japanese Grand Prix2013,15,2013,Japanese Grand Prix,2013-10-13 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+912,Japanese Grand Prix2014,15,2014,Japanese Grand Prix,2014-10-05 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+930,Japanese Grand Prix2015,14,2015,Japanese Grand Prix,2015-09-27 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+952,Japanese Grand Prix2016,17,2016,Japanese Grand Prix,2016-10-09 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+972,Japanese Grand Prix2017,16,2017,Japanese Grand Prix,2017-10-08 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+993,Japanese Grand Prix2018,17,2018,Japanese Grand Prix,2018-10-07 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+1014,Japanese Grand Prix2019,17,2019,Japanese Grand Prix,2019-10-13 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+1075,Japanese Grand Prix2022,18,2022,Japanese Grand Prix,2022-10-09 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+1095,Japanese Grand Prix2023,16,2023,Japanese Grand Prix,2023-09-24 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+1105,Japanese Grand Prix2024,4,2024,Japanese Grand Prix,2024-04-07 06:00:00,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,dev,2024-06-06
+797,European Grand Prix2008,12,2008,European Grand Prix,2008-08-24 06:00:00,Valencia Street Circuit,Valencia,Spain,39.4589,-0.331667,dev,2024-06-06
+814,European Grand Prix2009,11,2009,European Grand Prix,2009-08-23 06:00:00,Valencia Street Circuit,Valencia,Spain,39.4589,-0.331667,dev,2024-06-06
+829,European Grand Prix2010,9,2010,European Grand Prix,2010-06-27 06:00:00,Valencia Street Circuit,Valencia,Spain,39.4589,-0.331667,dev,2024-06-06
+847,European Grand Prix2011,8,2011,European Grand Prix,2011-06-26 06:00:00,Valencia Street Circuit,Valencia,Spain,39.4589,-0.331667,dev,2024-06-06
+866,European Grand Prix2012,8,2012,European Grand Prix,2012-06-24 06:00:00,Valencia Street Circuit,Valencia,Spain,39.4589,-0.331667,dev,2024-06-06
+102,United States Grand Prix1961,8,1961,United States Grand Prix,1961-10-08 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+110,United States Grand Prix1962,8,1962,United States Grand Prix,1962-10-07 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+119,United States Grand Prix1963,8,1963,United States Grand Prix,1963-10-06 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+130,United States Grand Prix1964,9,1964,United States Grand Prix,1964-10-04 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+140,United States Grand Prix1965,9,1965,United States Grand Prix,1965-10-03 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+149,United States Grand Prix1966,8,1966,United States Grand Prix,1966-10-02 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+160,United States Grand Prix1967,10,1967,United States Grand Prix,1967-10-01 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+172,United States Grand Prix1968,11,1968,United States Grand Prix,1968-10-06 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+183,United States Grand Prix1969,10,1969,United States Grand Prix,1969-10-05 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+196,United States Grand Prix1970,12,1970,United States Grand Prix,1970-10-04 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+208,United States Grand Prix1971,11,1971,United States Grand Prix,1971-10-03 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+220,United States Grand Prix1972,12,1972,United States Grand Prix,1972-10-08 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+235,United States Grand Prix1973,15,1973,United States Grand Prix,1973-10-07 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+250,United States Grand Prix1974,15,1974,United States Grand Prix,1974-10-06 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+264,United States Grand Prix1975,14,1975,United States Grand Prix,1975-10-05 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+279,United States Grand Prix1976,15,1976,United States Grand Prix,1976-10-10 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+295,United States Grand Prix1977,15,1977,United States Grand Prix,1977-10-02 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+312,United States Grand Prix1978,15,1978,United States Grand Prix,1978-10-01 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+328,United States Grand Prix1979,15,1979,United States Grand Prix,1979-10-07 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+342,United States Grand Prix1980,14,1980,United States Grand Prix,1980-10-05 06:00:00,Watkins Glen,New York State,USA,42.3369,-76.9272,dev,2024-06-06
+820,Abu Dhabi Grand Prix2009,17,2009,Abu Dhabi Grand Prix,2009-11-01 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+839,Abu Dhabi Grand Prix2010,19,2010,Abu Dhabi Grand Prix,2010-11-14 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+857,Abu Dhabi Grand Prix2011,18,2011,Abu Dhabi Grand Prix,2011-11-13 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+876,Abu Dhabi Grand Prix2012,18,2012,Abu Dhabi Grand Prix,2012-11-04 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+895,Abu Dhabi Grand Prix2013,17,2013,Abu Dhabi Grand Prix,2013-11-03 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+916,Abu Dhabi Grand Prix2014,19,2014,Abu Dhabi Grand Prix,2014-11-23 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+935,Abu Dhabi Grand Prix2015,19,2015,Abu Dhabi Grand Prix,2015-11-29 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+956,Abu Dhabi Grand Prix2016,21,2016,Abu Dhabi Grand Prix,2016-11-27 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+976,Abu Dhabi Grand Prix2017,20,2017,Abu Dhabi Grand Prix,2017-11-26 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+997,Abu Dhabi Grand Prix2018,21,2018,Abu Dhabi Grand Prix,2018-11-25 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+1018,Abu Dhabi Grand Prix2019,21,2019,Abu Dhabi Grand Prix,2019-12-01 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+1035,Abu Dhabi Grand Prix2020,17,2020,Abu Dhabi Grand Prix,2020-12-13 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+1057,Abu Dhabi Grand Prix2021,22,2021,Abu Dhabi Grand Prix,2021-12-12 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+1079,Abu Dhabi Grand Prix2022,22,2022,Abu Dhabi Grand Prix,2022-11-20 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+1101,Abu Dhabi Grand Prix2023,22,2023,Abu Dhabi Grand Prix,2023-11-26 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+1125,Abu Dhabi Grand Prix2024,24,2024,Abu Dhabi Grand Prix,2024-12-08 06:00:00,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,dev,2024-06-06
+128,Austrian Grand Prix1964,7,1964,Austrian Grand Prix,1964-08-23 06:00:00,Zeltweg,Styria,Austria,47.2039,14.7478,dev,2024-06-06
+225,Belgian Grand Prix1973,5,1973,Belgian Grand Prix,1973-05-20 06:00:00,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694,dev,2024-06-06
+256,Belgian Grand Prix1975,6,1975,Belgian Grand Prix,1975-05-25 06:00:00,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694,dev,2024-06-06
+269,Belgian Grand Prix1976,5,1976,Belgian Grand Prix,1976-05-16 06:00:00,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694,dev,2024-06-06
+287,Belgian Grand Prix1977,7,1977,Belgian Grand Prix,1977-06-05 06:00:00,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694,dev,2024-06-06
+303,Belgian Grand Prix1978,6,1978,Belgian Grand Prix,1978-05-21 06:00:00,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694,dev,2024-06-06
+319,Belgian Grand Prix1979,6,1979,Belgian Grand Prix,1979-05-13 06:00:00,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694,dev,2024-06-06
+333,Belgian Grand Prix1980,5,1980,Belgian Grand Prix,1980-05-04 06:00:00,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694,dev,2024-06-06
+347,Belgian Grand Prix1981,5,1981,Belgian Grand Prix,1981-05-17 06:00:00,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694,dev,2024-06-06
+362,Belgian Grand Prix1982,5,1982,Belgian Grand Prix,1982-05-09 06:00:00,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694,dev,2024-06-06
+391,Belgian Grand Prix1984,3,1984,Belgian Grand Prix,1984-04-29 06:00:00,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694,dev,2024-06-06
