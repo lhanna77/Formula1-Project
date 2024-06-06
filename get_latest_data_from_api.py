@@ -45,7 +45,7 @@ def get_json_from_api(target_data, file_type, file_folder='files/latest_data_fro
             
             for res in rl['Results']:
             
-                df_new_row = pd.DataFrame({"resultId":i_res,"raceId":rl["raceName"]+rl["season"],"driverId":res["Driver"]["driverId"],"constructorId":res["Constructor"]["constructorId"],"number":res["number"],"grid":res["grid"],"position":res["position"],"positionText":res["positionText"],"positionOrder":"positionOrder","points":res["points"],"laps":res["laps"],"statusId":res["status"]}, index=[0])
+                df_new_row = pd.DataFrame({"resultId":i_res,"raceId_join":rl["raceName"]+rl["season"],"driverId_join":res["Driver"]["driverId"],"constructorId_join":res["Constructor"]["constructorId"],"number":res["number"],"grid":res["grid"],"position":res["position"],"positionText":res["positionText"],"positionOrder":"positionOrder","points":res["points"],"laps":res["laps"],"statusId":res["status"]}, index=[0])
                 all_rows_df = pd.concat([all_rows_df,df_new_row], ignore_index=True)
                             
                 i_res+=1
