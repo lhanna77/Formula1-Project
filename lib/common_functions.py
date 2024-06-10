@@ -34,14 +34,9 @@ def add_to_excel(file_path, df, sheet_name):
         
     print(f'\n{df} added to  - {output_dir}.\n')
 
-def add_header_to_excel(target_file,header_text):
-    with open(target_file,'w',encoding='utf-8',newline='') as file:
-      file.write(header_text)
-      file.write("\n")
-
-def call_api(url):
+def call_api(url, limit=1000, offset=0):
   
-  json_url = url + '.json?limit=1000'
+  json_url = url + f'.json?limit={limit}&offset={offset}'
   response = request("GET", json_url)
 
   return response.json()
