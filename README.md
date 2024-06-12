@@ -21,11 +21,11 @@ File run order...
 - apply.sh (only for GCP table loads)
 - get_latest_data_from_api.py
 - 1.ingest_circuits_file.ipynb
-- 3.ingest_constructors_file.ipynb
-- 4.ingest_drivers_file.ipynb
-- 9.ingest_races_file_api_multi.ipynb
-- 10.ingest_race_circuits_file_api_multi.ipynb
-- 11.ingest_results_file_api_mulit.ipynb
+- 2.ingest_constructors_file.ipynb
+- 3.ingest_drivers_file.ipynb
+- 7.ingest_races_file_api_multi.ipynb
+- 8.ingest_race_circuits_file_api_multi.ipynb
+- 9.ingest_results_file_api_mulit.ipynb
 - bq_silver_gold_loads_api.py (only for GCP table loads)
 
 To refresh only this years results...
