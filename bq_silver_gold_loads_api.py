@@ -8,7 +8,7 @@ client = bigquery.Client()
 def populate_tables(schema_folder_path = 'files/latest_data_from_api/silver/table_schemas'):
 
     files = listdir(schema_folder_path)
-    if schema_folder_path == 'gold/report_schemas':
+    if schema_folder_path == 'files/latest_data_from_api/gold/report_schemas':
         env = 'gold'
     else:
         env = 'silver'
@@ -62,4 +62,4 @@ def populate_tables(schema_folder_path = 'files/latest_data_from_api/silver/tabl
 if __name__ == '__main__':
     
     populate_tables()
-    #populate_tables(schema_folder_path = 'files/gold/report_schemas')
+    #populate_tables(schema_folder_path = 'files/latest_data_from_api/gold/report_schemas')
