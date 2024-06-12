@@ -1,0 +1,213 @@
+constructor_id,constructor_ref,name,nationality,data_source,ingestion_date
+1,adams,Adams,American,dev,2024-06-12
+2,afm,AFM,German,dev,2024-06-12
+3,ags,AGS,French,dev,2024-06-12
+4,alfa,Alfa Romeo,Swiss,dev,2024-06-12
+5,alphatauri,AlphaTauri,Italian,dev,2024-06-12
+6,alpine,Alpine F1 Team,French,dev,2024-06-12
+7,alta,Alta,British,dev,2024-06-12
+8,amon,Amon,New Zealander,dev,2024-06-12
+9,moda,Andrea Moda,Italian,dev,2024-06-12
+10,apollon,Apollon,Swiss,dev,2024-06-12
+11,arrows,Arrows,British,dev,2024-06-12
+12,arzani-volpini,Arzani-Volpini,Italian,dev,2024-06-12
+13,butterworth,Aston Butterworth,British,dev,2024-06-12
+14,aston_martin,Aston Martin,British,dev,2024-06-12
+15,ats,ATS,Italian,dev,2024-06-12
+16,bar,BAR,British,dev,2024-06-12
+17,behra-porsche,Behra-Porsche,Italian,dev,2024-06-12
+18,bellasi,Bellasi,Swiss,dev,2024-06-12
+19,benetton,Benetton,Italian,dev,2024-06-12
+20,bmw,BMW,German,dev,2024-06-12
+21,bmw_sauber,BMW Sauber,German,dev,2024-06-12
+22,boro,Boro,Dutch,dev,2024-06-12
+23,brabham,Brabham,British,dev,2024-06-12
+24,brabham-alfa_romeo,Brabham-Alfa Romeo,British,dev,2024-06-12
+25,brabham-brm,Brabham-BRM,British,dev,2024-06-12
+26,brabham-climax,Brabham-Climax,British,dev,2024-06-12
+27,brabham-ford,Brabham-Ford,British,dev,2024-06-12
+28,brabham-repco,Brabham-Repco,British,dev,2024-06-12
+29,brawn,Brawn,British,dev,2024-06-12
+30,brm,BRM,British,dev,2024-06-12
+31,brm-ford,BRM-Ford,British,dev,2024-06-12
+32,bromme,Bromme,American,dev,2024-06-12
+33,brp,BRP,British,dev,2024-06-12
+34,bugatti,Bugatti,French,dev,2024-06-12
+35,caterham,Caterham,Malaysian,dev,2024-06-12
+36,vhristensen,Christensen,American,dev,2024-06-12
+37,cisitalia,Cisitalia,Italian,dev,2024-06-12
+38,coloni,Coloni,Italian,dev,2024-06-12
+39,connaught,Connaught,British,dev,2024-06-12
+40,connew,Connew,British,dev,2024-06-12
+41,cooper,Cooper,British,dev,2024-06-12
+42,cooper-alfa_romeo,Cooper-Alfa Romeo,British,dev,2024-06-12
+43,cooper-ats,Cooper-ATS,British,dev,2024-06-12
+44,cooper-borgward,Cooper-Borgward,British,dev,2024-06-12
+45,cooper-brm,Cooper-BRM,British,dev,2024-06-12
+46,cooper-castellotti,Cooper-Castellotti,British,dev,2024-06-12
+47,cooper-climax,Cooper-Climax,British,dev,2024-06-12
+48,cooper-ferrari,Cooper-Ferrari,British,dev,2024-06-12
+49,cooper-ford,Cooper-Ford,British,dev,2024-06-12
+50,cooper-maserati,Cooper-Maserati,British,dev,2024-06-12
+51,cooper-osca,Cooper-OSCA,British,dev,2024-06-12
+52,dallara,Dallara,Italian,dev,2024-06-12
+53,tomaso,De Tomaso,Italian,dev,2024-06-12
+54,de_tomaso-alfa_romeo,De Tomaso-Alfa Romeo,Italian,dev,2024-06-12
+55,de_tomaso-ferrari,De Tomaso-Ferrari,Italian,dev,2024-06-12
+56,de_tomaso-osca,De Tomaso-Osca,Italian,dev,2024-06-12
+57,deidt,Deidt,American,dev,2024-06-12
+58,del_roy,Del Roy,American,dev,2024-06-12
+59,derrington,Derrington,British,dev,2024-06-12
+60,dunn,Dunn,American,dev,2024-06-12
+61,eagle,Eagle,American,dev,2024-06-12
+62,eagle-climax,Eagle-Climax,American,dev,2024-06-12
+63,eagle-weslake,Eagle-Weslake,American,dev,2024-06-12
+64,elder,Elder,American,dev,2024-06-12
+65,hill,Embassy Hill,British,dev,2024-06-12
+66,emeryson,Emeryson,British,dev,2024-06-12
+67,emw,EMW,East German,dev,2024-06-12
+68,enb,ENB,Belgian,dev,2024-06-12
+69,ensign,Ensign,British,dev,2024-06-12
+70,epperly,Epperly,American,dev,2024-06-12
+71,era,ERA,British,dev,2024-06-12
+72,eurobrun,Euro Brun,Italian,dev,2024-06-12
+73,ewing,Ewing,American,dev,2024-06-12
+74,ferguson,Ferguson,British,dev,2024-06-12
+75,ferrari,Ferrari,Italian,dev,2024-06-12
+76,fittipaldi,Fittipaldi,Brazilian,dev,2024-06-12
+77,fondmetal,Fondmetal,Italian,dev,2024-06-12
+78,footwork,Footwork,British,dev,2024-06-12
+79,force_india,Force India,Indian,dev,2024-06-12
+80,forti,Forti,Italian,dev,2024-06-12
+81,frazer_nash,Frazer Nash,British,dev,2024-06-12
+82,fry,Fry,British,dev,2024-06-12
+83,gilby,Gilby,British,dev,2024-06-12
+84,gordini,Gordini,French,dev,2024-06-12
+85,haas,Haas F1 Team,American,dev,2024-06-12
+86,hall,Hall,American,dev,2024-06-12
+87,hesketh,Hesketh,British,dev,2024-06-12
+88,honda,Honda,Japanese,dev,2024-06-12
+89,hrt,HRT,Spanish,dev,2024-06-12
+90,hwm,HWM,British,dev,2024-06-12
+91,iso_marlboro,Iso Marlboro,British,dev,2024-06-12
+92,jaguar,Jaguar,British,dev,2024-06-12
+93,jbw,JBW,British,dev,2024-06-12
+94,jordan,Jordan,Irish,dev,2024-06-12
+95,kauhsen,Kauhsen,German,dev,2024-06-12
+96,klenk,Klenk,German,dev,2024-06-12
+97,kojima,Kojima,Japanese,dev,2024-06-12
+98,kurtis_kraft,Kurtis Kraft,American,dev,2024-06-12
+99,kuzma,Kuzma,American,dev,2024-06-12
+100,lambo,Lambo,Italian,dev,2024-06-12
+101,lancia,Lancia,Italian,dev,2024-06-12
+102,langley,Langley,American,dev,2024-06-12
+103,larrousse,Larrousse,French,dev,2024-06-12
+104,lds,LDS,South African,dev,2024-06-12
+105,lds-alfa_romeo,LDS-Alfa Romeo,South African,dev,2024-06-12
+106,lds-climax,LDS-Climax,South African,dev,2024-06-12
+107,lec,LEC,British,dev,2024-06-12
+108,lesovsky,Lesovsky,American,dev,2024-06-12
+109,leyton,Leyton House,British,dev,2024-06-12
+110,life,Life,Italian,dev,2024-06-12
+111,ligier,Ligier,French,dev,2024-06-12
+112,lola,Lola,British,dev,2024-06-12
+113,lotus_racing,Lotus,Malaysian,dev,2024-06-12
+114,lotus_f1,Lotus F1,British,dev,2024-06-12
+115,lotus-borgward,Lotus-Borgward,British,dev,2024-06-12
+116,lotus-brm,Lotus-BRM,British,dev,2024-06-12
+117,lotus-climax,Lotus-Climax,British,dev,2024-06-12
+118,lotus-ford,Lotus-Ford,British,dev,2024-06-12
+119,lotus-maserati,Lotus-Maserati,British,dev,2024-06-12
+120,lotus-pw,Lotus-Pratt &amp; Whitney,British,dev,2024-06-12
+121,lyncar,Lyncar,British,dev,2024-06-12
+122,maki,Maki,Japanese,dev,2024-06-12
+123,manor,Manor Marussia,British,dev,2024-06-12
+124,march,March,British,dev,2024-06-12
+125,march-alfa_romeo,March-Alfa Romeo,British,dev,2024-06-12
+126,march-ford,March-Ford,British,dev,2024-06-12
+127,marchese,Marchese,American,dev,2024-06-12
+128,martini,Martini,French,dev,2024-06-12
+129,marussia,Marussia,Russian,dev,2024-06-12
+130,maserati,Maserati,Italian,dev,2024-06-12
+131,matra,Matra,French,dev,2024-06-12
+132,matra-ford,Matra-Ford,French,dev,2024-06-12
+133,mbm,MBM,Swiss,dev,2024-06-12
+134,mcguire,McGuire,Australian,dev,2024-06-12
+135,mclaren,McLaren,British,dev,2024-06-12
+136,mclaren-alfa_romeo,McLaren-Alfa Romeo,British,dev,2024-06-12
+137,mclaren-brm,McLaren-BRM,British,dev,2024-06-12
+138,mclaren-ford,McLaren-Ford,British,dev,2024-06-12
+139,mclaren-seren,McLaren-Serenissima,British,dev,2024-06-12
+140,mercedes,Mercedes,German,dev,2024-06-12
+141,merzario,Merzario,Italian,dev,2024-06-12
+142,meskowski,Meskowski,American,dev,2024-06-12
+143,mf1,MF1,Russian,dev,2024-06-12
+144,milano,Milano,Italian,dev,2024-06-12
+145,minardi,Minardi,Italian,dev,2024-06-12
+146,moore,Moore,American,dev,2024-06-12
+147,nichels,Nichels,American,dev,2024-06-12
+148,olson,Olson,American,dev,2024-06-12
+149,onyx,Onyx,British,dev,2024-06-12
+150,osca,OSCA,Italian,dev,2024-06-12
+151,osella,Osella,Italian,dev,2024-06-12
+152,pacific,Pacific,British,dev,2024-06-12
+153,pankratz,Pankratz,American,dev,2024-06-12
+154,parnelli,Parnelli,American,dev,2024-06-12
+155,pawl,Pawl,American,dev,2024-06-12
+156,penske,Penske,American,dev,2024-06-12
+157,phillips,Phillips,American,dev,2024-06-12
+158,politoys,Politoys,British,dev,2024-06-12
+159,porsche,Porsche,German,dev,2024-06-12
+160,prost,Prost,French,dev,2024-06-12
+161,protos,Protos,British,dev,2024-06-12
+162,racing_point,Racing Point,British,dev,2024-06-12
+163,rae,Rae,American,dev,2024-06-12
+164,ram,RAM,British,dev,2024-06-12
+165,rb,RB F1 Team,Italian,dev,2024-06-12
+166,re,RE,Rhodesian,dev,2024-06-12
+167,rebaque,Rebaque,Mexican,dev,2024-06-12
+168,red_bull,Red Bull,Austrian,dev,2024-06-12
+169,renault,Renault,French,dev,2024-06-12
+170,rial,Rial,German,dev,2024-06-12
+171,sauber,Sauber,Swiss,dev,2024-06-12
+172,scarab,Scarab,American,dev,2024-06-12
+173,schroeder,Schroeder,American,dev,2024-06-12
+174,scirocco,Scirocco,British,dev,2024-06-12
+175,shadow,Shadow,British,dev,2024-06-12
+176,shadow-ford,Shadow-Ford,British,dev,2024-06-12
+177,shadow-matra,Shadow-Matra,British,dev,2024-06-12
+178,shannon,Shannon,British,dev,2024-06-12
+179,sherman,Sherman,American,dev,2024-06-12
+180,simca,Simca,French,dev,2024-06-12
+181,simtek,Simtek,British,dev,2024-06-12
+182,snowberger,Snowberger,American,dev,2024-06-12
+183,spirit,Spirit,British,dev,2024-06-12
+184,spyker,Spyker,Dutch,dev,2024-06-12
+185,spyker_mf1,Spyker MF1,Dutch,dev,2024-06-12
+186,stebro,Stebro,Canadian,dev,2024-06-12
+187,stevens,Stevens,American,dev,2024-06-12
+188,stewart,Stewart,British,dev,2024-06-12
+189,super_aguri,Super Aguri,Japanese,dev,2024-06-12
+190,surtees,Surtees,British,dev,2024-06-12
+191,sutton,Sutton,American,dev,2024-06-12
+192,lago,Talbot-Lago,French,dev,2024-06-12
+193,team_lotus,Team Lotus,British,dev,2024-06-12
+194,tec-mec,Tec-Mec,Italian,dev,2024-06-12
+195,tecno,Tecno,Italian,dev,2024-06-12
+196,theodore,Theodore,Hong Kong,dev,2024-06-12
+197,token,Token,British,dev,2024-06-12
+198,toleman,Toleman,British,dev,2024-06-12
+199,toro_rosso,Toro Rosso,Italian,dev,2024-06-12
+200,toyota,Toyota,Japanese,dev,2024-06-12
+201,trevis,Trevis,American,dev,2024-06-12
+202,trojan,Trojan,British,dev,2024-06-12
+203,turner,Turner,American,dev,2024-06-12
+204,tyrrell,Tyrrell,British,dev,2024-06-12
+205,vanwall,Vanwall,British,dev,2024-06-12
+206,veritas,Veritas,German,dev,2024-06-12
+207,virgin,Virgin,British,dev,2024-06-12
+208,watson,Watson,American,dev,2024-06-12
+209,wetteroth,Wetteroth,American,dev,2024-06-12
+210,williams,Williams,British,dev,2024-06-12
+211,wolf,Wolf,Canadian,dev,2024-06-12
+212,zakspeed,Zakspeed,German,dev,2024-06-12

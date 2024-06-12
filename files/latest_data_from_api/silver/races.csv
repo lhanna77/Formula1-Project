@@ -1,0 +1,1126 @@
+race_id,year,round,circuit_id,race_name,date,time,race_id_join,race_timestamp,data_source,ingestion_date
+1,1950,1,Silverstone Circuit,British Grand Prix,1950-05-13,06:00:00,British Grand Prix1950,1950-05-13 06:00:00,api,2024-06-12
+2,1950,2,Circuit de Monaco,Monaco Grand Prix,1950-05-21,06:00:00,Monaco Grand Prix1950,1950-05-21 06:00:00,api,2024-06-12
+3,1950,3,Indianapolis Motor Speedway,Indianapolis 500,1950-05-30,06:00:00,Indianapolis 5001950,1950-05-30 06:00:00,api,2024-06-12
+4,1950,4,Circuit Bremgarten,Swiss Grand Prix,1950-06-04,06:00:00,Swiss Grand Prix1950,1950-06-04 06:00:00,api,2024-06-12
+5,1950,5,Circuit de Spa-Francorchamps,Belgian Grand Prix,1950-06-18,06:00:00,Belgian Grand Prix1950,1950-06-18 06:00:00,api,2024-06-12
+6,1950,6,Reims-Gueux,French Grand Prix,1950-07-02,06:00:00,French Grand Prix1950,1950-07-02 06:00:00,api,2024-06-12
+7,1950,7,Autodromo Nazionale di Monza,Italian Grand Prix,1950-09-03,06:00:00,Italian Grand Prix1950,1950-09-03 06:00:00,api,2024-06-12
+8,1951,1,Circuit Bremgarten,Swiss Grand Prix,1951-05-27,06:00:00,Swiss Grand Prix1951,1951-05-27 06:00:00,api,2024-06-12
+9,1951,2,Indianapolis Motor Speedway,Indianapolis 500,1951-05-30,06:00:00,Indianapolis 5001951,1951-05-30 06:00:00,api,2024-06-12
+10,1951,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,1951-06-17,06:00:00,Belgian Grand Prix1951,1951-06-17 06:00:00,api,2024-06-12
+11,1951,4,Reims-Gueux,French Grand Prix,1951-07-01,06:00:00,French Grand Prix1951,1951-07-01 06:00:00,api,2024-06-12
+12,1951,5,Silverstone Circuit,British Grand Prix,1951-07-14,06:00:00,British Grand Prix1951,1951-07-14 06:00:00,api,2024-06-12
+13,1951,6,Nürburgring,German Grand Prix,1951-07-29,06:00:00,German Grand Prix1951,1951-07-29 06:00:00,api,2024-06-12
+14,1951,7,Autodromo Nazionale di Monza,Italian Grand Prix,1951-09-16,06:00:00,Italian Grand Prix1951,1951-09-16 06:00:00,api,2024-06-12
+15,1951,8,Circuit de Pedralbes,Spanish Grand Prix,1951-10-28,06:00:00,Spanish Grand Prix1951,1951-10-28 06:00:00,api,2024-06-12
+16,1952,1,Circuit Bremgarten,Swiss Grand Prix,1952-05-18,06:00:00,Swiss Grand Prix1952,1952-05-18 06:00:00,api,2024-06-12
+17,1952,2,Indianapolis Motor Speedway,Indianapolis 500,1952-05-30,06:00:00,Indianapolis 5001952,1952-05-30 06:00:00,api,2024-06-12
+18,1952,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,1952-06-22,06:00:00,Belgian Grand Prix1952,1952-06-22 06:00:00,api,2024-06-12
+19,1952,4,Rouen-Les-Essarts,French Grand Prix,1952-07-06,06:00:00,French Grand Prix1952,1952-07-06 06:00:00,api,2024-06-12
+20,1952,5,Silverstone Circuit,British Grand Prix,1952-07-19,06:00:00,British Grand Prix1952,1952-07-19 06:00:00,api,2024-06-12
+21,1952,6,Nürburgring,German Grand Prix,1952-08-03,06:00:00,German Grand Prix1952,1952-08-03 06:00:00,api,2024-06-12
+22,1952,7,Circuit Park Zandvoort,Dutch Grand Prix,1952-08-17,06:00:00,Dutch Grand Prix1952,1952-08-17 06:00:00,api,2024-06-12
+23,1952,8,Autodromo Nazionale di Monza,Italian Grand Prix,1952-09-07,06:00:00,Italian Grand Prix1952,1952-09-07 06:00:00,api,2024-06-12
+24,1953,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1953-01-18,06:00:00,Argentine Grand Prix1953,1953-01-18 06:00:00,api,2024-06-12
+25,1953,2,Indianapolis Motor Speedway,Indianapolis 500,1953-05-30,06:00:00,Indianapolis 5001953,1953-05-30 06:00:00,api,2024-06-12
+26,1953,3,Circuit Park Zandvoort,Dutch Grand Prix,1953-06-07,06:00:00,Dutch Grand Prix1953,1953-06-07 06:00:00,api,2024-06-12
+27,1953,4,Circuit de Spa-Francorchamps,Belgian Grand Prix,1953-06-21,06:00:00,Belgian Grand Prix1953,1953-06-21 06:00:00,api,2024-06-12
+28,1953,5,Reims-Gueux,French Grand Prix,1953-07-05,06:00:00,French Grand Prix1953,1953-07-05 06:00:00,api,2024-06-12
+29,1953,6,Silverstone Circuit,British Grand Prix,1953-07-18,06:00:00,British Grand Prix1953,1953-07-18 06:00:00,api,2024-06-12
+30,1953,7,Nürburgring,German Grand Prix,1953-08-02,06:00:00,German Grand Prix1953,1953-08-02 06:00:00,api,2024-06-12
+31,1953,8,Circuit Bremgarten,Swiss Grand Prix,1953-08-23,06:00:00,Swiss Grand Prix1953,1953-08-23 06:00:00,api,2024-06-12
+32,1953,9,Autodromo Nazionale di Monza,Italian Grand Prix,1953-09-13,06:00:00,Italian Grand Prix1953,1953-09-13 06:00:00,api,2024-06-12
+33,1954,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1954-01-17,06:00:00,Argentine Grand Prix1954,1954-01-17 06:00:00,api,2024-06-12
+34,1954,2,Indianapolis Motor Speedway,Indianapolis 500,1954-05-31,06:00:00,Indianapolis 5001954,1954-05-31 06:00:00,api,2024-06-12
+35,1954,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,1954-06-20,06:00:00,Belgian Grand Prix1954,1954-06-20 06:00:00,api,2024-06-12
+36,1954,4,Reims-Gueux,French Grand Prix,1954-07-04,06:00:00,French Grand Prix1954,1954-07-04 06:00:00,api,2024-06-12
+37,1954,5,Silverstone Circuit,British Grand Prix,1954-07-17,06:00:00,British Grand Prix1954,1954-07-17 06:00:00,api,2024-06-12
+38,1954,6,Nürburgring,German Grand Prix,1954-08-01,06:00:00,German Grand Prix1954,1954-08-01 06:00:00,api,2024-06-12
+39,1954,7,Circuit Bremgarten,Swiss Grand Prix,1954-08-22,06:00:00,Swiss Grand Prix1954,1954-08-22 06:00:00,api,2024-06-12
+40,1954,8,Autodromo Nazionale di Monza,Italian Grand Prix,1954-09-05,06:00:00,Italian Grand Prix1954,1954-09-05 06:00:00,api,2024-06-12
+41,1954,9,Circuit de Pedralbes,Spanish Grand Prix,1954-10-24,06:00:00,Spanish Grand Prix1954,1954-10-24 06:00:00,api,2024-06-12
+42,1955,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1955-01-16,06:00:00,Argentine Grand Prix1955,1955-01-16 06:00:00,api,2024-06-12
+43,1955,2,Circuit de Monaco,Monaco Grand Prix,1955-05-22,06:00:00,Monaco Grand Prix1955,1955-05-22 06:00:00,api,2024-06-12
+44,1955,3,Indianapolis Motor Speedway,Indianapolis 500,1955-05-30,06:00:00,Indianapolis 5001955,1955-05-30 06:00:00,api,2024-06-12
+45,1955,4,Circuit de Spa-Francorchamps,Belgian Grand Prix,1955-06-05,06:00:00,Belgian Grand Prix1955,1955-06-05 06:00:00,api,2024-06-12
+46,1955,5,Circuit Park Zandvoort,Dutch Grand Prix,1955-06-19,06:00:00,Dutch Grand Prix1955,1955-06-19 06:00:00,api,2024-06-12
+47,1955,6,Aintree,British Grand Prix,1955-07-16,06:00:00,British Grand Prix1955,1955-07-16 06:00:00,api,2024-06-12
+48,1955,7,Autodromo Nazionale di Monza,Italian Grand Prix,1955-09-11,06:00:00,Italian Grand Prix1955,1955-09-11 06:00:00,api,2024-06-12
+49,1956,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1956-01-22,06:00:00,Argentine Grand Prix1956,1956-01-22 06:00:00,api,2024-06-12
+50,1956,2,Circuit de Monaco,Monaco Grand Prix,1956-05-13,06:00:00,Monaco Grand Prix1956,1956-05-13 06:00:00,api,2024-06-12
+51,1956,3,Indianapolis Motor Speedway,Indianapolis 500,1956-05-30,06:00:00,Indianapolis 5001956,1956-05-30 06:00:00,api,2024-06-12
+52,1956,4,Circuit de Spa-Francorchamps,Belgian Grand Prix,1956-06-03,06:00:00,Belgian Grand Prix1956,1956-06-03 06:00:00,api,2024-06-12
+53,1956,5,Reims-Gueux,French Grand Prix,1956-07-01,06:00:00,French Grand Prix1956,1956-07-01 06:00:00,api,2024-06-12
+54,1956,6,Silverstone Circuit,British Grand Prix,1956-07-14,06:00:00,British Grand Prix1956,1956-07-14 06:00:00,api,2024-06-12
+55,1956,7,Nürburgring,German Grand Prix,1956-08-05,06:00:00,German Grand Prix1956,1956-08-05 06:00:00,api,2024-06-12
+56,1956,8,Autodromo Nazionale di Monza,Italian Grand Prix,1956-09-02,06:00:00,Italian Grand Prix1956,1956-09-02 06:00:00,api,2024-06-12
+57,1957,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1957-01-13,06:00:00,Argentine Grand Prix1957,1957-01-13 06:00:00,api,2024-06-12
+58,1957,2,Circuit de Monaco,Monaco Grand Prix,1957-05-19,06:00:00,Monaco Grand Prix1957,1957-05-19 06:00:00,api,2024-06-12
+59,1957,3,Indianapolis Motor Speedway,Indianapolis 500,1957-05-30,06:00:00,Indianapolis 5001957,1957-05-30 06:00:00,api,2024-06-12
+60,1957,4,Rouen-Les-Essarts,French Grand Prix,1957-07-07,06:00:00,French Grand Prix1957,1957-07-07 06:00:00,api,2024-06-12
+61,1957,5,Aintree,British Grand Prix,1957-07-20,06:00:00,British Grand Prix1957,1957-07-20 06:00:00,api,2024-06-12
+62,1957,6,Nürburgring,German Grand Prix,1957-08-04,06:00:00,German Grand Prix1957,1957-08-04 06:00:00,api,2024-06-12
+63,1957,7,Pescara Circuit,Pescara Grand Prix,1957-08-18,06:00:00,Pescara Grand Prix1957,1957-08-18 06:00:00,api,2024-06-12
+64,1957,8,Autodromo Nazionale di Monza,Italian Grand Prix,1957-09-08,06:00:00,Italian Grand Prix1957,1957-09-08 06:00:00,api,2024-06-12
+65,1958,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1958-01-19,06:00:00,Argentine Grand Prix1958,1958-01-19 06:00:00,api,2024-06-12
+66,1958,2,Circuit de Monaco,Monaco Grand Prix,1958-05-18,06:00:00,Monaco Grand Prix1958,1958-05-18 06:00:00,api,2024-06-12
+67,1958,3,Circuit Park Zandvoort,Dutch Grand Prix,1958-05-26,06:00:00,Dutch Grand Prix1958,1958-05-26 06:00:00,api,2024-06-12
+68,1958,4,Indianapolis Motor Speedway,Indianapolis 500,1958-05-30,06:00:00,Indianapolis 5001958,1958-05-30 06:00:00,api,2024-06-12
+69,1958,5,Circuit de Spa-Francorchamps,Belgian Grand Prix,1958-06-15,06:00:00,Belgian Grand Prix1958,1958-06-15 06:00:00,api,2024-06-12
+70,1958,6,Reims-Gueux,French Grand Prix,1958-07-06,06:00:00,French Grand Prix1958,1958-07-06 06:00:00,api,2024-06-12
+71,1958,7,Silverstone Circuit,British Grand Prix,1958-07-19,06:00:00,British Grand Prix1958,1958-07-19 06:00:00,api,2024-06-12
+72,1958,8,Nürburgring,German Grand Prix,1958-08-03,06:00:00,German Grand Prix1958,1958-08-03 06:00:00,api,2024-06-12
+73,1958,9,Circuito da Boavista,Portuguese Grand Prix,1958-08-24,06:00:00,Portuguese Grand Prix1958,1958-08-24 06:00:00,api,2024-06-12
+74,1958,10,Autodromo Nazionale di Monza,Italian Grand Prix,1958-09-07,06:00:00,Italian Grand Prix1958,1958-09-07 06:00:00,api,2024-06-12
+75,1958,11,Ain Diab,Moroccan Grand Prix,1958-10-19,06:00:00,Moroccan Grand Prix1958,1958-10-19 06:00:00,api,2024-06-12
+76,1959,1,Circuit de Monaco,Monaco Grand Prix,1959-05-10,06:00:00,Monaco Grand Prix1959,1959-05-10 06:00:00,api,2024-06-12
+77,1959,2,Indianapolis Motor Speedway,Indianapolis 500,1959-05-30,06:00:00,Indianapolis 5001959,1959-05-30 06:00:00,api,2024-06-12
+78,1959,3,Circuit Park Zandvoort,Dutch Grand Prix,1959-05-31,06:00:00,Dutch Grand Prix1959,1959-05-31 06:00:00,api,2024-06-12
+79,1959,4,Reims-Gueux,French Grand Prix,1959-07-05,06:00:00,French Grand Prix1959,1959-07-05 06:00:00,api,2024-06-12
+80,1959,5,Aintree,British Grand Prix,1959-07-18,06:00:00,British Grand Prix1959,1959-07-18 06:00:00,api,2024-06-12
+81,1959,6,AVUS,German Grand Prix,1959-08-02,06:00:00,German Grand Prix1959,1959-08-02 06:00:00,api,2024-06-12
+82,1959,7,Monsanto Park Circuit,Portuguese Grand Prix,1959-08-23,06:00:00,Portuguese Grand Prix1959,1959-08-23 06:00:00,api,2024-06-12
+83,1959,8,Autodromo Nazionale di Monza,Italian Grand Prix,1959-09-13,06:00:00,Italian Grand Prix1959,1959-09-13 06:00:00,api,2024-06-12
+84,1959,9,Sebring International Raceway,United States Grand Prix,1959-12-12,06:00:00,United States Grand Prix1959,1959-12-12 06:00:00,api,2024-06-12
+85,1960,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1960-02-07,06:00:00,Argentine Grand Prix1960,1960-02-07 06:00:00,api,2024-06-12
+86,1960,2,Circuit de Monaco,Monaco Grand Prix,1960-05-29,06:00:00,Monaco Grand Prix1960,1960-05-29 06:00:00,api,2024-06-12
+87,1960,3,Indianapolis Motor Speedway,Indianapolis 500,1960-05-30,06:00:00,Indianapolis 5001960,1960-05-30 06:00:00,api,2024-06-12
+88,1960,4,Circuit Park Zandvoort,Dutch Grand Prix,1960-06-06,06:00:00,Dutch Grand Prix1960,1960-06-06 06:00:00,api,2024-06-12
+89,1960,5,Circuit de Spa-Francorchamps,Belgian Grand Prix,1960-06-19,06:00:00,Belgian Grand Prix1960,1960-06-19 06:00:00,api,2024-06-12
+90,1960,6,Reims-Gueux,French Grand Prix,1960-07-03,06:00:00,French Grand Prix1960,1960-07-03 06:00:00,api,2024-06-12
+91,1960,7,Silverstone Circuit,British Grand Prix,1960-07-16,06:00:00,British Grand Prix1960,1960-07-16 06:00:00,api,2024-06-12
+92,1960,8,Circuito da Boavista,Portuguese Grand Prix,1960-08-14,06:00:00,Portuguese Grand Prix1960,1960-08-14 06:00:00,api,2024-06-12
+93,1960,9,Autodromo Nazionale di Monza,Italian Grand Prix,1960-09-04,06:00:00,Italian Grand Prix1960,1960-09-04 06:00:00,api,2024-06-12
+94,1960,10,Riverside International Raceway,United States Grand Prix,1960-11-20,06:00:00,United States Grand Prix1960,1960-11-20 06:00:00,api,2024-06-12
+95,1961,1,Circuit de Monaco,Monaco Grand Prix,1961-05-14,06:00:00,Monaco Grand Prix1961,1961-05-14 06:00:00,api,2024-06-12
+96,1961,2,Circuit Park Zandvoort,Dutch Grand Prix,1961-05-22,06:00:00,Dutch Grand Prix1961,1961-05-22 06:00:00,api,2024-06-12
+97,1961,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,1961-06-18,06:00:00,Belgian Grand Prix1961,1961-06-18 06:00:00,api,2024-06-12
+98,1961,4,Reims-Gueux,French Grand Prix,1961-07-02,06:00:00,French Grand Prix1961,1961-07-02 06:00:00,api,2024-06-12
+99,1961,5,Aintree,British Grand Prix,1961-07-15,06:00:00,British Grand Prix1961,1961-07-15 06:00:00,api,2024-06-12
+100,1961,6,Nürburgring,German Grand Prix,1961-08-06,06:00:00,German Grand Prix1961,1961-08-06 06:00:00,api,2024-06-12
+101,1961,7,Autodromo Nazionale di Monza,Italian Grand Prix,1961-09-10,06:00:00,Italian Grand Prix1961,1961-09-10 06:00:00,api,2024-06-12
+102,1961,8,Watkins Glen,United States Grand Prix,1961-10-08,06:00:00,United States Grand Prix1961,1961-10-08 06:00:00,api,2024-06-12
+103,1962,1,Circuit Park Zandvoort,Dutch Grand Prix,1962-05-20,06:00:00,Dutch Grand Prix1962,1962-05-20 06:00:00,api,2024-06-12
+104,1962,2,Circuit de Monaco,Monaco Grand Prix,1962-06-03,06:00:00,Monaco Grand Prix1962,1962-06-03 06:00:00,api,2024-06-12
+105,1962,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,1962-06-17,06:00:00,Belgian Grand Prix1962,1962-06-17 06:00:00,api,2024-06-12
+106,1962,4,Rouen-Les-Essarts,French Grand Prix,1962-07-08,06:00:00,French Grand Prix1962,1962-07-08 06:00:00,api,2024-06-12
+107,1962,5,Aintree,British Grand Prix,1962-07-21,06:00:00,British Grand Prix1962,1962-07-21 06:00:00,api,2024-06-12
+108,1962,6,Nürburgring,German Grand Prix,1962-08-05,06:00:00,German Grand Prix1962,1962-08-05 06:00:00,api,2024-06-12
+109,1962,7,Autodromo Nazionale di Monza,Italian Grand Prix,1962-09-16,06:00:00,Italian Grand Prix1962,1962-09-16 06:00:00,api,2024-06-12
+110,1962,8,Watkins Glen,United States Grand Prix,1962-10-07,06:00:00,United States Grand Prix1962,1962-10-07 06:00:00,api,2024-06-12
+111,1962,9,Prince George Circuit,South African Grand Prix,1962-12-29,06:00:00,South African Grand Prix1962,1962-12-29 06:00:00,api,2024-06-12
+112,1963,1,Circuit de Monaco,Monaco Grand Prix,1963-05-26,06:00:00,Monaco Grand Prix1963,1963-05-26 06:00:00,api,2024-06-12
+113,1963,2,Circuit de Spa-Francorchamps,Belgian Grand Prix,1963-06-09,06:00:00,Belgian Grand Prix1963,1963-06-09 06:00:00,api,2024-06-12
+114,1963,3,Circuit Park Zandvoort,Dutch Grand Prix,1963-06-23,06:00:00,Dutch Grand Prix1963,1963-06-23 06:00:00,api,2024-06-12
+115,1963,4,Reims-Gueux,French Grand Prix,1963-06-30,06:00:00,French Grand Prix1963,1963-06-30 06:00:00,api,2024-06-12
+116,1963,5,Silverstone Circuit,British Grand Prix,1963-07-20,06:00:00,British Grand Prix1963,1963-07-20 06:00:00,api,2024-06-12
+117,1963,6,Nürburgring,German Grand Prix,1963-08-04,06:00:00,German Grand Prix1963,1963-08-04 06:00:00,api,2024-06-12
+118,1963,7,Autodromo Nazionale di Monza,Italian Grand Prix,1963-09-08,06:00:00,Italian Grand Prix1963,1963-09-08 06:00:00,api,2024-06-12
+119,1963,8,Watkins Glen,United States Grand Prix,1963-10-06,06:00:00,United States Grand Prix1963,1963-10-06 06:00:00,api,2024-06-12
+120,1963,9,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1963-10-27,06:00:00,Mexican Grand Prix1963,1963-10-27 06:00:00,api,2024-06-12
+121,1963,10,Prince George Circuit,South African Grand Prix,1963-12-28,06:00:00,South African Grand Prix1963,1963-12-28 06:00:00,api,2024-06-12
+122,1964,1,Circuit de Monaco,Monaco Grand Prix,1964-05-10,06:00:00,Monaco Grand Prix1964,1964-05-10 06:00:00,api,2024-06-12
+123,1964,2,Circuit Park Zandvoort,Dutch Grand Prix,1964-05-24,06:00:00,Dutch Grand Prix1964,1964-05-24 06:00:00,api,2024-06-12
+124,1964,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,1964-06-14,06:00:00,Belgian Grand Prix1964,1964-06-14 06:00:00,api,2024-06-12
+125,1964,4,Rouen-Les-Essarts,French Grand Prix,1964-06-28,06:00:00,French Grand Prix1964,1964-06-28 06:00:00,api,2024-06-12
+126,1964,5,Brands Hatch,British Grand Prix,1964-07-11,06:00:00,British Grand Prix1964,1964-07-11 06:00:00,api,2024-06-12
+127,1964,6,Nürburgring,German Grand Prix,1964-08-02,06:00:00,German Grand Prix1964,1964-08-02 06:00:00,api,2024-06-12
+128,1964,7,Zeltweg,Austrian Grand Prix,1964-08-23,06:00:00,Austrian Grand Prix1964,1964-08-23 06:00:00,api,2024-06-12
+129,1964,8,Autodromo Nazionale di Monza,Italian Grand Prix,1964-09-06,06:00:00,Italian Grand Prix1964,1964-09-06 06:00:00,api,2024-06-12
+130,1964,9,Watkins Glen,United States Grand Prix,1964-10-04,06:00:00,United States Grand Prix1964,1964-10-04 06:00:00,api,2024-06-12
+131,1964,10,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1964-10-25,06:00:00,Mexican Grand Prix1964,1964-10-25 06:00:00,api,2024-06-12
+132,1965,1,Prince George Circuit,South African Grand Prix,1965-01-01,06:00:00,South African Grand Prix1965,1965-01-01 06:00:00,api,2024-06-12
+133,1965,2,Circuit de Monaco,Monaco Grand Prix,1965-05-30,06:00:00,Monaco Grand Prix1965,1965-05-30 06:00:00,api,2024-06-12
+134,1965,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,1965-06-13,06:00:00,Belgian Grand Prix1965,1965-06-13 06:00:00,api,2024-06-12
+135,1965,4,Charade Circuit,French Grand Prix,1965-06-27,06:00:00,French Grand Prix1965,1965-06-27 06:00:00,api,2024-06-12
+136,1965,5,Silverstone Circuit,British Grand Prix,1965-07-10,06:00:00,British Grand Prix1965,1965-07-10 06:00:00,api,2024-06-12
+137,1965,6,Circuit Park Zandvoort,Dutch Grand Prix,1965-07-18,06:00:00,Dutch Grand Prix1965,1965-07-18 06:00:00,api,2024-06-12
+138,1965,7,Nürburgring,German Grand Prix,1965-08-01,06:00:00,German Grand Prix1965,1965-08-01 06:00:00,api,2024-06-12
+139,1965,8,Autodromo Nazionale di Monza,Italian Grand Prix,1965-09-12,06:00:00,Italian Grand Prix1965,1965-09-12 06:00:00,api,2024-06-12
+140,1965,9,Watkins Glen,United States Grand Prix,1965-10-03,06:00:00,United States Grand Prix1965,1965-10-03 06:00:00,api,2024-06-12
+141,1965,10,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1965-10-24,06:00:00,Mexican Grand Prix1965,1965-10-24 06:00:00,api,2024-06-12
+142,1966,1,Circuit de Monaco,Monaco Grand Prix,1966-05-22,06:00:00,Monaco Grand Prix1966,1966-05-22 06:00:00,api,2024-06-12
+143,1966,2,Circuit de Spa-Francorchamps,Belgian Grand Prix,1966-06-12,06:00:00,Belgian Grand Prix1966,1966-06-12 06:00:00,api,2024-06-12
+144,1966,3,Reims-Gueux,French Grand Prix,1966-07-03,06:00:00,French Grand Prix1966,1966-07-03 06:00:00,api,2024-06-12
+145,1966,4,Brands Hatch,British Grand Prix,1966-07-16,06:00:00,British Grand Prix1966,1966-07-16 06:00:00,api,2024-06-12
+146,1966,5,Circuit Park Zandvoort,Dutch Grand Prix,1966-07-24,06:00:00,Dutch Grand Prix1966,1966-07-24 06:00:00,api,2024-06-12
+147,1966,6,Nürburgring,German Grand Prix,1966-08-07,06:00:00,German Grand Prix1966,1966-08-07 06:00:00,api,2024-06-12
+148,1966,7,Autodromo Nazionale di Monza,Italian Grand Prix,1966-09-04,06:00:00,Italian Grand Prix1966,1966-09-04 06:00:00,api,2024-06-12
+149,1966,8,Watkins Glen,United States Grand Prix,1966-10-02,06:00:00,United States Grand Prix1966,1966-10-02 06:00:00,api,2024-06-12
+150,1966,9,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1966-10-23,06:00:00,Mexican Grand Prix1966,1966-10-23 06:00:00,api,2024-06-12
+151,1967,1,Kyalami,South African Grand Prix,1967-01-02,06:00:00,South African Grand Prix1967,1967-01-02 06:00:00,api,2024-06-12
+152,1967,2,Circuit de Monaco,Monaco Grand Prix,1967-05-07,06:00:00,Monaco Grand Prix1967,1967-05-07 06:00:00,api,2024-06-12
+153,1967,3,Circuit Park Zandvoort,Dutch Grand Prix,1967-06-04,06:00:00,Dutch Grand Prix1967,1967-06-04 06:00:00,api,2024-06-12
+154,1967,4,Circuit de Spa-Francorchamps,Belgian Grand Prix,1967-06-18,06:00:00,Belgian Grand Prix1967,1967-06-18 06:00:00,api,2024-06-12
+155,1967,5,Le Mans,French Grand Prix,1967-07-02,06:00:00,French Grand Prix1967,1967-07-02 06:00:00,api,2024-06-12
+156,1967,6,Silverstone Circuit,British Grand Prix,1967-07-15,06:00:00,British Grand Prix1967,1967-07-15 06:00:00,api,2024-06-12
+157,1967,7,Nürburgring,German Grand Prix,1967-08-06,06:00:00,German Grand Prix1967,1967-08-06 06:00:00,api,2024-06-12
+158,1967,8,Mosport International Raceway,Canadian Grand Prix,1967-08-27,06:00:00,Canadian Grand Prix1967,1967-08-27 06:00:00,api,2024-06-12
+159,1967,9,Autodromo Nazionale di Monza,Italian Grand Prix,1967-09-10,06:00:00,Italian Grand Prix1967,1967-09-10 06:00:00,api,2024-06-12
+160,1967,10,Watkins Glen,United States Grand Prix,1967-10-01,06:00:00,United States Grand Prix1967,1967-10-01 06:00:00,api,2024-06-12
+161,1967,11,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1967-10-22,06:00:00,Mexican Grand Prix1967,1967-10-22 06:00:00,api,2024-06-12
+162,1968,1,Kyalami,South African Grand Prix,1968-01-01,06:00:00,South African Grand Prix1968,1968-01-01 06:00:00,api,2024-06-12
+163,1968,2,Jarama,Spanish Grand Prix,1968-05-12,06:00:00,Spanish Grand Prix1968,1968-05-12 06:00:00,api,2024-06-12
+164,1968,3,Circuit de Monaco,Monaco Grand Prix,1968-05-26,06:00:00,Monaco Grand Prix1968,1968-05-26 06:00:00,api,2024-06-12
+165,1968,4,Circuit de Spa-Francorchamps,Belgian Grand Prix,1968-06-09,06:00:00,Belgian Grand Prix1968,1968-06-09 06:00:00,api,2024-06-12
+166,1968,5,Circuit Park Zandvoort,Dutch Grand Prix,1968-06-23,06:00:00,Dutch Grand Prix1968,1968-06-23 06:00:00,api,2024-06-12
+167,1968,6,Rouen-Les-Essarts,French Grand Prix,1968-07-07,06:00:00,French Grand Prix1968,1968-07-07 06:00:00,api,2024-06-12
+168,1968,7,Brands Hatch,British Grand Prix,1968-07-20,06:00:00,British Grand Prix1968,1968-07-20 06:00:00,api,2024-06-12
+169,1968,8,Nürburgring,German Grand Prix,1968-08-04,06:00:00,German Grand Prix1968,1968-08-04 06:00:00,api,2024-06-12
+170,1968,9,Autodromo Nazionale di Monza,Italian Grand Prix,1968-09-08,06:00:00,Italian Grand Prix1968,1968-09-08 06:00:00,api,2024-06-12
+171,1968,10,Circuit Mont-Tremblant,Canadian Grand Prix,1968-09-22,06:00:00,Canadian Grand Prix1968,1968-09-22 06:00:00,api,2024-06-12
+172,1968,11,Watkins Glen,United States Grand Prix,1968-10-06,06:00:00,United States Grand Prix1968,1968-10-06 06:00:00,api,2024-06-12
+173,1968,12,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1968-11-03,06:00:00,Mexican Grand Prix1968,1968-11-03 06:00:00,api,2024-06-12
+174,1969,1,Kyalami,South African Grand Prix,1969-03-01,06:00:00,South African Grand Prix1969,1969-03-01 06:00:00,api,2024-06-12
+175,1969,2,Montjuïc,Spanish Grand Prix,1969-05-04,06:00:00,Spanish Grand Prix1969,1969-05-04 06:00:00,api,2024-06-12
+176,1969,3,Circuit de Monaco,Monaco Grand Prix,1969-05-18,06:00:00,Monaco Grand Prix1969,1969-05-18 06:00:00,api,2024-06-12
+177,1969,4,Circuit Park Zandvoort,Dutch Grand Prix,1969-06-21,06:00:00,Dutch Grand Prix1969,1969-06-21 06:00:00,api,2024-06-12
+178,1969,5,Charade Circuit,French Grand Prix,1969-07-06,06:00:00,French Grand Prix1969,1969-07-06 06:00:00,api,2024-06-12
+179,1969,6,Silverstone Circuit,British Grand Prix,1969-07-19,06:00:00,British Grand Prix1969,1969-07-19 06:00:00,api,2024-06-12
+180,1969,7,Nürburgring,German Grand Prix,1969-08-03,06:00:00,German Grand Prix1969,1969-08-03 06:00:00,api,2024-06-12
+181,1969,8,Autodromo Nazionale di Monza,Italian Grand Prix,1969-09-07,06:00:00,Italian Grand Prix1969,1969-09-07 06:00:00,api,2024-06-12
+182,1969,9,Mosport International Raceway,Canadian Grand Prix,1969-09-20,06:00:00,Canadian Grand Prix1969,1969-09-20 06:00:00,api,2024-06-12
+183,1969,10,Watkins Glen,United States Grand Prix,1969-10-05,06:00:00,United States Grand Prix1969,1969-10-05 06:00:00,api,2024-06-12
+184,1969,11,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1969-10-19,06:00:00,Mexican Grand Prix1969,1969-10-19 06:00:00,api,2024-06-12
+185,1970,1,Kyalami,South African Grand Prix,1970-03-07,06:00:00,South African Grand Prix1970,1970-03-07 06:00:00,api,2024-06-12
+186,1970,2,Jarama,Spanish Grand Prix,1970-04-19,06:00:00,Spanish Grand Prix1970,1970-04-19 06:00:00,api,2024-06-12
+187,1970,3,Circuit de Monaco,Monaco Grand Prix,1970-05-10,06:00:00,Monaco Grand Prix1970,1970-05-10 06:00:00,api,2024-06-12
+188,1970,4,Circuit de Spa-Francorchamps,Belgian Grand Prix,1970-06-07,06:00:00,Belgian Grand Prix1970,1970-06-07 06:00:00,api,2024-06-12
+189,1970,5,Circuit Park Zandvoort,Dutch Grand Prix,1970-06-21,06:00:00,Dutch Grand Prix1970,1970-06-21 06:00:00,api,2024-06-12
+190,1970,6,Charade Circuit,French Grand Prix,1970-07-05,06:00:00,French Grand Prix1970,1970-07-05 06:00:00,api,2024-06-12
+191,1970,7,Brands Hatch,British Grand Prix,1970-07-18,06:00:00,British Grand Prix1970,1970-07-18 06:00:00,api,2024-06-12
+192,1970,8,Hockenheimring,German Grand Prix,1970-08-02,06:00:00,German Grand Prix1970,1970-08-02 06:00:00,api,2024-06-12
+193,1970,9,Red Bull Ring,Austrian Grand Prix,1970-08-16,06:00:00,Austrian Grand Prix1970,1970-08-16 06:00:00,api,2024-06-12
+194,1970,10,Autodromo Nazionale di Monza,Italian Grand Prix,1970-09-06,06:00:00,Italian Grand Prix1970,1970-09-06 06:00:00,api,2024-06-12
+195,1970,11,Circuit Mont-Tremblant,Canadian Grand Prix,1970-09-20,06:00:00,Canadian Grand Prix1970,1970-09-20 06:00:00,api,2024-06-12
+196,1970,12,Watkins Glen,United States Grand Prix,1970-10-04,06:00:00,United States Grand Prix1970,1970-10-04 06:00:00,api,2024-06-12
+197,1970,13,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1970-10-25,06:00:00,Mexican Grand Prix1970,1970-10-25 06:00:00,api,2024-06-12
+198,1971,1,Kyalami,South African Grand Prix,1971-03-06,06:00:00,South African Grand Prix1971,1971-03-06 06:00:00,api,2024-06-12
+199,1971,2,Montjuïc,Spanish Grand Prix,1971-04-18,06:00:00,Spanish Grand Prix1971,1971-04-18 06:00:00,api,2024-06-12
+200,1971,3,Circuit de Monaco,Monaco Grand Prix,1971-05-23,06:00:00,Monaco Grand Prix1971,1971-05-23 06:00:00,api,2024-06-12
+201,1971,4,Circuit Park Zandvoort,Dutch Grand Prix,1971-06-20,06:00:00,Dutch Grand Prix1971,1971-06-20 06:00:00,api,2024-06-12
+202,1971,5,Circuit Paul Ricard,French Grand Prix,1971-07-04,06:00:00,French Grand Prix1971,1971-07-04 06:00:00,api,2024-06-12
+203,1971,6,Silverstone Circuit,British Grand Prix,1971-07-17,06:00:00,British Grand Prix1971,1971-07-17 06:00:00,api,2024-06-12
+204,1971,7,Nürburgring,German Grand Prix,1971-08-01,06:00:00,German Grand Prix1971,1971-08-01 06:00:00,api,2024-06-12
+205,1971,8,Red Bull Ring,Austrian Grand Prix,1971-08-15,06:00:00,Austrian Grand Prix1971,1971-08-15 06:00:00,api,2024-06-12
+206,1971,9,Autodromo Nazionale di Monza,Italian Grand Prix,1971-09-05,06:00:00,Italian Grand Prix1971,1971-09-05 06:00:00,api,2024-06-12
+207,1971,10,Mosport International Raceway,Canadian Grand Prix,1971-09-19,06:00:00,Canadian Grand Prix1971,1971-09-19 06:00:00,api,2024-06-12
+208,1971,11,Watkins Glen,United States Grand Prix,1971-10-03,06:00:00,United States Grand Prix1971,1971-10-03 06:00:00,api,2024-06-12
+209,1972,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1972-01-23,06:00:00,Argentine Grand Prix1972,1972-01-23 06:00:00,api,2024-06-12
+210,1972,2,Kyalami,South African Grand Prix,1972-03-04,06:00:00,South African Grand Prix1972,1972-03-04 06:00:00,api,2024-06-12
+211,1972,3,Jarama,Spanish Grand Prix,1972-05-01,06:00:00,Spanish Grand Prix1972,1972-05-01 06:00:00,api,2024-06-12
+212,1972,4,Circuit de Monaco,Monaco Grand Prix,1972-05-14,06:00:00,Monaco Grand Prix1972,1972-05-14 06:00:00,api,2024-06-12
+213,1972,5,Nivelles-Baulers,Belgian Grand Prix,1972-06-04,06:00:00,Belgian Grand Prix1972,1972-06-04 06:00:00,api,2024-06-12
+214,1972,6,Charade Circuit,French Grand Prix,1972-07-02,06:00:00,French Grand Prix1972,1972-07-02 06:00:00,api,2024-06-12
+215,1972,7,Brands Hatch,British Grand Prix,1972-07-15,06:00:00,British Grand Prix1972,1972-07-15 06:00:00,api,2024-06-12
+216,1972,8,Nürburgring,German Grand Prix,1972-07-30,06:00:00,German Grand Prix1972,1972-07-30 06:00:00,api,2024-06-12
+217,1972,9,Red Bull Ring,Austrian Grand Prix,1972-08-13,06:00:00,Austrian Grand Prix1972,1972-08-13 06:00:00,api,2024-06-12
+218,1972,10,Autodromo Nazionale di Monza,Italian Grand Prix,1972-09-10,06:00:00,Italian Grand Prix1972,1972-09-10 06:00:00,api,2024-06-12
+219,1972,11,Mosport International Raceway,Canadian Grand Prix,1972-09-24,06:00:00,Canadian Grand Prix1972,1972-09-24 06:00:00,api,2024-06-12
+220,1972,12,Watkins Glen,United States Grand Prix,1972-10-08,06:00:00,United States Grand Prix1972,1972-10-08 06:00:00,api,2024-06-12
+221,1973,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1973-01-28,06:00:00,Argentine Grand Prix1973,1973-01-28 06:00:00,api,2024-06-12
+222,1973,2,Autódromo José Carlos Pace,Brazilian Grand Prix,1973-02-11,06:00:00,Brazilian Grand Prix1973,1973-02-11 06:00:00,api,2024-06-12
+223,1973,3,Kyalami,South African Grand Prix,1973-03-03,06:00:00,South African Grand Prix1973,1973-03-03 06:00:00,api,2024-06-12
+224,1973,4,Montjuïc,Spanish Grand Prix,1973-04-29,06:00:00,Spanish Grand Prix1973,1973-04-29 06:00:00,api,2024-06-12
+225,1973,5,Zolder,Belgian Grand Prix,1973-05-20,06:00:00,Belgian Grand Prix1973,1973-05-20 06:00:00,api,2024-06-12
+226,1973,6,Circuit de Monaco,Monaco Grand Prix,1973-06-03,06:00:00,Monaco Grand Prix1973,1973-06-03 06:00:00,api,2024-06-12
+227,1973,7,Scandinavian Raceway,Swedish Grand Prix,1973-06-17,06:00:00,Swedish Grand Prix1973,1973-06-17 06:00:00,api,2024-06-12
+228,1973,8,Circuit Paul Ricard,French Grand Prix,1973-07-01,06:00:00,French Grand Prix1973,1973-07-01 06:00:00,api,2024-06-12
+229,1973,9,Silverstone Circuit,British Grand Prix,1973-07-14,06:00:00,British Grand Prix1973,1973-07-14 06:00:00,api,2024-06-12
+230,1973,10,Circuit Park Zandvoort,Dutch Grand Prix,1973-07-29,06:00:00,Dutch Grand Prix1973,1973-07-29 06:00:00,api,2024-06-12
+231,1973,11,Nürburgring,German Grand Prix,1973-08-05,06:00:00,German Grand Prix1973,1973-08-05 06:00:00,api,2024-06-12
+232,1973,12,Red Bull Ring,Austrian Grand Prix,1973-08-19,06:00:00,Austrian Grand Prix1973,1973-08-19 06:00:00,api,2024-06-12
+233,1973,13,Autodromo Nazionale di Monza,Italian Grand Prix,1973-09-09,06:00:00,Italian Grand Prix1973,1973-09-09 06:00:00,api,2024-06-12
+234,1973,14,Mosport International Raceway,Canadian Grand Prix,1973-09-23,06:00:00,Canadian Grand Prix1973,1973-09-23 06:00:00,api,2024-06-12
+235,1973,15,Watkins Glen,United States Grand Prix,1973-10-07,06:00:00,United States Grand Prix1973,1973-10-07 06:00:00,api,2024-06-12
+236,1974,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1974-01-13,06:00:00,Argentine Grand Prix1974,1974-01-13 06:00:00,api,2024-06-12
+237,1974,2,Autódromo José Carlos Pace,Brazilian Grand Prix,1974-01-27,06:00:00,Brazilian Grand Prix1974,1974-01-27 06:00:00,api,2024-06-12
+238,1974,3,Kyalami,South African Grand Prix,1974-03-30,06:00:00,South African Grand Prix1974,1974-03-30 06:00:00,api,2024-06-12
+239,1974,4,Jarama,Spanish Grand Prix,1974-04-28,06:00:00,Spanish Grand Prix1974,1974-04-28 06:00:00,api,2024-06-12
+240,1974,5,Nivelles-Baulers,Belgian Grand Prix,1974-05-12,06:00:00,Belgian Grand Prix1974,1974-05-12 06:00:00,api,2024-06-12
+241,1974,6,Circuit de Monaco,Monaco Grand Prix,1974-05-26,06:00:00,Monaco Grand Prix1974,1974-05-26 06:00:00,api,2024-06-12
+242,1974,7,Scandinavian Raceway,Swedish Grand Prix,1974-06-09,06:00:00,Swedish Grand Prix1974,1974-06-09 06:00:00,api,2024-06-12
+243,1974,8,Circuit Park Zandvoort,Dutch Grand Prix,1974-06-23,06:00:00,Dutch Grand Prix1974,1974-06-23 06:00:00,api,2024-06-12
+244,1974,9,Dijon-Prenois,French Grand Prix,1974-07-07,06:00:00,French Grand Prix1974,1974-07-07 06:00:00,api,2024-06-12
+245,1974,10,Brands Hatch,British Grand Prix,1974-07-20,06:00:00,British Grand Prix1974,1974-07-20 06:00:00,api,2024-06-12
+246,1974,11,Nürburgring,German Grand Prix,1974-08-04,06:00:00,German Grand Prix1974,1974-08-04 06:00:00,api,2024-06-12
+247,1974,12,Red Bull Ring,Austrian Grand Prix,1974-08-18,06:00:00,Austrian Grand Prix1974,1974-08-18 06:00:00,api,2024-06-12
+248,1974,13,Autodromo Nazionale di Monza,Italian Grand Prix,1974-09-08,06:00:00,Italian Grand Prix1974,1974-09-08 06:00:00,api,2024-06-12
+249,1974,14,Mosport International Raceway,Canadian Grand Prix,1974-09-22,06:00:00,Canadian Grand Prix1974,1974-09-22 06:00:00,api,2024-06-12
+250,1974,15,Watkins Glen,United States Grand Prix,1974-10-06,06:00:00,United States Grand Prix1974,1974-10-06 06:00:00,api,2024-06-12
+251,1975,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1975-01-12,06:00:00,Argentine Grand Prix1975,1975-01-12 06:00:00,api,2024-06-12
+252,1975,2,Autódromo José Carlos Pace,Brazilian Grand Prix,1975-01-26,06:00:00,Brazilian Grand Prix1975,1975-01-26 06:00:00,api,2024-06-12
+253,1975,3,Kyalami,South African Grand Prix,1975-03-01,06:00:00,South African Grand Prix1975,1975-03-01 06:00:00,api,2024-06-12
+254,1975,4,Montjuïc,Spanish Grand Prix,1975-04-27,06:00:00,Spanish Grand Prix1975,1975-04-27 06:00:00,api,2024-06-12
+255,1975,5,Circuit de Monaco,Monaco Grand Prix,1975-05-11,06:00:00,Monaco Grand Prix1975,1975-05-11 06:00:00,api,2024-06-12
+256,1975,6,Zolder,Belgian Grand Prix,1975-05-25,06:00:00,Belgian Grand Prix1975,1975-05-25 06:00:00,api,2024-06-12
+257,1975,7,Scandinavian Raceway,Swedish Grand Prix,1975-06-08,06:00:00,Swedish Grand Prix1975,1975-06-08 06:00:00,api,2024-06-12
+258,1975,8,Circuit Park Zandvoort,Dutch Grand Prix,1975-06-22,06:00:00,Dutch Grand Prix1975,1975-06-22 06:00:00,api,2024-06-12
+259,1975,9,Circuit Paul Ricard,French Grand Prix,1975-07-06,06:00:00,French Grand Prix1975,1975-07-06 06:00:00,api,2024-06-12
+260,1975,10,Silverstone Circuit,British Grand Prix,1975-07-19,06:00:00,British Grand Prix1975,1975-07-19 06:00:00,api,2024-06-12
+261,1975,11,Nürburgring,German Grand Prix,1975-08-03,06:00:00,German Grand Prix1975,1975-08-03 06:00:00,api,2024-06-12
+262,1975,12,Red Bull Ring,Austrian Grand Prix,1975-08-17,06:00:00,Austrian Grand Prix1975,1975-08-17 06:00:00,api,2024-06-12
+263,1975,13,Autodromo Nazionale di Monza,Italian Grand Prix,1975-09-07,06:00:00,Italian Grand Prix1975,1975-09-07 06:00:00,api,2024-06-12
+264,1975,14,Watkins Glen,United States Grand Prix,1975-10-05,06:00:00,United States Grand Prix1975,1975-10-05 06:00:00,api,2024-06-12
+265,1976,1,Autódromo José Carlos Pace,Brazilian Grand Prix,1976-01-25,06:00:00,Brazilian Grand Prix1976,1976-01-25 06:00:00,api,2024-06-12
+266,1976,2,Kyalami,South African Grand Prix,1976-03-06,06:00:00,South African Grand Prix1976,1976-03-06 06:00:00,api,2024-06-12
+267,1976,3,Long Beach,United States Grand Prix West,1976-03-28,06:00:00,United States Grand Prix West1976,1976-03-28 06:00:00,api,2024-06-12
+268,1976,4,Jarama,Spanish Grand Prix,1976-05-02,06:00:00,Spanish Grand Prix1976,1976-05-02 06:00:00,api,2024-06-12
+269,1976,5,Zolder,Belgian Grand Prix,1976-05-16,06:00:00,Belgian Grand Prix1976,1976-05-16 06:00:00,api,2024-06-12
+270,1976,6,Circuit de Monaco,Monaco Grand Prix,1976-05-30,06:00:00,Monaco Grand Prix1976,1976-05-30 06:00:00,api,2024-06-12
+271,1976,7,Scandinavian Raceway,Swedish Grand Prix,1976-06-13,06:00:00,Swedish Grand Prix1976,1976-06-13 06:00:00,api,2024-06-12
+272,1976,8,Circuit Paul Ricard,French Grand Prix,1976-07-04,06:00:00,French Grand Prix1976,1976-07-04 06:00:00,api,2024-06-12
+273,1976,9,Brands Hatch,British Grand Prix,1976-07-18,06:00:00,British Grand Prix1976,1976-07-18 06:00:00,api,2024-06-12
+274,1976,10,Nürburgring,German Grand Prix,1976-08-01,06:00:00,German Grand Prix1976,1976-08-01 06:00:00,api,2024-06-12
+275,1976,11,Red Bull Ring,Austrian Grand Prix,1976-08-15,06:00:00,Austrian Grand Prix1976,1976-08-15 06:00:00,api,2024-06-12
+276,1976,12,Circuit Park Zandvoort,Dutch Grand Prix,1976-08-29,06:00:00,Dutch Grand Prix1976,1976-08-29 06:00:00,api,2024-06-12
+277,1976,13,Autodromo Nazionale di Monza,Italian Grand Prix,1976-09-12,06:00:00,Italian Grand Prix1976,1976-09-12 06:00:00,api,2024-06-12
+278,1976,14,Mosport International Raceway,Canadian Grand Prix,1976-10-03,06:00:00,Canadian Grand Prix1976,1976-10-03 06:00:00,api,2024-06-12
+279,1976,15,Watkins Glen,United States Grand Prix,1976-10-10,06:00:00,United States Grand Prix1976,1976-10-10 06:00:00,api,2024-06-12
+280,1976,16,Fuji Speedway,Japanese Grand Prix,1976-10-24,06:00:00,Japanese Grand Prix1976,1976-10-24 06:00:00,api,2024-06-12
+281,1977,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1977-01-09,06:00:00,Argentine Grand Prix1977,1977-01-09 06:00:00,api,2024-06-12
+282,1977,2,Autódromo José Carlos Pace,Brazilian Grand Prix,1977-01-23,06:00:00,Brazilian Grand Prix1977,1977-01-23 06:00:00,api,2024-06-12
+283,1977,3,Kyalami,South African Grand Prix,1977-03-05,06:00:00,South African Grand Prix1977,1977-03-05 06:00:00,api,2024-06-12
+284,1977,4,Long Beach,United States Grand Prix West,1977-04-03,06:00:00,United States Grand Prix West1977,1977-04-03 06:00:00,api,2024-06-12
+285,1977,5,Jarama,Spanish Grand Prix,1977-05-08,06:00:00,Spanish Grand Prix1977,1977-05-08 06:00:00,api,2024-06-12
+286,1977,6,Circuit de Monaco,Monaco Grand Prix,1977-05-22,06:00:00,Monaco Grand Prix1977,1977-05-22 06:00:00,api,2024-06-12
+287,1977,7,Zolder,Belgian Grand Prix,1977-06-05,06:00:00,Belgian Grand Prix1977,1977-06-05 06:00:00,api,2024-06-12
+288,1977,8,Scandinavian Raceway,Swedish Grand Prix,1977-06-19,06:00:00,Swedish Grand Prix1977,1977-06-19 06:00:00,api,2024-06-12
+289,1977,9,Dijon-Prenois,French Grand Prix,1977-07-03,06:00:00,French Grand Prix1977,1977-07-03 06:00:00,api,2024-06-12
+290,1977,10,Silverstone Circuit,British Grand Prix,1977-07-16,06:00:00,British Grand Prix1977,1977-07-16 06:00:00,api,2024-06-12
+291,1977,11,Hockenheimring,German Grand Prix,1977-07-31,06:00:00,German Grand Prix1977,1977-07-31 06:00:00,api,2024-06-12
+292,1977,12,Red Bull Ring,Austrian Grand Prix,1977-08-14,06:00:00,Austrian Grand Prix1977,1977-08-14 06:00:00,api,2024-06-12
+293,1977,13,Circuit Park Zandvoort,Dutch Grand Prix,1977-08-28,06:00:00,Dutch Grand Prix1977,1977-08-28 06:00:00,api,2024-06-12
+294,1977,14,Autodromo Nazionale di Monza,Italian Grand Prix,1977-09-11,06:00:00,Italian Grand Prix1977,1977-09-11 06:00:00,api,2024-06-12
+295,1977,15,Watkins Glen,United States Grand Prix,1977-10-02,06:00:00,United States Grand Prix1977,1977-10-02 06:00:00,api,2024-06-12
+296,1977,16,Mosport International Raceway,Canadian Grand Prix,1977-10-09,06:00:00,Canadian Grand Prix1977,1977-10-09 06:00:00,api,2024-06-12
+297,1977,17,Fuji Speedway,Japanese Grand Prix,1977-10-23,06:00:00,Japanese Grand Prix1977,1977-10-23 06:00:00,api,2024-06-12
+298,1978,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1978-01-15,06:00:00,Argentine Grand Prix1978,1978-01-15 06:00:00,api,2024-06-12
+299,1978,2,Autódromo Internacional Nelson Piquet,Brazilian Grand Prix,1978-01-29,06:00:00,Brazilian Grand Prix1978,1978-01-29 06:00:00,api,2024-06-12
+300,1978,3,Kyalami,South African Grand Prix,1978-03-04,06:00:00,South African Grand Prix1978,1978-03-04 06:00:00,api,2024-06-12
+301,1978,4,Long Beach,United States Grand Prix West,1978-04-02,06:00:00,United States Grand Prix West1978,1978-04-02 06:00:00,api,2024-06-12
+302,1978,5,Circuit de Monaco,Monaco Grand Prix,1978-05-07,06:00:00,Monaco Grand Prix1978,1978-05-07 06:00:00,api,2024-06-12
+303,1978,6,Zolder,Belgian Grand Prix,1978-05-21,06:00:00,Belgian Grand Prix1978,1978-05-21 06:00:00,api,2024-06-12
+304,1978,7,Jarama,Spanish Grand Prix,1978-06-04,06:00:00,Spanish Grand Prix1978,1978-06-04 06:00:00,api,2024-06-12
+305,1978,8,Scandinavian Raceway,Swedish Grand Prix,1978-06-17,06:00:00,Swedish Grand Prix1978,1978-06-17 06:00:00,api,2024-06-12
+306,1978,9,Circuit Paul Ricard,French Grand Prix,1978-07-02,06:00:00,French Grand Prix1978,1978-07-02 06:00:00,api,2024-06-12
+307,1978,10,Brands Hatch,British Grand Prix,1978-07-16,06:00:00,British Grand Prix1978,1978-07-16 06:00:00,api,2024-06-12
+308,1978,11,Hockenheimring,German Grand Prix,1978-07-30,06:00:00,German Grand Prix1978,1978-07-30 06:00:00,api,2024-06-12
+309,1978,12,Red Bull Ring,Austrian Grand Prix,1978-08-13,06:00:00,Austrian Grand Prix1978,1978-08-13 06:00:00,api,2024-06-12
+310,1978,13,Circuit Park Zandvoort,Dutch Grand Prix,1978-08-27,06:00:00,Dutch Grand Prix1978,1978-08-27 06:00:00,api,2024-06-12
+311,1978,14,Autodromo Nazionale di Monza,Italian Grand Prix,1978-09-10,06:00:00,Italian Grand Prix1978,1978-09-10 06:00:00,api,2024-06-12
+312,1978,15,Watkins Glen,United States Grand Prix,1978-10-01,06:00:00,United States Grand Prix1978,1978-10-01 06:00:00,api,2024-06-12
+313,1978,16,Circuit Gilles Villeneuve,Canadian Grand Prix,1978-10-08,06:00:00,Canadian Grand Prix1978,1978-10-08 06:00:00,api,2024-06-12
+314,1979,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1979-01-21,06:00:00,Argentine Grand Prix1979,1979-01-21 06:00:00,api,2024-06-12
+315,1979,2,Autódromo José Carlos Pace,Brazilian Grand Prix,1979-02-04,06:00:00,Brazilian Grand Prix1979,1979-02-04 06:00:00,api,2024-06-12
+316,1979,3,Kyalami,South African Grand Prix,1979-03-03,06:00:00,South African Grand Prix1979,1979-03-03 06:00:00,api,2024-06-12
+317,1979,4,Long Beach,United States Grand Prix West,1979-04-08,06:00:00,United States Grand Prix West1979,1979-04-08 06:00:00,api,2024-06-12
+318,1979,5,Jarama,Spanish Grand Prix,1979-04-29,06:00:00,Spanish Grand Prix1979,1979-04-29 06:00:00,api,2024-06-12
+319,1979,6,Zolder,Belgian Grand Prix,1979-05-13,06:00:00,Belgian Grand Prix1979,1979-05-13 06:00:00,api,2024-06-12
+320,1979,7,Circuit de Monaco,Monaco Grand Prix,1979-05-27,06:00:00,Monaco Grand Prix1979,1979-05-27 06:00:00,api,2024-06-12
+321,1979,8,Dijon-Prenois,French Grand Prix,1979-07-01,06:00:00,French Grand Prix1979,1979-07-01 06:00:00,api,2024-06-12
+322,1979,9,Silverstone Circuit,British Grand Prix,1979-07-14,06:00:00,British Grand Prix1979,1979-07-14 06:00:00,api,2024-06-12
+323,1979,10,Hockenheimring,German Grand Prix,1979-07-29,06:00:00,German Grand Prix1979,1979-07-29 06:00:00,api,2024-06-12
+324,1979,11,Red Bull Ring,Austrian Grand Prix,1979-08-12,06:00:00,Austrian Grand Prix1979,1979-08-12 06:00:00,api,2024-06-12
+325,1979,12,Circuit Park Zandvoort,Dutch Grand Prix,1979-08-26,06:00:00,Dutch Grand Prix1979,1979-08-26 06:00:00,api,2024-06-12
+326,1979,13,Autodromo Nazionale di Monza,Italian Grand Prix,1979-09-09,06:00:00,Italian Grand Prix1979,1979-09-09 06:00:00,api,2024-06-12
+327,1979,14,Circuit Gilles Villeneuve,Canadian Grand Prix,1979-09-30,06:00:00,Canadian Grand Prix1979,1979-09-30 06:00:00,api,2024-06-12
+328,1979,15,Watkins Glen,United States Grand Prix,1979-10-07,06:00:00,United States Grand Prix1979,1979-10-07 06:00:00,api,2024-06-12
+329,1980,1,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1980-01-13,06:00:00,Argentine Grand Prix1980,1980-01-13 06:00:00,api,2024-06-12
+330,1980,2,Autódromo José Carlos Pace,Brazilian Grand Prix,1980-01-27,06:00:00,Brazilian Grand Prix1980,1980-01-27 06:00:00,api,2024-06-12
+331,1980,3,Kyalami,South African Grand Prix,1980-03-01,06:00:00,South African Grand Prix1980,1980-03-01 06:00:00,api,2024-06-12
+332,1980,4,Long Beach,United States Grand Prix West,1980-03-30,06:00:00,United States Grand Prix West1980,1980-03-30 06:00:00,api,2024-06-12
+333,1980,5,Zolder,Belgian Grand Prix,1980-05-04,06:00:00,Belgian Grand Prix1980,1980-05-04 06:00:00,api,2024-06-12
+334,1980,6,Circuit de Monaco,Monaco Grand Prix,1980-05-18,06:00:00,Monaco Grand Prix1980,1980-05-18 06:00:00,api,2024-06-12
+335,1980,7,Circuit Paul Ricard,French Grand Prix,1980-06-29,06:00:00,French Grand Prix1980,1980-06-29 06:00:00,api,2024-06-12
+336,1980,8,Brands Hatch,British Grand Prix,1980-07-13,06:00:00,British Grand Prix1980,1980-07-13 06:00:00,api,2024-06-12
+337,1980,9,Hockenheimring,German Grand Prix,1980-08-10,06:00:00,German Grand Prix1980,1980-08-10 06:00:00,api,2024-06-12
+338,1980,10,Red Bull Ring,Austrian Grand Prix,1980-08-17,06:00:00,Austrian Grand Prix1980,1980-08-17 06:00:00,api,2024-06-12
+339,1980,11,Circuit Park Zandvoort,Dutch Grand Prix,1980-08-31,06:00:00,Dutch Grand Prix1980,1980-08-31 06:00:00,api,2024-06-12
+340,1980,12,Autodromo Enzo e Dino Ferrari,Italian Grand Prix,1980-09-14,06:00:00,Italian Grand Prix1980,1980-09-14 06:00:00,api,2024-06-12
+341,1980,13,Circuit Gilles Villeneuve,Canadian Grand Prix,1980-09-28,06:00:00,Canadian Grand Prix1980,1980-09-28 06:00:00,api,2024-06-12
+342,1980,14,Watkins Glen,United States Grand Prix,1980-10-05,06:00:00,United States Grand Prix1980,1980-10-05 06:00:00,api,2024-06-12
+343,1981,1,Long Beach,United States Grand Prix West,1981-03-15,06:00:00,United States Grand Prix West1981,1981-03-15 06:00:00,api,2024-06-12
+344,1981,2,Autódromo Internacional Nelson Piquet,Brazilian Grand Prix,1981-03-29,06:00:00,Brazilian Grand Prix1981,1981-03-29 06:00:00,api,2024-06-12
+345,1981,3,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1981-04-12,06:00:00,Argentine Grand Prix1981,1981-04-12 06:00:00,api,2024-06-12
+346,1981,4,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1981-05-03,06:00:00,San Marino Grand Prix1981,1981-05-03 06:00:00,api,2024-06-12
+347,1981,5,Zolder,Belgian Grand Prix,1981-05-17,06:00:00,Belgian Grand Prix1981,1981-05-17 06:00:00,api,2024-06-12
+348,1981,6,Circuit de Monaco,Monaco Grand Prix,1981-05-31,06:00:00,Monaco Grand Prix1981,1981-05-31 06:00:00,api,2024-06-12
+349,1981,7,Jarama,Spanish Grand Prix,1981-06-21,06:00:00,Spanish Grand Prix1981,1981-06-21 06:00:00,api,2024-06-12
+350,1981,8,Dijon-Prenois,French Grand Prix,1981-07-05,06:00:00,French Grand Prix1981,1981-07-05 06:00:00,api,2024-06-12
+351,1981,9,Silverstone Circuit,British Grand Prix,1981-07-18,06:00:00,British Grand Prix1981,1981-07-18 06:00:00,api,2024-06-12
+352,1981,10,Hockenheimring,German Grand Prix,1981-08-02,06:00:00,German Grand Prix1981,1981-08-02 06:00:00,api,2024-06-12
+353,1981,11,Red Bull Ring,Austrian Grand Prix,1981-08-16,06:00:00,Austrian Grand Prix1981,1981-08-16 06:00:00,api,2024-06-12
+354,1981,12,Circuit Park Zandvoort,Dutch Grand Prix,1981-08-30,06:00:00,Dutch Grand Prix1981,1981-08-30 06:00:00,api,2024-06-12
+355,1981,13,Autodromo Nazionale di Monza,Italian Grand Prix,1981-09-13,06:00:00,Italian Grand Prix1981,1981-09-13 06:00:00,api,2024-06-12
+356,1981,14,Circuit Gilles Villeneuve,Canadian Grand Prix,1981-09-27,06:00:00,Canadian Grand Prix1981,1981-09-27 06:00:00,api,2024-06-12
+357,1981,15,Las Vegas Street Circuit,Caesars Palace Grand Prix,1981-10-17,06:00:00,Caesars Palace Grand Prix1981,1981-10-17 06:00:00,api,2024-06-12
+358,1982,1,Kyalami,South African Grand Prix,1982-01-23,06:00:00,South African Grand Prix1982,1982-01-23 06:00:00,api,2024-06-12
+359,1982,2,Autódromo Internacional Nelson Piquet,Brazilian Grand Prix,1982-03-21,06:00:00,Brazilian Grand Prix1982,1982-03-21 06:00:00,api,2024-06-12
+360,1982,3,Long Beach,United States Grand Prix West,1982-04-04,06:00:00,United States Grand Prix West1982,1982-04-04 06:00:00,api,2024-06-12
+361,1982,4,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1982-04-25,06:00:00,San Marino Grand Prix1982,1982-04-25 06:00:00,api,2024-06-12
+362,1982,5,Zolder,Belgian Grand Prix,1982-05-09,06:00:00,Belgian Grand Prix1982,1982-05-09 06:00:00,api,2024-06-12
+363,1982,6,Circuit de Monaco,Monaco Grand Prix,1982-05-23,06:00:00,Monaco Grand Prix1982,1982-05-23 06:00:00,api,2024-06-12
+364,1982,7,Detroit Street Circuit,Detroit Grand Prix,1982-06-06,06:00:00,Detroit Grand Prix1982,1982-06-06 06:00:00,api,2024-06-12
+365,1982,8,Circuit Gilles Villeneuve,Canadian Grand Prix,1982-06-13,06:00:00,Canadian Grand Prix1982,1982-06-13 06:00:00,api,2024-06-12
+366,1982,9,Circuit Park Zandvoort,Dutch Grand Prix,1982-07-03,06:00:00,Dutch Grand Prix1982,1982-07-03 06:00:00,api,2024-06-12
+367,1982,10,Brands Hatch,British Grand Prix,1982-07-18,06:00:00,British Grand Prix1982,1982-07-18 06:00:00,api,2024-06-12
+368,1982,11,Circuit Paul Ricard,French Grand Prix,1982-07-25,06:00:00,French Grand Prix1982,1982-07-25 06:00:00,api,2024-06-12
+369,1982,12,Hockenheimring,German Grand Prix,1982-08-08,06:00:00,German Grand Prix1982,1982-08-08 06:00:00,api,2024-06-12
+370,1982,13,Red Bull Ring,Austrian Grand Prix,1982-08-15,06:00:00,Austrian Grand Prix1982,1982-08-15 06:00:00,api,2024-06-12
+371,1982,14,Dijon-Prenois,Swiss Grand Prix,1982-08-29,06:00:00,Swiss Grand Prix1982,1982-08-29 06:00:00,api,2024-06-12
+372,1982,15,Autodromo Nazionale di Monza,Italian Grand Prix,1982-09-12,06:00:00,Italian Grand Prix1982,1982-09-12 06:00:00,api,2024-06-12
+373,1982,16,Las Vegas Street Circuit,Caesars Palace Grand Prix,1982-09-25,06:00:00,Caesars Palace Grand Prix1982,1982-09-25 06:00:00,api,2024-06-12
+374,1983,1,Autódromo Internacional Nelson Piquet,Brazilian Grand Prix,1983-03-13,06:00:00,Brazilian Grand Prix1983,1983-03-13 06:00:00,api,2024-06-12
+375,1983,2,Long Beach,United States Grand Prix West,1983-03-27,06:00:00,United States Grand Prix West1983,1983-03-27 06:00:00,api,2024-06-12
+376,1983,3,Circuit Paul Ricard,French Grand Prix,1983-04-17,06:00:00,French Grand Prix1983,1983-04-17 06:00:00,api,2024-06-12
+377,1983,4,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1983-05-01,06:00:00,San Marino Grand Prix1983,1983-05-01 06:00:00,api,2024-06-12
+378,1983,5,Circuit de Monaco,Monaco Grand Prix,1983-05-15,06:00:00,Monaco Grand Prix1983,1983-05-15 06:00:00,api,2024-06-12
+379,1983,6,Circuit de Spa-Francorchamps,Belgian Grand Prix,1983-05-22,06:00:00,Belgian Grand Prix1983,1983-05-22 06:00:00,api,2024-06-12
+380,1983,7,Detroit Street Circuit,Detroit Grand Prix,1983-06-05,06:00:00,Detroit Grand Prix1983,1983-06-05 06:00:00,api,2024-06-12
+381,1983,8,Circuit Gilles Villeneuve,Canadian Grand Prix,1983-06-12,06:00:00,Canadian Grand Prix1983,1983-06-12 06:00:00,api,2024-06-12
+382,1983,9,Silverstone Circuit,British Grand Prix,1983-07-16,06:00:00,British Grand Prix1983,1983-07-16 06:00:00,api,2024-06-12
+383,1983,10,Hockenheimring,German Grand Prix,1983-08-07,06:00:00,German Grand Prix1983,1983-08-07 06:00:00,api,2024-06-12
+384,1983,11,Red Bull Ring,Austrian Grand Prix,1983-08-14,06:00:00,Austrian Grand Prix1983,1983-08-14 06:00:00,api,2024-06-12
+385,1983,12,Circuit Park Zandvoort,Dutch Grand Prix,1983-08-28,06:00:00,Dutch Grand Prix1983,1983-08-28 06:00:00,api,2024-06-12
+386,1983,13,Autodromo Nazionale di Monza,Italian Grand Prix,1983-09-11,06:00:00,Italian Grand Prix1983,1983-09-11 06:00:00,api,2024-06-12
+387,1983,14,Brands Hatch,European Grand Prix,1983-09-25,06:00:00,European Grand Prix1983,1983-09-25 06:00:00,api,2024-06-12
+388,1983,15,Kyalami,South African Grand Prix,1983-10-15,06:00:00,South African Grand Prix1983,1983-10-15 06:00:00,api,2024-06-12
+389,1984,1,Autódromo Internacional Nelson Piquet,Brazilian Grand Prix,1984-03-25,06:00:00,Brazilian Grand Prix1984,1984-03-25 06:00:00,api,2024-06-12
+390,1984,2,Kyalami,South African Grand Prix,1984-04-07,06:00:00,South African Grand Prix1984,1984-04-07 06:00:00,api,2024-06-12
+391,1984,3,Zolder,Belgian Grand Prix,1984-04-29,06:00:00,Belgian Grand Prix1984,1984-04-29 06:00:00,api,2024-06-12
+392,1984,4,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1984-05-06,06:00:00,San Marino Grand Prix1984,1984-05-06 06:00:00,api,2024-06-12
+393,1984,5,Dijon-Prenois,French Grand Prix,1984-05-20,06:00:00,French Grand Prix1984,1984-05-20 06:00:00,api,2024-06-12
+394,1984,6,Circuit de Monaco,Monaco Grand Prix,1984-06-03,06:00:00,Monaco Grand Prix1984,1984-06-03 06:00:00,api,2024-06-12
+395,1984,7,Circuit Gilles Villeneuve,Canadian Grand Prix,1984-06-17,06:00:00,Canadian Grand Prix1984,1984-06-17 06:00:00,api,2024-06-12
+396,1984,8,Detroit Street Circuit,Detroit Grand Prix,1984-06-24,06:00:00,Detroit Grand Prix1984,1984-06-24 06:00:00,api,2024-06-12
+397,1984,9,Fair Park,Dallas Grand Prix,1984-07-08,06:00:00,Dallas Grand Prix1984,1984-07-08 06:00:00,api,2024-06-12
+398,1984,10,Brands Hatch,British Grand Prix,1984-07-22,06:00:00,British Grand Prix1984,1984-07-22 06:00:00,api,2024-06-12
+399,1984,11,Hockenheimring,German Grand Prix,1984-08-05,06:00:00,German Grand Prix1984,1984-08-05 06:00:00,api,2024-06-12
+400,1984,12,Red Bull Ring,Austrian Grand Prix,1984-08-19,06:00:00,Austrian Grand Prix1984,1984-08-19 06:00:00,api,2024-06-12
+401,1984,13,Circuit Park Zandvoort,Dutch Grand Prix,1984-08-26,06:00:00,Dutch Grand Prix1984,1984-08-26 06:00:00,api,2024-06-12
+402,1984,14,Autodromo Nazionale di Monza,Italian Grand Prix,1984-09-09,06:00:00,Italian Grand Prix1984,1984-09-09 06:00:00,api,2024-06-12
+403,1984,15,Nürburgring,European Grand Prix,1984-10-07,06:00:00,European Grand Prix1984,1984-10-07 06:00:00,api,2024-06-12
+404,1984,16,Autódromo do Estoril,Portuguese Grand Prix,1984-10-21,06:00:00,Portuguese Grand Prix1984,1984-10-21 06:00:00,api,2024-06-12
+405,1985,1,Autódromo Internacional Nelson Piquet,Brazilian Grand Prix,1985-04-07,06:00:00,Brazilian Grand Prix1985,1985-04-07 06:00:00,api,2024-06-12
+406,1985,2,Autódromo do Estoril,Portuguese Grand Prix,1985-04-21,06:00:00,Portuguese Grand Prix1985,1985-04-21 06:00:00,api,2024-06-12
+407,1985,3,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1985-05-05,06:00:00,San Marino Grand Prix1985,1985-05-05 06:00:00,api,2024-06-12
+408,1985,4,Circuit de Monaco,Monaco Grand Prix,1985-05-19,06:00:00,Monaco Grand Prix1985,1985-05-19 06:00:00,api,2024-06-12
+409,1985,5,Circuit Gilles Villeneuve,Canadian Grand Prix,1985-06-16,06:00:00,Canadian Grand Prix1985,1985-06-16 06:00:00,api,2024-06-12
+410,1985,6,Detroit Street Circuit,Detroit Grand Prix,1985-06-23,06:00:00,Detroit Grand Prix1985,1985-06-23 06:00:00,api,2024-06-12
+411,1985,7,Circuit Paul Ricard,French Grand Prix,1985-07-07,06:00:00,French Grand Prix1985,1985-07-07 06:00:00,api,2024-06-12
+412,1985,8,Silverstone Circuit,British Grand Prix,1985-07-21,06:00:00,British Grand Prix1985,1985-07-21 06:00:00,api,2024-06-12
+413,1985,9,Nürburgring,German Grand Prix,1985-08-04,06:00:00,German Grand Prix1985,1985-08-04 06:00:00,api,2024-06-12
+414,1985,10,Red Bull Ring,Austrian Grand Prix,1985-08-18,06:00:00,Austrian Grand Prix1985,1985-08-18 06:00:00,api,2024-06-12
+415,1985,11,Circuit Park Zandvoort,Dutch Grand Prix,1985-08-25,06:00:00,Dutch Grand Prix1985,1985-08-25 06:00:00,api,2024-06-12
+416,1985,12,Autodromo Nazionale di Monza,Italian Grand Prix,1985-09-08,06:00:00,Italian Grand Prix1985,1985-09-08 06:00:00,api,2024-06-12
+417,1985,13,Circuit de Spa-Francorchamps,Belgian Grand Prix,1985-09-15,06:00:00,Belgian Grand Prix1985,1985-09-15 06:00:00,api,2024-06-12
+418,1985,14,Brands Hatch,European Grand Prix,1985-10-06,06:00:00,European Grand Prix1985,1985-10-06 06:00:00,api,2024-06-12
+419,1985,15,Kyalami,South African Grand Prix,1985-10-19,06:00:00,South African Grand Prix1985,1985-10-19 06:00:00,api,2024-06-12
+420,1985,16,Adelaide Street Circuit,Australian Grand Prix,1985-11-03,06:00:00,Australian Grand Prix1985,1985-11-03 06:00:00,api,2024-06-12
+421,1986,1,Autódromo Internacional Nelson Piquet,Brazilian Grand Prix,1986-03-23,06:00:00,Brazilian Grand Prix1986,1986-03-23 06:00:00,api,2024-06-12
+422,1986,2,Circuito de Jerez,Spanish Grand Prix,1986-04-13,06:00:00,Spanish Grand Prix1986,1986-04-13 06:00:00,api,2024-06-12
+423,1986,3,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1986-04-27,06:00:00,San Marino Grand Prix1986,1986-04-27 06:00:00,api,2024-06-12
+424,1986,4,Circuit de Monaco,Monaco Grand Prix,1986-05-11,06:00:00,Monaco Grand Prix1986,1986-05-11 06:00:00,api,2024-06-12
+425,1986,5,Circuit de Spa-Francorchamps,Belgian Grand Prix,1986-05-25,06:00:00,Belgian Grand Prix1986,1986-05-25 06:00:00,api,2024-06-12
+426,1986,6,Circuit Gilles Villeneuve,Canadian Grand Prix,1986-06-15,06:00:00,Canadian Grand Prix1986,1986-06-15 06:00:00,api,2024-06-12
+427,1986,7,Detroit Street Circuit,Detroit Grand Prix,1986-06-22,06:00:00,Detroit Grand Prix1986,1986-06-22 06:00:00,api,2024-06-12
+428,1986,8,Circuit Paul Ricard,French Grand Prix,1986-07-06,06:00:00,French Grand Prix1986,1986-07-06 06:00:00,api,2024-06-12
+429,1986,9,Brands Hatch,British Grand Prix,1986-07-13,06:00:00,British Grand Prix1986,1986-07-13 06:00:00,api,2024-06-12
+430,1986,10,Hockenheimring,German Grand Prix,1986-07-27,06:00:00,German Grand Prix1986,1986-07-27 06:00:00,api,2024-06-12
+431,1986,11,Hungaroring,Hungarian Grand Prix,1986-08-10,06:00:00,Hungarian Grand Prix1986,1986-08-10 06:00:00,api,2024-06-12
+432,1986,12,Red Bull Ring,Austrian Grand Prix,1986-08-17,06:00:00,Austrian Grand Prix1986,1986-08-17 06:00:00,api,2024-06-12
+433,1986,13,Autodromo Nazionale di Monza,Italian Grand Prix,1986-09-07,06:00:00,Italian Grand Prix1986,1986-09-07 06:00:00,api,2024-06-12
+434,1986,14,Autódromo do Estoril,Portuguese Grand Prix,1986-09-21,06:00:00,Portuguese Grand Prix1986,1986-09-21 06:00:00,api,2024-06-12
+435,1986,15,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1986-10-12,06:00:00,Mexican Grand Prix1986,1986-10-12 06:00:00,api,2024-06-12
+436,1986,16,Adelaide Street Circuit,Australian Grand Prix,1986-10-26,06:00:00,Australian Grand Prix1986,1986-10-26 06:00:00,api,2024-06-12
+437,1987,1,Autódromo Internacional Nelson Piquet,Brazilian Grand Prix,1987-04-12,06:00:00,Brazilian Grand Prix1987,1987-04-12 06:00:00,api,2024-06-12
+438,1987,2,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1987-05-03,06:00:00,San Marino Grand Prix1987,1987-05-03 06:00:00,api,2024-06-12
+439,1987,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,1987-05-17,06:00:00,Belgian Grand Prix1987,1987-05-17 06:00:00,api,2024-06-12
+440,1987,4,Circuit de Monaco,Monaco Grand Prix,1987-05-31,06:00:00,Monaco Grand Prix1987,1987-05-31 06:00:00,api,2024-06-12
+441,1987,5,Detroit Street Circuit,Detroit Grand Prix,1987-06-21,06:00:00,Detroit Grand Prix1987,1987-06-21 06:00:00,api,2024-06-12
+442,1987,6,Circuit Paul Ricard,French Grand Prix,1987-07-05,06:00:00,French Grand Prix1987,1987-07-05 06:00:00,api,2024-06-12
+443,1987,7,Silverstone Circuit,British Grand Prix,1987-07-12,06:00:00,British Grand Prix1987,1987-07-12 06:00:00,api,2024-06-12
+444,1987,8,Hockenheimring,German Grand Prix,1987-07-26,06:00:00,German Grand Prix1987,1987-07-26 06:00:00,api,2024-06-12
+445,1987,9,Hungaroring,Hungarian Grand Prix,1987-08-09,06:00:00,Hungarian Grand Prix1987,1987-08-09 06:00:00,api,2024-06-12
+446,1987,10,Red Bull Ring,Austrian Grand Prix,1987-08-16,06:00:00,Austrian Grand Prix1987,1987-08-16 06:00:00,api,2024-06-12
+447,1987,11,Autodromo Nazionale di Monza,Italian Grand Prix,1987-09-06,06:00:00,Italian Grand Prix1987,1987-09-06 06:00:00,api,2024-06-12
+448,1987,12,Autódromo do Estoril,Portuguese Grand Prix,1987-09-20,06:00:00,Portuguese Grand Prix1987,1987-09-20 06:00:00,api,2024-06-12
+449,1987,13,Circuito de Jerez,Spanish Grand Prix,1987-09-27,06:00:00,Spanish Grand Prix1987,1987-09-27 06:00:00,api,2024-06-12
+450,1987,14,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1987-10-18,06:00:00,Mexican Grand Prix1987,1987-10-18 06:00:00,api,2024-06-12
+451,1987,15,Suzuka Circuit,Japanese Grand Prix,1987-11-01,06:00:00,Japanese Grand Prix1987,1987-11-01 06:00:00,api,2024-06-12
+452,1987,16,Adelaide Street Circuit,Australian Grand Prix,1987-11-15,06:00:00,Australian Grand Prix1987,1987-11-15 06:00:00,api,2024-06-12
+453,1988,1,Autódromo Internacional Nelson Piquet,Brazilian Grand Prix,1988-04-03,06:00:00,Brazilian Grand Prix1988,1988-04-03 06:00:00,api,2024-06-12
+454,1988,2,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1988-05-01,06:00:00,San Marino Grand Prix1988,1988-05-01 06:00:00,api,2024-06-12
+455,1988,3,Circuit de Monaco,Monaco Grand Prix,1988-05-15,06:00:00,Monaco Grand Prix1988,1988-05-15 06:00:00,api,2024-06-12
+456,1988,4,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1988-05-29,06:00:00,Mexican Grand Prix1988,1988-05-29 06:00:00,api,2024-06-12
+457,1988,5,Circuit Gilles Villeneuve,Canadian Grand Prix,1988-06-12,06:00:00,Canadian Grand Prix1988,1988-06-12 06:00:00,api,2024-06-12
+458,1988,6,Detroit Street Circuit,Detroit Grand Prix,1988-06-19,06:00:00,Detroit Grand Prix1988,1988-06-19 06:00:00,api,2024-06-12
+459,1988,7,Circuit Paul Ricard,French Grand Prix,1988-07-03,06:00:00,French Grand Prix1988,1988-07-03 06:00:00,api,2024-06-12
+460,1988,8,Silverstone Circuit,British Grand Prix,1988-07-10,06:00:00,British Grand Prix1988,1988-07-10 06:00:00,api,2024-06-12
+461,1988,9,Hockenheimring,German Grand Prix,1988-07-24,06:00:00,German Grand Prix1988,1988-07-24 06:00:00,api,2024-06-12
+462,1988,10,Hungaroring,Hungarian Grand Prix,1988-08-07,06:00:00,Hungarian Grand Prix1988,1988-08-07 06:00:00,api,2024-06-12
+463,1988,11,Circuit de Spa-Francorchamps,Belgian Grand Prix,1988-08-28,06:00:00,Belgian Grand Prix1988,1988-08-28 06:00:00,api,2024-06-12
+464,1988,12,Autodromo Nazionale di Monza,Italian Grand Prix,1988-09-11,06:00:00,Italian Grand Prix1988,1988-09-11 06:00:00,api,2024-06-12
+465,1988,13,Autódromo do Estoril,Portuguese Grand Prix,1988-09-25,06:00:00,Portuguese Grand Prix1988,1988-09-25 06:00:00,api,2024-06-12
+466,1988,14,Circuito de Jerez,Spanish Grand Prix,1988-10-02,06:00:00,Spanish Grand Prix1988,1988-10-02 06:00:00,api,2024-06-12
+467,1988,15,Suzuka Circuit,Japanese Grand Prix,1988-10-30,06:00:00,Japanese Grand Prix1988,1988-10-30 06:00:00,api,2024-06-12
+468,1988,16,Adelaide Street Circuit,Australian Grand Prix,1988-11-13,06:00:00,Australian Grand Prix1988,1988-11-13 06:00:00,api,2024-06-12
+469,1989,1,Autódromo Internacional Nelson Piquet,Brazilian Grand Prix,1989-03-26,06:00:00,Brazilian Grand Prix1989,1989-03-26 06:00:00,api,2024-06-12
+470,1989,2,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1989-04-23,06:00:00,San Marino Grand Prix1989,1989-04-23 06:00:00,api,2024-06-12
+471,1989,3,Circuit de Monaco,Monaco Grand Prix,1989-05-07,06:00:00,Monaco Grand Prix1989,1989-05-07 06:00:00,api,2024-06-12
+472,1989,4,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1989-05-28,06:00:00,Mexican Grand Prix1989,1989-05-28 06:00:00,api,2024-06-12
+473,1989,5,Phoenix street circuit,United States Grand Prix,1989-06-04,06:00:00,United States Grand Prix1989,1989-06-04 06:00:00,api,2024-06-12
+474,1989,6,Circuit Gilles Villeneuve,Canadian Grand Prix,1989-06-18,06:00:00,Canadian Grand Prix1989,1989-06-18 06:00:00,api,2024-06-12
+475,1989,7,Circuit Paul Ricard,French Grand Prix,1989-07-09,06:00:00,French Grand Prix1989,1989-07-09 06:00:00,api,2024-06-12
+476,1989,8,Silverstone Circuit,British Grand Prix,1989-07-16,06:00:00,British Grand Prix1989,1989-07-16 06:00:00,api,2024-06-12
+477,1989,9,Hockenheimring,German Grand Prix,1989-07-30,06:00:00,German Grand Prix1989,1989-07-30 06:00:00,api,2024-06-12
+478,1989,10,Hungaroring,Hungarian Grand Prix,1989-08-13,06:00:00,Hungarian Grand Prix1989,1989-08-13 06:00:00,api,2024-06-12
+479,1989,11,Circuit de Spa-Francorchamps,Belgian Grand Prix,1989-08-27,06:00:00,Belgian Grand Prix1989,1989-08-27 06:00:00,api,2024-06-12
+480,1989,12,Autodromo Nazionale di Monza,Italian Grand Prix,1989-09-10,06:00:00,Italian Grand Prix1989,1989-09-10 06:00:00,api,2024-06-12
+481,1989,13,Autódromo do Estoril,Portuguese Grand Prix,1989-09-24,06:00:00,Portuguese Grand Prix1989,1989-09-24 06:00:00,api,2024-06-12
+482,1989,14,Circuito de Jerez,Spanish Grand Prix,1989-10-01,06:00:00,Spanish Grand Prix1989,1989-10-01 06:00:00,api,2024-06-12
+483,1989,15,Suzuka Circuit,Japanese Grand Prix,1989-10-22,06:00:00,Japanese Grand Prix1989,1989-10-22 06:00:00,api,2024-06-12
+484,1989,16,Adelaide Street Circuit,Australian Grand Prix,1989-11-05,06:00:00,Australian Grand Prix1989,1989-11-05 06:00:00,api,2024-06-12
+485,1990,1,Phoenix street circuit,United States Grand Prix,1990-03-11,06:00:00,United States Grand Prix1990,1990-03-11 06:00:00,api,2024-06-12
+486,1990,2,Autódromo José Carlos Pace,Brazilian Grand Prix,1990-03-25,06:00:00,Brazilian Grand Prix1990,1990-03-25 06:00:00,api,2024-06-12
+487,1990,3,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1990-05-13,06:00:00,San Marino Grand Prix1990,1990-05-13 06:00:00,api,2024-06-12
+488,1990,4,Circuit de Monaco,Monaco Grand Prix,1990-05-27,06:00:00,Monaco Grand Prix1990,1990-05-27 06:00:00,api,2024-06-12
+489,1990,5,Circuit Gilles Villeneuve,Canadian Grand Prix,1990-06-10,06:00:00,Canadian Grand Prix1990,1990-06-10 06:00:00,api,2024-06-12
+490,1990,6,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1990-06-24,06:00:00,Mexican Grand Prix1990,1990-06-24 06:00:00,api,2024-06-12
+491,1990,7,Circuit Paul Ricard,French Grand Prix,1990-07-08,06:00:00,French Grand Prix1990,1990-07-08 06:00:00,api,2024-06-12
+492,1990,8,Silverstone Circuit,British Grand Prix,1990-07-15,06:00:00,British Grand Prix1990,1990-07-15 06:00:00,api,2024-06-12
+493,1990,9,Hockenheimring,German Grand Prix,1990-07-29,06:00:00,German Grand Prix1990,1990-07-29 06:00:00,api,2024-06-12
+494,1990,10,Hungaroring,Hungarian Grand Prix,1990-08-12,06:00:00,Hungarian Grand Prix1990,1990-08-12 06:00:00,api,2024-06-12
+495,1990,11,Circuit de Spa-Francorchamps,Belgian Grand Prix,1990-08-26,06:00:00,Belgian Grand Prix1990,1990-08-26 06:00:00,api,2024-06-12
+496,1990,12,Autodromo Nazionale di Monza,Italian Grand Prix,1990-09-09,06:00:00,Italian Grand Prix1990,1990-09-09 06:00:00,api,2024-06-12
+497,1990,13,Autódromo do Estoril,Portuguese Grand Prix,1990-09-23,06:00:00,Portuguese Grand Prix1990,1990-09-23 06:00:00,api,2024-06-12
+498,1990,14,Circuito de Jerez,Spanish Grand Prix,1990-09-30,06:00:00,Spanish Grand Prix1990,1990-09-30 06:00:00,api,2024-06-12
+499,1990,15,Suzuka Circuit,Japanese Grand Prix,1990-10-21,06:00:00,Japanese Grand Prix1990,1990-10-21 06:00:00,api,2024-06-12
+500,1990,16,Adelaide Street Circuit,Australian Grand Prix,1990-11-04,06:00:00,Australian Grand Prix1990,1990-11-04 06:00:00,api,2024-06-12
+501,1991,1,Phoenix street circuit,United States Grand Prix,1991-03-10,06:00:00,United States Grand Prix1991,1991-03-10 06:00:00,api,2024-06-12
+502,1991,2,Autódromo José Carlos Pace,Brazilian Grand Prix,1991-03-24,06:00:00,Brazilian Grand Prix1991,1991-03-24 06:00:00,api,2024-06-12
+503,1991,3,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1991-04-28,06:00:00,San Marino Grand Prix1991,1991-04-28 06:00:00,api,2024-06-12
+504,1991,4,Circuit de Monaco,Monaco Grand Prix,1991-05-12,06:00:00,Monaco Grand Prix1991,1991-05-12 06:00:00,api,2024-06-12
+505,1991,5,Circuit Gilles Villeneuve,Canadian Grand Prix,1991-06-02,06:00:00,Canadian Grand Prix1991,1991-06-02 06:00:00,api,2024-06-12
+506,1991,6,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1991-06-16,06:00:00,Mexican Grand Prix1991,1991-06-16 06:00:00,api,2024-06-12
+507,1991,7,Circuit de Nevers Magny-Cours,French Grand Prix,1991-07-07,06:00:00,French Grand Prix1991,1991-07-07 06:00:00,api,2024-06-12
+508,1991,8,Silverstone Circuit,British Grand Prix,1991-07-14,06:00:00,British Grand Prix1991,1991-07-14 06:00:00,api,2024-06-12
+509,1991,9,Hockenheimring,German Grand Prix,1991-07-28,06:00:00,German Grand Prix1991,1991-07-28 06:00:00,api,2024-06-12
+510,1991,10,Hungaroring,Hungarian Grand Prix,1991-08-11,06:00:00,Hungarian Grand Prix1991,1991-08-11 06:00:00,api,2024-06-12
+511,1991,11,Circuit de Spa-Francorchamps,Belgian Grand Prix,1991-08-25,06:00:00,Belgian Grand Prix1991,1991-08-25 06:00:00,api,2024-06-12
+512,1991,12,Autodromo Nazionale di Monza,Italian Grand Prix,1991-09-08,06:00:00,Italian Grand Prix1991,1991-09-08 06:00:00,api,2024-06-12
+513,1991,13,Autódromo do Estoril,Portuguese Grand Prix,1991-09-22,06:00:00,Portuguese Grand Prix1991,1991-09-22 06:00:00,api,2024-06-12
+514,1991,14,Circuit de Barcelona-Catalunya,Spanish Grand Prix,1991-09-29,06:00:00,Spanish Grand Prix1991,1991-09-29 06:00:00,api,2024-06-12
+515,1991,15,Suzuka Circuit,Japanese Grand Prix,1991-10-20,06:00:00,Japanese Grand Prix1991,1991-10-20 06:00:00,api,2024-06-12
+516,1991,16,Adelaide Street Circuit,Australian Grand Prix,1991-11-03,06:00:00,Australian Grand Prix1991,1991-11-03 06:00:00,api,2024-06-12
+517,1992,1,Kyalami,South African Grand Prix,1992-03-01,06:00:00,South African Grand Prix1992,1992-03-01 06:00:00,api,2024-06-12
+518,1992,2,Autódromo Hermanos Rodríguez,Mexican Grand Prix,1992-03-22,06:00:00,Mexican Grand Prix1992,1992-03-22 06:00:00,api,2024-06-12
+519,1992,3,Autódromo José Carlos Pace,Brazilian Grand Prix,1992-04-05,06:00:00,Brazilian Grand Prix1992,1992-04-05 06:00:00,api,2024-06-12
+520,1992,4,Circuit de Barcelona-Catalunya,Spanish Grand Prix,1992-05-03,06:00:00,Spanish Grand Prix1992,1992-05-03 06:00:00,api,2024-06-12
+521,1992,5,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1992-05-17,06:00:00,San Marino Grand Prix1992,1992-05-17 06:00:00,api,2024-06-12
+522,1992,6,Circuit de Monaco,Monaco Grand Prix,1992-05-31,06:00:00,Monaco Grand Prix1992,1992-05-31 06:00:00,api,2024-06-12
+523,1992,7,Circuit Gilles Villeneuve,Canadian Grand Prix,1992-06-14,06:00:00,Canadian Grand Prix1992,1992-06-14 06:00:00,api,2024-06-12
+524,1992,8,Circuit de Nevers Magny-Cours,French Grand Prix,1992-07-05,06:00:00,French Grand Prix1992,1992-07-05 06:00:00,api,2024-06-12
+525,1992,9,Silverstone Circuit,British Grand Prix,1992-07-12,06:00:00,British Grand Prix1992,1992-07-12 06:00:00,api,2024-06-12
+526,1992,10,Hockenheimring,German Grand Prix,1992-07-26,06:00:00,German Grand Prix1992,1992-07-26 06:00:00,api,2024-06-12
+527,1992,11,Hungaroring,Hungarian Grand Prix,1992-08-16,06:00:00,Hungarian Grand Prix1992,1992-08-16 06:00:00,api,2024-06-12
+528,1992,12,Circuit de Spa-Francorchamps,Belgian Grand Prix,1992-08-30,06:00:00,Belgian Grand Prix1992,1992-08-30 06:00:00,api,2024-06-12
+529,1992,13,Autodromo Nazionale di Monza,Italian Grand Prix,1992-09-13,06:00:00,Italian Grand Prix1992,1992-09-13 06:00:00,api,2024-06-12
+530,1992,14,Autódromo do Estoril,Portuguese Grand Prix,1992-09-27,06:00:00,Portuguese Grand Prix1992,1992-09-27 06:00:00,api,2024-06-12
+531,1992,15,Suzuka Circuit,Japanese Grand Prix,1992-10-25,06:00:00,Japanese Grand Prix1992,1992-10-25 06:00:00,api,2024-06-12
+532,1992,16,Adelaide Street Circuit,Australian Grand Prix,1992-11-08,06:00:00,Australian Grand Prix1992,1992-11-08 06:00:00,api,2024-06-12
+533,1993,1,Kyalami,South African Grand Prix,1993-03-14,06:00:00,South African Grand Prix1993,1993-03-14 06:00:00,api,2024-06-12
+534,1993,2,Autódromo José Carlos Pace,Brazilian Grand Prix,1993-03-28,06:00:00,Brazilian Grand Prix1993,1993-03-28 06:00:00,api,2024-06-12
+535,1993,3,Donington Park,European Grand Prix,1993-04-11,06:00:00,European Grand Prix1993,1993-04-11 06:00:00,api,2024-06-12
+536,1993,4,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1993-04-25,06:00:00,San Marino Grand Prix1993,1993-04-25 06:00:00,api,2024-06-12
+537,1993,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,1993-05-09,06:00:00,Spanish Grand Prix1993,1993-05-09 06:00:00,api,2024-06-12
+538,1993,6,Circuit de Monaco,Monaco Grand Prix,1993-05-23,06:00:00,Monaco Grand Prix1993,1993-05-23 06:00:00,api,2024-06-12
+539,1993,7,Circuit Gilles Villeneuve,Canadian Grand Prix,1993-06-13,06:00:00,Canadian Grand Prix1993,1993-06-13 06:00:00,api,2024-06-12
+540,1993,8,Circuit de Nevers Magny-Cours,French Grand Prix,1993-07-04,06:00:00,French Grand Prix1993,1993-07-04 06:00:00,api,2024-06-12
+541,1993,9,Silverstone Circuit,British Grand Prix,1993-07-11,06:00:00,British Grand Prix1993,1993-07-11 06:00:00,api,2024-06-12
+542,1993,10,Hockenheimring,German Grand Prix,1993-07-25,06:00:00,German Grand Prix1993,1993-07-25 06:00:00,api,2024-06-12
+543,1993,11,Hungaroring,Hungarian Grand Prix,1993-08-15,06:00:00,Hungarian Grand Prix1993,1993-08-15 06:00:00,api,2024-06-12
+544,1993,12,Circuit de Spa-Francorchamps,Belgian Grand Prix,1993-08-29,06:00:00,Belgian Grand Prix1993,1993-08-29 06:00:00,api,2024-06-12
+545,1993,13,Autodromo Nazionale di Monza,Italian Grand Prix,1993-09-12,06:00:00,Italian Grand Prix1993,1993-09-12 06:00:00,api,2024-06-12
+546,1993,14,Autódromo do Estoril,Portuguese Grand Prix,1993-09-26,06:00:00,Portuguese Grand Prix1993,1993-09-26 06:00:00,api,2024-06-12
+547,1993,15,Suzuka Circuit,Japanese Grand Prix,1993-10-24,06:00:00,Japanese Grand Prix1993,1993-10-24 06:00:00,api,2024-06-12
+548,1993,16,Adelaide Street Circuit,Australian Grand Prix,1993-11-07,06:00:00,Australian Grand Prix1993,1993-11-07 06:00:00,api,2024-06-12
+549,1994,1,Autódromo José Carlos Pace,Brazilian Grand Prix,1994-03-27,06:00:00,Brazilian Grand Prix1994,1994-03-27 06:00:00,api,2024-06-12
+550,1994,2,Okayama International Circuit,Pacific Grand Prix,1994-04-17,06:00:00,Pacific Grand Prix1994,1994-04-17 06:00:00,api,2024-06-12
+551,1994,3,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1994-05-01,06:00:00,San Marino Grand Prix1994,1994-05-01 06:00:00,api,2024-06-12
+552,1994,4,Circuit de Monaco,Monaco Grand Prix,1994-05-15,06:00:00,Monaco Grand Prix1994,1994-05-15 06:00:00,api,2024-06-12
+553,1994,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,1994-05-29,06:00:00,Spanish Grand Prix1994,1994-05-29 06:00:00,api,2024-06-12
+554,1994,6,Circuit Gilles Villeneuve,Canadian Grand Prix,1994-06-12,06:00:00,Canadian Grand Prix1994,1994-06-12 06:00:00,api,2024-06-12
+555,1994,7,Circuit de Nevers Magny-Cours,French Grand Prix,1994-07-03,06:00:00,French Grand Prix1994,1994-07-03 06:00:00,api,2024-06-12
+556,1994,8,Silverstone Circuit,British Grand Prix,1994-07-10,06:00:00,British Grand Prix1994,1994-07-10 06:00:00,api,2024-06-12
+557,1994,9,Hockenheimring,German Grand Prix,1994-07-31,06:00:00,German Grand Prix1994,1994-07-31 06:00:00,api,2024-06-12
+558,1994,10,Hungaroring,Hungarian Grand Prix,1994-08-14,06:00:00,Hungarian Grand Prix1994,1994-08-14 06:00:00,api,2024-06-12
+559,1994,11,Circuit de Spa-Francorchamps,Belgian Grand Prix,1994-08-28,06:00:00,Belgian Grand Prix1994,1994-08-28 06:00:00,api,2024-06-12
+560,1994,12,Autodromo Nazionale di Monza,Italian Grand Prix,1994-09-11,06:00:00,Italian Grand Prix1994,1994-09-11 06:00:00,api,2024-06-12
+561,1994,13,Autódromo do Estoril,Portuguese Grand Prix,1994-09-25,06:00:00,Portuguese Grand Prix1994,1994-09-25 06:00:00,api,2024-06-12
+562,1994,14,Circuito de Jerez,European Grand Prix,1994-10-16,06:00:00,European Grand Prix1994,1994-10-16 06:00:00,api,2024-06-12
+563,1994,15,Suzuka Circuit,Japanese Grand Prix,1994-11-06,06:00:00,Japanese Grand Prix1994,1994-11-06 06:00:00,api,2024-06-12
+564,1994,16,Adelaide Street Circuit,Australian Grand Prix,1994-11-13,06:00:00,Australian Grand Prix1994,1994-11-13 06:00:00,api,2024-06-12
+565,1995,1,Autódromo José Carlos Pace,Brazilian Grand Prix,1995-03-26,06:00:00,Brazilian Grand Prix1995,1995-03-26 06:00:00,api,2024-06-12
+566,1995,2,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1995-04-09,06:00:00,Argentine Grand Prix1995,1995-04-09 06:00:00,api,2024-06-12
+567,1995,3,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1995-04-30,06:00:00,San Marino Grand Prix1995,1995-04-30 06:00:00,api,2024-06-12
+568,1995,4,Circuit de Barcelona-Catalunya,Spanish Grand Prix,1995-05-14,06:00:00,Spanish Grand Prix1995,1995-05-14 06:00:00,api,2024-06-12
+569,1995,5,Circuit de Monaco,Monaco Grand Prix,1995-05-28,06:00:00,Monaco Grand Prix1995,1995-05-28 06:00:00,api,2024-06-12
+570,1995,6,Circuit Gilles Villeneuve,Canadian Grand Prix,1995-06-11,06:00:00,Canadian Grand Prix1995,1995-06-11 06:00:00,api,2024-06-12
+571,1995,7,Circuit de Nevers Magny-Cours,French Grand Prix,1995-07-02,06:00:00,French Grand Prix1995,1995-07-02 06:00:00,api,2024-06-12
+572,1995,8,Silverstone Circuit,British Grand Prix,1995-07-16,06:00:00,British Grand Prix1995,1995-07-16 06:00:00,api,2024-06-12
+573,1995,9,Hockenheimring,German Grand Prix,1995-07-30,06:00:00,German Grand Prix1995,1995-07-30 06:00:00,api,2024-06-12
+574,1995,10,Hungaroring,Hungarian Grand Prix,1995-08-13,06:00:00,Hungarian Grand Prix1995,1995-08-13 06:00:00,api,2024-06-12
+575,1995,11,Circuit de Spa-Francorchamps,Belgian Grand Prix,1995-08-27,06:00:00,Belgian Grand Prix1995,1995-08-27 06:00:00,api,2024-06-12
+576,1995,12,Autodromo Nazionale di Monza,Italian Grand Prix,1995-09-10,06:00:00,Italian Grand Prix1995,1995-09-10 06:00:00,api,2024-06-12
+577,1995,13,Autódromo do Estoril,Portuguese Grand Prix,1995-09-24,06:00:00,Portuguese Grand Prix1995,1995-09-24 06:00:00,api,2024-06-12
+578,1995,14,Nürburgring,European Grand Prix,1995-10-01,06:00:00,European Grand Prix1995,1995-10-01 06:00:00,api,2024-06-12
+579,1995,15,Okayama International Circuit,Pacific Grand Prix,1995-10-22,06:00:00,Pacific Grand Prix1995,1995-10-22 06:00:00,api,2024-06-12
+580,1995,16,Suzuka Circuit,Japanese Grand Prix,1995-10-29,06:00:00,Japanese Grand Prix1995,1995-10-29 06:00:00,api,2024-06-12
+581,1995,17,Adelaide Street Circuit,Australian Grand Prix,1995-11-12,06:00:00,Australian Grand Prix1995,1995-11-12 06:00:00,api,2024-06-12
+582,1996,1,Albert Park Grand Prix Circuit,Australian Grand Prix,1996-03-10,06:00:00,Australian Grand Prix1996,1996-03-10 06:00:00,api,2024-06-12
+583,1996,2,Autódromo José Carlos Pace,Brazilian Grand Prix,1996-03-31,06:00:00,Brazilian Grand Prix1996,1996-03-31 06:00:00,api,2024-06-12
+584,1996,3,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1996-04-07,06:00:00,Argentine Grand Prix1996,1996-04-07 06:00:00,api,2024-06-12
+585,1996,4,Nürburgring,European Grand Prix,1996-04-28,06:00:00,European Grand Prix1996,1996-04-28 06:00:00,api,2024-06-12
+586,1996,5,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1996-05-05,06:00:00,San Marino Grand Prix1996,1996-05-05 06:00:00,api,2024-06-12
+587,1996,6,Circuit de Monaco,Monaco Grand Prix,1996-05-19,06:00:00,Monaco Grand Prix1996,1996-05-19 06:00:00,api,2024-06-12
+588,1996,7,Circuit de Barcelona-Catalunya,Spanish Grand Prix,1996-06-02,06:00:00,Spanish Grand Prix1996,1996-06-02 06:00:00,api,2024-06-12
+589,1996,8,Circuit Gilles Villeneuve,Canadian Grand Prix,1996-06-16,06:00:00,Canadian Grand Prix1996,1996-06-16 06:00:00,api,2024-06-12
+590,1996,9,Circuit de Nevers Magny-Cours,French Grand Prix,1996-06-30,06:00:00,French Grand Prix1996,1996-06-30 06:00:00,api,2024-06-12
+591,1996,10,Silverstone Circuit,British Grand Prix,1996-07-14,06:00:00,British Grand Prix1996,1996-07-14 06:00:00,api,2024-06-12
+592,1996,11,Hockenheimring,German Grand Prix,1996-07-28,06:00:00,German Grand Prix1996,1996-07-28 06:00:00,api,2024-06-12
+593,1996,12,Hungaroring,Hungarian Grand Prix,1996-08-11,06:00:00,Hungarian Grand Prix1996,1996-08-11 06:00:00,api,2024-06-12
+594,1996,13,Circuit de Spa-Francorchamps,Belgian Grand Prix,1996-08-25,06:00:00,Belgian Grand Prix1996,1996-08-25 06:00:00,api,2024-06-12
+595,1996,14,Autodromo Nazionale di Monza,Italian Grand Prix,1996-09-08,06:00:00,Italian Grand Prix1996,1996-09-08 06:00:00,api,2024-06-12
+596,1996,15,Autódromo do Estoril,Portuguese Grand Prix,1996-09-22,06:00:00,Portuguese Grand Prix1996,1996-09-22 06:00:00,api,2024-06-12
+597,1996,16,Suzuka Circuit,Japanese Grand Prix,1996-10-13,06:00:00,Japanese Grand Prix1996,1996-10-13 06:00:00,api,2024-06-12
+598,1997,1,Albert Park Grand Prix Circuit,Australian Grand Prix,1997-03-09,06:00:00,Australian Grand Prix1997,1997-03-09 06:00:00,api,2024-06-12
+599,1997,2,Autódromo José Carlos Pace,Brazilian Grand Prix,1997-03-30,06:00:00,Brazilian Grand Prix1997,1997-03-30 06:00:00,api,2024-06-12
+600,1997,3,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1997-04-13,06:00:00,Argentine Grand Prix1997,1997-04-13 06:00:00,api,2024-06-12
+601,1997,4,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1997-04-27,06:00:00,San Marino Grand Prix1997,1997-04-27 06:00:00,api,2024-06-12
+602,1997,5,Circuit de Monaco,Monaco Grand Prix,1997-05-11,06:00:00,Monaco Grand Prix1997,1997-05-11 06:00:00,api,2024-06-12
+603,1997,6,Circuit de Barcelona-Catalunya,Spanish Grand Prix,1997-05-25,06:00:00,Spanish Grand Prix1997,1997-05-25 06:00:00,api,2024-06-12
+604,1997,7,Circuit Gilles Villeneuve,Canadian Grand Prix,1997-06-15,06:00:00,Canadian Grand Prix1997,1997-06-15 06:00:00,api,2024-06-12
+605,1997,8,Circuit de Nevers Magny-Cours,French Grand Prix,1997-06-29,06:00:00,French Grand Prix1997,1997-06-29 06:00:00,api,2024-06-12
+606,1997,9,Silverstone Circuit,British Grand Prix,1997-07-13,06:00:00,British Grand Prix1997,1997-07-13 06:00:00,api,2024-06-12
+607,1997,10,Hockenheimring,German Grand Prix,1997-07-27,06:00:00,German Grand Prix1997,1997-07-27 06:00:00,api,2024-06-12
+608,1997,11,Hungaroring,Hungarian Grand Prix,1997-08-10,06:00:00,Hungarian Grand Prix1997,1997-08-10 06:00:00,api,2024-06-12
+609,1997,12,Circuit de Spa-Francorchamps,Belgian Grand Prix,1997-08-24,06:00:00,Belgian Grand Prix1997,1997-08-24 06:00:00,api,2024-06-12
+610,1997,13,Autodromo Nazionale di Monza,Italian Grand Prix,1997-09-07,06:00:00,Italian Grand Prix1997,1997-09-07 06:00:00,api,2024-06-12
+611,1997,14,Red Bull Ring,Austrian Grand Prix,1997-09-21,06:00:00,Austrian Grand Prix1997,1997-09-21 06:00:00,api,2024-06-12
+612,1997,15,Nürburgring,Luxembourg Grand Prix,1997-09-28,06:00:00,Luxembourg Grand Prix1997,1997-09-28 06:00:00,api,2024-06-12
+613,1997,16,Suzuka Circuit,Japanese Grand Prix,1997-10-12,06:00:00,Japanese Grand Prix1997,1997-10-12 06:00:00,api,2024-06-12
+614,1997,17,Circuito de Jerez,European Grand Prix,1997-10-26,06:00:00,European Grand Prix1997,1997-10-26 06:00:00,api,2024-06-12
+615,1998,1,Albert Park Grand Prix Circuit,Australian Grand Prix,1998-03-08,06:00:00,Australian Grand Prix1998,1998-03-08 06:00:00,api,2024-06-12
+616,1998,2,Autódromo José Carlos Pace,Brazilian Grand Prix,1998-03-29,06:00:00,Brazilian Grand Prix1998,1998-03-29 06:00:00,api,2024-06-12
+617,1998,3,Autódromo Juan y Oscar Gálvez,Argentine Grand Prix,1998-04-12,06:00:00,Argentine Grand Prix1998,1998-04-12 06:00:00,api,2024-06-12
+618,1998,4,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1998-04-26,06:00:00,San Marino Grand Prix1998,1998-04-26 06:00:00,api,2024-06-12
+619,1998,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,1998-05-10,06:00:00,Spanish Grand Prix1998,1998-05-10 06:00:00,api,2024-06-12
+620,1998,6,Circuit de Monaco,Monaco Grand Prix,1998-05-24,06:00:00,Monaco Grand Prix1998,1998-05-24 06:00:00,api,2024-06-12
+621,1998,7,Circuit Gilles Villeneuve,Canadian Grand Prix,1998-06-07,06:00:00,Canadian Grand Prix1998,1998-06-07 06:00:00,api,2024-06-12
+622,1998,8,Circuit de Nevers Magny-Cours,French Grand Prix,1998-06-28,06:00:00,French Grand Prix1998,1998-06-28 06:00:00,api,2024-06-12
+623,1998,9,Silverstone Circuit,British Grand Prix,1998-07-12,06:00:00,British Grand Prix1998,1998-07-12 06:00:00,api,2024-06-12
+624,1998,10,Red Bull Ring,Austrian Grand Prix,1998-07-26,06:00:00,Austrian Grand Prix1998,1998-07-26 06:00:00,api,2024-06-12
+625,1998,11,Hockenheimring,German Grand Prix,1998-08-02,06:00:00,German Grand Prix1998,1998-08-02 06:00:00,api,2024-06-12
+626,1998,12,Hungaroring,Hungarian Grand Prix,1998-08-16,06:00:00,Hungarian Grand Prix1998,1998-08-16 06:00:00,api,2024-06-12
+627,1998,13,Circuit de Spa-Francorchamps,Belgian Grand Prix,1998-08-30,06:00:00,Belgian Grand Prix1998,1998-08-30 06:00:00,api,2024-06-12
+628,1998,14,Autodromo Nazionale di Monza,Italian Grand Prix,1998-09-13,06:00:00,Italian Grand Prix1998,1998-09-13 06:00:00,api,2024-06-12
+629,1998,15,Nürburgring,Luxembourg Grand Prix,1998-09-27,06:00:00,Luxembourg Grand Prix1998,1998-09-27 06:00:00,api,2024-06-12
+630,1998,16,Suzuka Circuit,Japanese Grand Prix,1998-11-01,06:00:00,Japanese Grand Prix1998,1998-11-01 06:00:00,api,2024-06-12
+631,1999,1,Albert Park Grand Prix Circuit,Australian Grand Prix,1999-03-07,06:00:00,Australian Grand Prix1999,1999-03-07 06:00:00,api,2024-06-12
+632,1999,2,Autódromo José Carlos Pace,Brazilian Grand Prix,1999-04-11,06:00:00,Brazilian Grand Prix1999,1999-04-11 06:00:00,api,2024-06-12
+633,1999,3,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,1999-05-02,06:00:00,San Marino Grand Prix1999,1999-05-02 06:00:00,api,2024-06-12
+634,1999,4,Circuit de Monaco,Monaco Grand Prix,1999-05-16,06:00:00,Monaco Grand Prix1999,1999-05-16 06:00:00,api,2024-06-12
+635,1999,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,1999-05-30,06:00:00,Spanish Grand Prix1999,1999-05-30 06:00:00,api,2024-06-12
+636,1999,6,Circuit Gilles Villeneuve,Canadian Grand Prix,1999-06-13,06:00:00,Canadian Grand Prix1999,1999-06-13 06:00:00,api,2024-06-12
+637,1999,7,Circuit de Nevers Magny-Cours,French Grand Prix,1999-06-27,06:00:00,French Grand Prix1999,1999-06-27 06:00:00,api,2024-06-12
+638,1999,8,Silverstone Circuit,British Grand Prix,1999-07-11,06:00:00,British Grand Prix1999,1999-07-11 06:00:00,api,2024-06-12
+639,1999,9,Red Bull Ring,Austrian Grand Prix,1999-07-25,06:00:00,Austrian Grand Prix1999,1999-07-25 06:00:00,api,2024-06-12
+640,1999,10,Hockenheimring,German Grand Prix,1999-08-01,06:00:00,German Grand Prix1999,1999-08-01 06:00:00,api,2024-06-12
+641,1999,11,Hungaroring,Hungarian Grand Prix,1999-08-15,06:00:00,Hungarian Grand Prix1999,1999-08-15 06:00:00,api,2024-06-12
+642,1999,12,Circuit de Spa-Francorchamps,Belgian Grand Prix,1999-08-29,06:00:00,Belgian Grand Prix1999,1999-08-29 06:00:00,api,2024-06-12
+643,1999,13,Autodromo Nazionale di Monza,Italian Grand Prix,1999-09-12,06:00:00,Italian Grand Prix1999,1999-09-12 06:00:00,api,2024-06-12
+644,1999,14,Nürburgring,European Grand Prix,1999-09-26,06:00:00,European Grand Prix1999,1999-09-26 06:00:00,api,2024-06-12
+645,1999,15,Sepang International Circuit,Malaysian Grand Prix,1999-10-17,06:00:00,Malaysian Grand Prix1999,1999-10-17 06:00:00,api,2024-06-12
+646,1999,16,Suzuka Circuit,Japanese Grand Prix,1999-10-31,06:00:00,Japanese Grand Prix1999,1999-10-31 06:00:00,api,2024-06-12
+647,2000,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2000-03-12,06:00:00,Australian Grand Prix2000,2000-03-12 06:00:00,api,2024-06-12
+648,2000,2,Autódromo José Carlos Pace,Brazilian Grand Prix,2000-03-26,06:00:00,Brazilian Grand Prix2000,2000-03-26 06:00:00,api,2024-06-12
+649,2000,3,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,2000-04-09,06:00:00,San Marino Grand Prix2000,2000-04-09 06:00:00,api,2024-06-12
+650,2000,4,Silverstone Circuit,British Grand Prix,2000-04-23,06:00:00,British Grand Prix2000,2000-04-23 06:00:00,api,2024-06-12
+651,2000,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2000-05-07,06:00:00,Spanish Grand Prix2000,2000-05-07 06:00:00,api,2024-06-12
+652,2000,6,Nürburgring,European Grand Prix,2000-05-21,06:00:00,European Grand Prix2000,2000-05-21 06:00:00,api,2024-06-12
+653,2000,7,Circuit de Monaco,Monaco Grand Prix,2000-06-04,06:00:00,Monaco Grand Prix2000,2000-06-04 06:00:00,api,2024-06-12
+654,2000,8,Circuit Gilles Villeneuve,Canadian Grand Prix,2000-06-18,06:00:00,Canadian Grand Prix2000,2000-06-18 06:00:00,api,2024-06-12
+655,2000,9,Circuit de Nevers Magny-Cours,French Grand Prix,2000-07-02,06:00:00,French Grand Prix2000,2000-07-02 06:00:00,api,2024-06-12
+656,2000,10,Red Bull Ring,Austrian Grand Prix,2000-07-16,06:00:00,Austrian Grand Prix2000,2000-07-16 06:00:00,api,2024-06-12
+657,2000,11,Hockenheimring,German Grand Prix,2000-07-30,06:00:00,German Grand Prix2000,2000-07-30 06:00:00,api,2024-06-12
+658,2000,12,Hungaroring,Hungarian Grand Prix,2000-08-13,06:00:00,Hungarian Grand Prix2000,2000-08-13 06:00:00,api,2024-06-12
+659,2000,13,Circuit de Spa-Francorchamps,Belgian Grand Prix,2000-08-27,06:00:00,Belgian Grand Prix2000,2000-08-27 06:00:00,api,2024-06-12
+660,2000,14,Autodromo Nazionale di Monza,Italian Grand Prix,2000-09-10,06:00:00,Italian Grand Prix2000,2000-09-10 06:00:00,api,2024-06-12
+661,2000,15,Indianapolis Motor Speedway,United States Grand Prix,2000-09-24,06:00:00,United States Grand Prix2000,2000-09-24 06:00:00,api,2024-06-12
+662,2000,16,Suzuka Circuit,Japanese Grand Prix,2000-10-08,06:00:00,Japanese Grand Prix2000,2000-10-08 06:00:00,api,2024-06-12
+663,2000,17,Sepang International Circuit,Malaysian Grand Prix,2000-10-22,06:00:00,Malaysian Grand Prix2000,2000-10-22 06:00:00,api,2024-06-12
+664,2001,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2001-03-04,06:00:00,Australian Grand Prix2001,2001-03-04 06:00:00,api,2024-06-12
+665,2001,2,Sepang International Circuit,Malaysian Grand Prix,2001-03-18,06:00:00,Malaysian Grand Prix2001,2001-03-18 06:00:00,api,2024-06-12
+666,2001,3,Autódromo José Carlos Pace,Brazilian Grand Prix,2001-04-01,06:00:00,Brazilian Grand Prix2001,2001-04-01 06:00:00,api,2024-06-12
+667,2001,4,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,2001-04-15,06:00:00,San Marino Grand Prix2001,2001-04-15 06:00:00,api,2024-06-12
+668,2001,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2001-04-29,06:00:00,Spanish Grand Prix2001,2001-04-29 06:00:00,api,2024-06-12
+669,2001,6,Red Bull Ring,Austrian Grand Prix,2001-05-13,06:00:00,Austrian Grand Prix2001,2001-05-13 06:00:00,api,2024-06-12
+670,2001,7,Circuit de Monaco,Monaco Grand Prix,2001-05-27,06:00:00,Monaco Grand Prix2001,2001-05-27 06:00:00,api,2024-06-12
+671,2001,8,Circuit Gilles Villeneuve,Canadian Grand Prix,2001-06-10,06:00:00,Canadian Grand Prix2001,2001-06-10 06:00:00,api,2024-06-12
+672,2001,9,Nürburgring,European Grand Prix,2001-06-24,06:00:00,European Grand Prix2001,2001-06-24 06:00:00,api,2024-06-12
+673,2001,10,Circuit de Nevers Magny-Cours,French Grand Prix,2001-07-01,06:00:00,French Grand Prix2001,2001-07-01 06:00:00,api,2024-06-12
+674,2001,11,Silverstone Circuit,British Grand Prix,2001-07-15,06:00:00,British Grand Prix2001,2001-07-15 06:00:00,api,2024-06-12
+675,2001,12,Hockenheimring,German Grand Prix,2001-07-29,06:00:00,German Grand Prix2001,2001-07-29 06:00:00,api,2024-06-12
+676,2001,13,Hungaroring,Hungarian Grand Prix,2001-08-19,06:00:00,Hungarian Grand Prix2001,2001-08-19 06:00:00,api,2024-06-12
+677,2001,14,Circuit de Spa-Francorchamps,Belgian Grand Prix,2001-09-02,06:00:00,Belgian Grand Prix2001,2001-09-02 06:00:00,api,2024-06-12
+678,2001,15,Autodromo Nazionale di Monza,Italian Grand Prix,2001-09-16,06:00:00,Italian Grand Prix2001,2001-09-16 06:00:00,api,2024-06-12
+679,2001,16,Indianapolis Motor Speedway,United States Grand Prix,2001-09-30,06:00:00,United States Grand Prix2001,2001-09-30 06:00:00,api,2024-06-12
+680,2001,17,Suzuka Circuit,Japanese Grand Prix,2001-10-14,06:00:00,Japanese Grand Prix2001,2001-10-14 06:00:00,api,2024-06-12
+681,2002,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2002-03-03,06:00:00,Australian Grand Prix2002,2002-03-03 06:00:00,api,2024-06-12
+682,2002,2,Sepang International Circuit,Malaysian Grand Prix,2002-03-17,06:00:00,Malaysian Grand Prix2002,2002-03-17 06:00:00,api,2024-06-12
+683,2002,3,Autódromo José Carlos Pace,Brazilian Grand Prix,2002-03-31,06:00:00,Brazilian Grand Prix2002,2002-03-31 06:00:00,api,2024-06-12
+684,2002,4,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,2002-04-14,06:00:00,San Marino Grand Prix2002,2002-04-14 06:00:00,api,2024-06-12
+685,2002,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2002-04-28,06:00:00,Spanish Grand Prix2002,2002-04-28 06:00:00,api,2024-06-12
+686,2002,6,Red Bull Ring,Austrian Grand Prix,2002-05-12,06:00:00,Austrian Grand Prix2002,2002-05-12 06:00:00,api,2024-06-12
+687,2002,7,Circuit de Monaco,Monaco Grand Prix,2002-05-26,06:00:00,Monaco Grand Prix2002,2002-05-26 06:00:00,api,2024-06-12
+688,2002,8,Circuit Gilles Villeneuve,Canadian Grand Prix,2002-06-09,06:00:00,Canadian Grand Prix2002,2002-06-09 06:00:00,api,2024-06-12
+689,2002,9,Nürburgring,European Grand Prix,2002-06-23,06:00:00,European Grand Prix2002,2002-06-23 06:00:00,api,2024-06-12
+690,2002,10,Silverstone Circuit,British Grand Prix,2002-07-07,06:00:00,British Grand Prix2002,2002-07-07 06:00:00,api,2024-06-12
+691,2002,11,Circuit de Nevers Magny-Cours,French Grand Prix,2002-07-21,06:00:00,French Grand Prix2002,2002-07-21 06:00:00,api,2024-06-12
+692,2002,12,Hockenheimring,German Grand Prix,2002-07-28,06:00:00,German Grand Prix2002,2002-07-28 06:00:00,api,2024-06-12
+693,2002,13,Hungaroring,Hungarian Grand Prix,2002-08-18,06:00:00,Hungarian Grand Prix2002,2002-08-18 06:00:00,api,2024-06-12
+694,2002,14,Circuit de Spa-Francorchamps,Belgian Grand Prix,2002-09-01,06:00:00,Belgian Grand Prix2002,2002-09-01 06:00:00,api,2024-06-12
+695,2002,15,Autodromo Nazionale di Monza,Italian Grand Prix,2002-09-15,06:00:00,Italian Grand Prix2002,2002-09-15 06:00:00,api,2024-06-12
+696,2002,16,Indianapolis Motor Speedway,United States Grand Prix,2002-09-29,06:00:00,United States Grand Prix2002,2002-09-29 06:00:00,api,2024-06-12
+697,2002,17,Suzuka Circuit,Japanese Grand Prix,2002-10-13,06:00:00,Japanese Grand Prix2002,2002-10-13 06:00:00,api,2024-06-12
+698,2003,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2003-03-09,06:00:00,Australian Grand Prix2003,2003-03-09 06:00:00,api,2024-06-12
+699,2003,2,Sepang International Circuit,Malaysian Grand Prix,2003-03-23,06:00:00,Malaysian Grand Prix2003,2003-03-23 06:00:00,api,2024-06-12
+700,2003,3,Autódromo José Carlos Pace,Brazilian Grand Prix,2003-04-06,06:00:00,Brazilian Grand Prix2003,2003-04-06 06:00:00,api,2024-06-12
+701,2003,4,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,2003-04-20,06:00:00,San Marino Grand Prix2003,2003-04-20 06:00:00,api,2024-06-12
+702,2003,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2003-05-04,06:00:00,Spanish Grand Prix2003,2003-05-04 06:00:00,api,2024-06-12
+703,2003,6,Red Bull Ring,Austrian Grand Prix,2003-05-18,06:00:00,Austrian Grand Prix2003,2003-05-18 06:00:00,api,2024-06-12
+704,2003,7,Circuit de Monaco,Monaco Grand Prix,2003-06-01,06:00:00,Monaco Grand Prix2003,2003-06-01 06:00:00,api,2024-06-12
+705,2003,8,Circuit Gilles Villeneuve,Canadian Grand Prix,2003-06-15,06:00:00,Canadian Grand Prix2003,2003-06-15 06:00:00,api,2024-06-12
+706,2003,9,Nürburgring,European Grand Prix,2003-06-29,06:00:00,European Grand Prix2003,2003-06-29 06:00:00,api,2024-06-12
+707,2003,10,Circuit de Nevers Magny-Cours,French Grand Prix,2003-07-06,06:00:00,French Grand Prix2003,2003-07-06 06:00:00,api,2024-06-12
+708,2003,11,Silverstone Circuit,British Grand Prix,2003-07-20,06:00:00,British Grand Prix2003,2003-07-20 06:00:00,api,2024-06-12
+709,2003,12,Hockenheimring,German Grand Prix,2003-08-03,06:00:00,German Grand Prix2003,2003-08-03 06:00:00,api,2024-06-12
+710,2003,13,Hungaroring,Hungarian Grand Prix,2003-08-24,06:00:00,Hungarian Grand Prix2003,2003-08-24 06:00:00,api,2024-06-12
+711,2003,14,Autodromo Nazionale di Monza,Italian Grand Prix,2003-09-14,06:00:00,Italian Grand Prix2003,2003-09-14 06:00:00,api,2024-06-12
+712,2003,15,Indianapolis Motor Speedway,United States Grand Prix,2003-09-28,06:00:00,United States Grand Prix2003,2003-09-28 06:00:00,api,2024-06-12
+713,2003,16,Suzuka Circuit,Japanese Grand Prix,2003-10-12,06:00:00,Japanese Grand Prix2003,2003-10-12 06:00:00,api,2024-06-12
+714,2004,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2004-03-07,06:00:00,Australian Grand Prix2004,2004-03-07 06:00:00,api,2024-06-12
+715,2004,2,Sepang International Circuit,Malaysian Grand Prix,2004-03-21,06:00:00,Malaysian Grand Prix2004,2004-03-21 06:00:00,api,2024-06-12
+716,2004,3,Bahrain International Circuit,Bahrain Grand Prix,2004-04-04,06:00:00,Bahrain Grand Prix2004,2004-04-04 06:00:00,api,2024-06-12
+717,2004,4,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,2004-04-25,06:00:00,San Marino Grand Prix2004,2004-04-25 06:00:00,api,2024-06-12
+718,2004,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2004-05-09,06:00:00,Spanish Grand Prix2004,2004-05-09 06:00:00,api,2024-06-12
+719,2004,6,Circuit de Monaco,Monaco Grand Prix,2004-05-23,06:00:00,Monaco Grand Prix2004,2004-05-23 06:00:00,api,2024-06-12
+720,2004,7,Nürburgring,European Grand Prix,2004-05-30,06:00:00,European Grand Prix2004,2004-05-30 06:00:00,api,2024-06-12
+721,2004,8,Circuit Gilles Villeneuve,Canadian Grand Prix,2004-06-13,06:00:00,Canadian Grand Prix2004,2004-06-13 06:00:00,api,2024-06-12
+722,2004,9,Indianapolis Motor Speedway,United States Grand Prix,2004-06-20,06:00:00,United States Grand Prix2004,2004-06-20 06:00:00,api,2024-06-12
+723,2004,10,Circuit de Nevers Magny-Cours,French Grand Prix,2004-07-04,06:00:00,French Grand Prix2004,2004-07-04 06:00:00,api,2024-06-12
+724,2004,11,Silverstone Circuit,British Grand Prix,2004-07-11,06:00:00,British Grand Prix2004,2004-07-11 06:00:00,api,2024-06-12
+725,2004,12,Hockenheimring,German Grand Prix,2004-07-25,06:00:00,German Grand Prix2004,2004-07-25 06:00:00,api,2024-06-12
+726,2004,13,Hungaroring,Hungarian Grand Prix,2004-08-15,06:00:00,Hungarian Grand Prix2004,2004-08-15 06:00:00,api,2024-06-12
+727,2004,14,Circuit de Spa-Francorchamps,Belgian Grand Prix,2004-08-29,06:00:00,Belgian Grand Prix2004,2004-08-29 06:00:00,api,2024-06-12
+728,2004,15,Autodromo Nazionale di Monza,Italian Grand Prix,2004-09-12,06:00:00,Italian Grand Prix2004,2004-09-12 06:00:00,api,2024-06-12
+729,2004,16,Shanghai International Circuit,Chinese Grand Prix,2004-09-26,06:00:00,Chinese Grand Prix2004,2004-09-26 06:00:00,api,2024-06-12
+730,2004,17,Suzuka Circuit,Japanese Grand Prix,2004-10-10,06:00:00,Japanese Grand Prix2004,2004-10-10 06:00:00,api,2024-06-12
+731,2004,18,Autódromo José Carlos Pace,Brazilian Grand Prix,2004-10-24,06:00:00,Brazilian Grand Prix2004,2004-10-24 06:00:00,api,2024-06-12
+732,2005,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2005-03-06,06:00:00,Australian Grand Prix2005,2005-03-06 06:00:00,api,2024-06-12
+733,2005,2,Sepang International Circuit,Malaysian Grand Prix,2005-03-20,06:00:00,Malaysian Grand Prix2005,2005-03-20 06:00:00,api,2024-06-12
+734,2005,3,Bahrain International Circuit,Bahrain Grand Prix,2005-04-03,06:00:00,Bahrain Grand Prix2005,2005-04-03 06:00:00,api,2024-06-12
+735,2005,4,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,2005-04-24,06:00:00,San Marino Grand Prix2005,2005-04-24 06:00:00,api,2024-06-12
+736,2005,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2005-05-08,06:00:00,Spanish Grand Prix2005,2005-05-08 06:00:00,api,2024-06-12
+737,2005,6,Circuit de Monaco,Monaco Grand Prix,2005-05-22,06:00:00,Monaco Grand Prix2005,2005-05-22 06:00:00,api,2024-06-12
+738,2005,7,Nürburgring,European Grand Prix,2005-05-29,06:00:00,European Grand Prix2005,2005-05-29 06:00:00,api,2024-06-12
+739,2005,8,Circuit Gilles Villeneuve,Canadian Grand Prix,2005-06-12,06:00:00,Canadian Grand Prix2005,2005-06-12 06:00:00,api,2024-06-12
+740,2005,9,Indianapolis Motor Speedway,United States Grand Prix,2005-06-19,06:00:00,United States Grand Prix2005,2005-06-19 06:00:00,api,2024-06-12
+741,2005,10,Circuit de Nevers Magny-Cours,French Grand Prix,2005-07-03,06:00:00,French Grand Prix2005,2005-07-03 06:00:00,api,2024-06-12
+742,2005,11,Silverstone Circuit,British Grand Prix,2005-07-10,06:00:00,British Grand Prix2005,2005-07-10 06:00:00,api,2024-06-12
+743,2005,12,Hockenheimring,German Grand Prix,2005-07-24,06:00:00,German Grand Prix2005,2005-07-24 06:00:00,api,2024-06-12
+744,2005,13,Hungaroring,Hungarian Grand Prix,2005-07-31,06:00:00,Hungarian Grand Prix2005,2005-07-31 06:00:00,api,2024-06-12
+745,2005,14,Istanbul Park,Turkish Grand Prix,2005-08-21,06:00:00,Turkish Grand Prix2005,2005-08-21 06:00:00,api,2024-06-12
+746,2005,15,Autodromo Nazionale di Monza,Italian Grand Prix,2005-09-04,06:00:00,Italian Grand Prix2005,2005-09-04 06:00:00,api,2024-06-12
+747,2005,16,Circuit de Spa-Francorchamps,Belgian Grand Prix,2005-09-11,06:00:00,Belgian Grand Prix2005,2005-09-11 06:00:00,api,2024-06-12
+748,2005,17,Autódromo José Carlos Pace,Brazilian Grand Prix,2005-09-25,06:00:00,Brazilian Grand Prix2005,2005-09-25 06:00:00,api,2024-06-12
+749,2005,18,Suzuka Circuit,Japanese Grand Prix,2005-10-09,06:00:00,Japanese Grand Prix2005,2005-10-09 06:00:00,api,2024-06-12
+750,2005,19,Shanghai International Circuit,Chinese Grand Prix,2005-10-16,06:00:00,Chinese Grand Prix2005,2005-10-16 06:00:00,api,2024-06-12
+751,2006,1,Bahrain International Circuit,Bahrain Grand Prix,2006-03-12,06:00:00,Bahrain Grand Prix2006,2006-03-12 06:00:00,api,2024-06-12
+752,2006,2,Sepang International Circuit,Malaysian Grand Prix,2006-03-19,06:00:00,Malaysian Grand Prix2006,2006-03-19 06:00:00,api,2024-06-12
+753,2006,3,Albert Park Grand Prix Circuit,Australian Grand Prix,2006-04-02,06:00:00,Australian Grand Prix2006,2006-04-02 06:00:00,api,2024-06-12
+754,2006,4,Autodromo Enzo e Dino Ferrari,San Marino Grand Prix,2006-04-23,06:00:00,San Marino Grand Prix2006,2006-04-23 06:00:00,api,2024-06-12
+755,2006,5,Nürburgring,European Grand Prix,2006-05-07,06:00:00,European Grand Prix2006,2006-05-07 06:00:00,api,2024-06-12
+756,2006,6,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2006-05-14,06:00:00,Spanish Grand Prix2006,2006-05-14 06:00:00,api,2024-06-12
+757,2006,7,Circuit de Monaco,Monaco Grand Prix,2006-05-28,06:00:00,Monaco Grand Prix2006,2006-05-28 06:00:00,api,2024-06-12
+758,2006,8,Silverstone Circuit,British Grand Prix,2006-06-11,06:00:00,British Grand Prix2006,2006-06-11 06:00:00,api,2024-06-12
+759,2006,9,Circuit Gilles Villeneuve,Canadian Grand Prix,2006-06-25,06:00:00,Canadian Grand Prix2006,2006-06-25 06:00:00,api,2024-06-12
+760,2006,10,Indianapolis Motor Speedway,United States Grand Prix,2006-07-02,06:00:00,United States Grand Prix2006,2006-07-02 06:00:00,api,2024-06-12
+761,2006,11,Circuit de Nevers Magny-Cours,French Grand Prix,2006-07-16,06:00:00,French Grand Prix2006,2006-07-16 06:00:00,api,2024-06-12
+762,2006,12,Hockenheimring,German Grand Prix,2006-07-30,06:00:00,German Grand Prix2006,2006-07-30 06:00:00,api,2024-06-12
+763,2006,13,Hungaroring,Hungarian Grand Prix,2006-08-06,06:00:00,Hungarian Grand Prix2006,2006-08-06 06:00:00,api,2024-06-12
+764,2006,14,Istanbul Park,Turkish Grand Prix,2006-08-27,06:00:00,Turkish Grand Prix2006,2006-08-27 06:00:00,api,2024-06-12
+765,2006,15,Autodromo Nazionale di Monza,Italian Grand Prix,2006-09-10,06:00:00,Italian Grand Prix2006,2006-09-10 06:00:00,api,2024-06-12
+766,2006,16,Shanghai International Circuit,Chinese Grand Prix,2006-10-01,06:00:00,Chinese Grand Prix2006,2006-10-01 06:00:00,api,2024-06-12
+767,2006,17,Suzuka Circuit,Japanese Grand Prix,2006-10-08,06:00:00,Japanese Grand Prix2006,2006-10-08 06:00:00,api,2024-06-12
+768,2006,18,Autódromo José Carlos Pace,Brazilian Grand Prix,2006-10-22,06:00:00,Brazilian Grand Prix2006,2006-10-22 06:00:00,api,2024-06-12
+769,2007,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2007-03-18,06:00:00,Australian Grand Prix2007,2007-03-18 06:00:00,api,2024-06-12
+770,2007,2,Sepang International Circuit,Malaysian Grand Prix,2007-04-08,06:00:00,Malaysian Grand Prix2007,2007-04-08 06:00:00,api,2024-06-12
+771,2007,3,Bahrain International Circuit,Bahrain Grand Prix,2007-04-15,06:00:00,Bahrain Grand Prix2007,2007-04-15 06:00:00,api,2024-06-12
+772,2007,4,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2007-05-13,06:00:00,Spanish Grand Prix2007,2007-05-13 06:00:00,api,2024-06-12
+773,2007,5,Circuit de Monaco,Monaco Grand Prix,2007-05-27,06:00:00,Monaco Grand Prix2007,2007-05-27 06:00:00,api,2024-06-12
+774,2007,6,Circuit Gilles Villeneuve,Canadian Grand Prix,2007-06-10,06:00:00,Canadian Grand Prix2007,2007-06-10 06:00:00,api,2024-06-12
+775,2007,7,Indianapolis Motor Speedway,United States Grand Prix,2007-06-17,06:00:00,United States Grand Prix2007,2007-06-17 06:00:00,api,2024-06-12
+776,2007,8,Circuit de Nevers Magny-Cours,French Grand Prix,2007-07-01,06:00:00,French Grand Prix2007,2007-07-01 06:00:00,api,2024-06-12
+777,2007,9,Silverstone Circuit,British Grand Prix,2007-07-08,06:00:00,British Grand Prix2007,2007-07-08 06:00:00,api,2024-06-12
+778,2007,10,Nürburgring,European Grand Prix,2007-07-22,06:00:00,European Grand Prix2007,2007-07-22 06:00:00,api,2024-06-12
+779,2007,11,Hungaroring,Hungarian Grand Prix,2007-08-05,06:00:00,Hungarian Grand Prix2007,2007-08-05 06:00:00,api,2024-06-12
+780,2007,12,Istanbul Park,Turkish Grand Prix,2007-08-26,06:00:00,Turkish Grand Prix2007,2007-08-26 06:00:00,api,2024-06-12
+781,2007,13,Autodromo Nazionale di Monza,Italian Grand Prix,2007-09-09,06:00:00,Italian Grand Prix2007,2007-09-09 06:00:00,api,2024-06-12
+782,2007,14,Circuit de Spa-Francorchamps,Belgian Grand Prix,2007-09-16,06:00:00,Belgian Grand Prix2007,2007-09-16 06:00:00,api,2024-06-12
+783,2007,15,Fuji Speedway,Japanese Grand Prix,2007-09-30,06:00:00,Japanese Grand Prix2007,2007-09-30 06:00:00,api,2024-06-12
+784,2007,16,Shanghai International Circuit,Chinese Grand Prix,2007-10-07,06:00:00,Chinese Grand Prix2007,2007-10-07 06:00:00,api,2024-06-12
+785,2007,17,Autódromo José Carlos Pace,Brazilian Grand Prix,2007-10-21,06:00:00,Brazilian Grand Prix2007,2007-10-21 06:00:00,api,2024-06-12
+786,2008,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2008-03-16,06:00:00,Australian Grand Prix2008,2008-03-16 06:00:00,api,2024-06-12
+787,2008,2,Sepang International Circuit,Malaysian Grand Prix,2008-03-23,06:00:00,Malaysian Grand Prix2008,2008-03-23 06:00:00,api,2024-06-12
+788,2008,3,Bahrain International Circuit,Bahrain Grand Prix,2008-04-06,06:00:00,Bahrain Grand Prix2008,2008-04-06 06:00:00,api,2024-06-12
+789,2008,4,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2008-04-27,06:00:00,Spanish Grand Prix2008,2008-04-27 06:00:00,api,2024-06-12
+790,2008,5,Istanbul Park,Turkish Grand Prix,2008-05-11,06:00:00,Turkish Grand Prix2008,2008-05-11 06:00:00,api,2024-06-12
+791,2008,6,Circuit de Monaco,Monaco Grand Prix,2008-05-25,06:00:00,Monaco Grand Prix2008,2008-05-25 06:00:00,api,2024-06-12
+792,2008,7,Circuit Gilles Villeneuve,Canadian Grand Prix,2008-06-08,06:00:00,Canadian Grand Prix2008,2008-06-08 06:00:00,api,2024-06-12
+793,2008,8,Circuit de Nevers Magny-Cours,French Grand Prix,2008-06-22,06:00:00,French Grand Prix2008,2008-06-22 06:00:00,api,2024-06-12
+794,2008,9,Silverstone Circuit,British Grand Prix,2008-07-06,06:00:00,British Grand Prix2008,2008-07-06 06:00:00,api,2024-06-12
+795,2008,10,Hockenheimring,German Grand Prix,2008-07-20,06:00:00,German Grand Prix2008,2008-07-20 06:00:00,api,2024-06-12
+796,2008,11,Hungaroring,Hungarian Grand Prix,2008-08-03,06:00:00,Hungarian Grand Prix2008,2008-08-03 06:00:00,api,2024-06-12
+797,2008,12,Valencia Street Circuit,European Grand Prix,2008-08-24,06:00:00,European Grand Prix2008,2008-08-24 06:00:00,api,2024-06-12
+798,2008,13,Circuit de Spa-Francorchamps,Belgian Grand Prix,2008-09-07,06:00:00,Belgian Grand Prix2008,2008-09-07 06:00:00,api,2024-06-12
+799,2008,14,Autodromo Nazionale di Monza,Italian Grand Prix,2008-09-14,06:00:00,Italian Grand Prix2008,2008-09-14 06:00:00,api,2024-06-12
+800,2008,15,Marina Bay Street Circuit,Singapore Grand Prix,2008-09-28,06:00:00,Singapore Grand Prix2008,2008-09-28 06:00:00,api,2024-06-12
+801,2008,16,Fuji Speedway,Japanese Grand Prix,2008-10-12,06:00:00,Japanese Grand Prix2008,2008-10-12 06:00:00,api,2024-06-12
+802,2008,17,Shanghai International Circuit,Chinese Grand Prix,2008-10-19,06:00:00,Chinese Grand Prix2008,2008-10-19 06:00:00,api,2024-06-12
+803,2008,18,Autódromo José Carlos Pace,Brazilian Grand Prix,2008-11-02,06:00:00,Brazilian Grand Prix2008,2008-11-02 06:00:00,api,2024-06-12
+804,2009,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2009-03-29,06:00:00,Australian Grand Prix2009,2009-03-29 06:00:00,api,2024-06-12
+805,2009,2,Sepang International Circuit,Malaysian Grand Prix,2009-04-05,06:00:00,Malaysian Grand Prix2009,2009-04-05 06:00:00,api,2024-06-12
+806,2009,3,Shanghai International Circuit,Chinese Grand Prix,2009-04-19,06:00:00,Chinese Grand Prix2009,2009-04-19 06:00:00,api,2024-06-12
+807,2009,4,Bahrain International Circuit,Bahrain Grand Prix,2009-04-26,06:00:00,Bahrain Grand Prix2009,2009-04-26 06:00:00,api,2024-06-12
+808,2009,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2009-05-10,06:00:00,Spanish Grand Prix2009,2009-05-10 06:00:00,api,2024-06-12
+809,2009,6,Circuit de Monaco,Monaco Grand Prix,2009-05-24,06:00:00,Monaco Grand Prix2009,2009-05-24 06:00:00,api,2024-06-12
+810,2009,7,Istanbul Park,Turkish Grand Prix,2009-06-07,06:00:00,Turkish Grand Prix2009,2009-06-07 06:00:00,api,2024-06-12
+811,2009,8,Silverstone Circuit,British Grand Prix,2009-06-21,06:00:00,British Grand Prix2009,2009-06-21 06:00:00,api,2024-06-12
+812,2009,9,Nürburgring,German Grand Prix,2009-07-12,06:00:00,German Grand Prix2009,2009-07-12 06:00:00,api,2024-06-12
+813,2009,10,Hungaroring,Hungarian Grand Prix,2009-07-26,06:00:00,Hungarian Grand Prix2009,2009-07-26 06:00:00,api,2024-06-12
+814,2009,11,Valencia Street Circuit,European Grand Prix,2009-08-23,06:00:00,European Grand Prix2009,2009-08-23 06:00:00,api,2024-06-12
+815,2009,12,Circuit de Spa-Francorchamps,Belgian Grand Prix,2009-08-30,06:00:00,Belgian Grand Prix2009,2009-08-30 06:00:00,api,2024-06-12
+816,2009,13,Autodromo Nazionale di Monza,Italian Grand Prix,2009-09-13,06:00:00,Italian Grand Prix2009,2009-09-13 06:00:00,api,2024-06-12
+817,2009,14,Marina Bay Street Circuit,Singapore Grand Prix,2009-09-27,06:00:00,Singapore Grand Prix2009,2009-09-27 06:00:00,api,2024-06-12
+818,2009,15,Suzuka Circuit,Japanese Grand Prix,2009-10-04,06:00:00,Japanese Grand Prix2009,2009-10-04 06:00:00,api,2024-06-12
+819,2009,16,Autódromo José Carlos Pace,Brazilian Grand Prix,2009-10-18,06:00:00,Brazilian Grand Prix2009,2009-10-18 06:00:00,api,2024-06-12
+820,2009,17,Yas Marina Circuit,Abu Dhabi Grand Prix,2009-11-01,06:00:00,Abu Dhabi Grand Prix2009,2009-11-01 06:00:00,api,2024-06-12
+821,2010,1,Bahrain International Circuit,Bahrain Grand Prix,2010-03-14,06:00:00,Bahrain Grand Prix2010,2010-03-14 06:00:00,api,2024-06-12
+822,2010,2,Albert Park Grand Prix Circuit,Australian Grand Prix,2010-03-28,06:00:00,Australian Grand Prix2010,2010-03-28 06:00:00,api,2024-06-12
+823,2010,3,Sepang International Circuit,Malaysian Grand Prix,2010-04-04,06:00:00,Malaysian Grand Prix2010,2010-04-04 06:00:00,api,2024-06-12
+824,2010,4,Shanghai International Circuit,Chinese Grand Prix,2010-04-18,06:00:00,Chinese Grand Prix2010,2010-04-18 06:00:00,api,2024-06-12
+825,2010,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2010-05-09,06:00:00,Spanish Grand Prix2010,2010-05-09 06:00:00,api,2024-06-12
+826,2010,6,Circuit de Monaco,Monaco Grand Prix,2010-05-16,06:00:00,Monaco Grand Prix2010,2010-05-16 06:00:00,api,2024-06-12
+827,2010,7,Istanbul Park,Turkish Grand Prix,2010-05-30,06:00:00,Turkish Grand Prix2010,2010-05-30 06:00:00,api,2024-06-12
+828,2010,8,Circuit Gilles Villeneuve,Canadian Grand Prix,2010-06-13,06:00:00,Canadian Grand Prix2010,2010-06-13 06:00:00,api,2024-06-12
+829,2010,9,Valencia Street Circuit,European Grand Prix,2010-06-27,06:00:00,European Grand Prix2010,2010-06-27 06:00:00,api,2024-06-12
+830,2010,10,Silverstone Circuit,British Grand Prix,2010-07-11,06:00:00,British Grand Prix2010,2010-07-11 06:00:00,api,2024-06-12
+831,2010,11,Hockenheimring,German Grand Prix,2010-07-25,06:00:00,German Grand Prix2010,2010-07-25 06:00:00,api,2024-06-12
+832,2010,12,Hungaroring,Hungarian Grand Prix,2010-08-01,06:00:00,Hungarian Grand Prix2010,2010-08-01 06:00:00,api,2024-06-12
+833,2010,13,Circuit de Spa-Francorchamps,Belgian Grand Prix,2010-08-29,06:00:00,Belgian Grand Prix2010,2010-08-29 06:00:00,api,2024-06-12
+834,2010,14,Autodromo Nazionale di Monza,Italian Grand Prix,2010-09-12,06:00:00,Italian Grand Prix2010,2010-09-12 06:00:00,api,2024-06-12
+835,2010,15,Marina Bay Street Circuit,Singapore Grand Prix,2010-09-26,06:00:00,Singapore Grand Prix2010,2010-09-26 06:00:00,api,2024-06-12
+836,2010,16,Suzuka Circuit,Japanese Grand Prix,2010-10-10,06:00:00,Japanese Grand Prix2010,2010-10-10 06:00:00,api,2024-06-12
+837,2010,17,Korean International Circuit,Korean Grand Prix,2010-10-24,06:00:00,Korean Grand Prix2010,2010-10-24 06:00:00,api,2024-06-12
+838,2010,18,Autódromo José Carlos Pace,Brazilian Grand Prix,2010-11-07,06:00:00,Brazilian Grand Prix2010,2010-11-07 06:00:00,api,2024-06-12
+839,2010,19,Yas Marina Circuit,Abu Dhabi Grand Prix,2010-11-14,06:00:00,Abu Dhabi Grand Prix2010,2010-11-14 06:00:00,api,2024-06-12
+840,2011,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2011-03-27,06:00:00,Australian Grand Prix2011,2011-03-27 06:00:00,api,2024-06-12
+841,2011,2,Sepang International Circuit,Malaysian Grand Prix,2011-04-10,06:00:00,Malaysian Grand Prix2011,2011-04-10 06:00:00,api,2024-06-12
+842,2011,3,Shanghai International Circuit,Chinese Grand Prix,2011-04-17,06:00:00,Chinese Grand Prix2011,2011-04-17 06:00:00,api,2024-06-12
+843,2011,4,Istanbul Park,Turkish Grand Prix,2011-05-08,06:00:00,Turkish Grand Prix2011,2011-05-08 06:00:00,api,2024-06-12
+844,2011,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2011-05-22,06:00:00,Spanish Grand Prix2011,2011-05-22 06:00:00,api,2024-06-12
+845,2011,6,Circuit de Monaco,Monaco Grand Prix,2011-05-29,06:00:00,Monaco Grand Prix2011,2011-05-29 06:00:00,api,2024-06-12
+846,2011,7,Circuit Gilles Villeneuve,Canadian Grand Prix,2011-06-12,06:00:00,Canadian Grand Prix2011,2011-06-12 06:00:00,api,2024-06-12
+847,2011,8,Valencia Street Circuit,European Grand Prix,2011-06-26,06:00:00,European Grand Prix2011,2011-06-26 06:00:00,api,2024-06-12
+848,2011,9,Silverstone Circuit,British Grand Prix,2011-07-10,06:00:00,British Grand Prix2011,2011-07-10 06:00:00,api,2024-06-12
+849,2011,10,Nürburgring,German Grand Prix,2011-07-24,06:00:00,German Grand Prix2011,2011-07-24 06:00:00,api,2024-06-12
+850,2011,11,Hungaroring,Hungarian Grand Prix,2011-07-31,06:00:00,Hungarian Grand Prix2011,2011-07-31 06:00:00,api,2024-06-12
+851,2011,12,Circuit de Spa-Francorchamps,Belgian Grand Prix,2011-08-28,06:00:00,Belgian Grand Prix2011,2011-08-28 06:00:00,api,2024-06-12
+852,2011,13,Autodromo Nazionale di Monza,Italian Grand Prix,2011-09-11,06:00:00,Italian Grand Prix2011,2011-09-11 06:00:00,api,2024-06-12
+853,2011,14,Marina Bay Street Circuit,Singapore Grand Prix,2011-09-25,06:00:00,Singapore Grand Prix2011,2011-09-25 06:00:00,api,2024-06-12
+854,2011,15,Suzuka Circuit,Japanese Grand Prix,2011-10-09,06:00:00,Japanese Grand Prix2011,2011-10-09 06:00:00,api,2024-06-12
+855,2011,16,Korean International Circuit,Korean Grand Prix,2011-10-16,06:00:00,Korean Grand Prix2011,2011-10-16 06:00:00,api,2024-06-12
+856,2011,17,Buddh International Circuit,Indian Grand Prix,2011-10-30,06:00:00,Indian Grand Prix2011,2011-10-30 06:00:00,api,2024-06-12
+857,2011,18,Yas Marina Circuit,Abu Dhabi Grand Prix,2011-11-13,06:00:00,Abu Dhabi Grand Prix2011,2011-11-13 06:00:00,api,2024-06-12
+858,2011,19,Autódromo José Carlos Pace,Brazilian Grand Prix,2011-11-27,06:00:00,Brazilian Grand Prix2011,2011-11-27 06:00:00,api,2024-06-12
+859,2012,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2012-03-18,06:00:00,Australian Grand Prix2012,2012-03-18 06:00:00,api,2024-06-12
+860,2012,2,Sepang International Circuit,Malaysian Grand Prix,2012-03-25,06:00:00,Malaysian Grand Prix2012,2012-03-25 06:00:00,api,2024-06-12
+861,2012,3,Shanghai International Circuit,Chinese Grand Prix,2012-04-15,06:00:00,Chinese Grand Prix2012,2012-04-15 06:00:00,api,2024-06-12
+862,2012,4,Bahrain International Circuit,Bahrain Grand Prix,2012-04-22,06:00:00,Bahrain Grand Prix2012,2012-04-22 06:00:00,api,2024-06-12
+863,2012,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2012-05-13,06:00:00,Spanish Grand Prix2012,2012-05-13 06:00:00,api,2024-06-12
+864,2012,6,Circuit de Monaco,Monaco Grand Prix,2012-05-27,06:00:00,Monaco Grand Prix2012,2012-05-27 06:00:00,api,2024-06-12
+865,2012,7,Circuit Gilles Villeneuve,Canadian Grand Prix,2012-06-10,06:00:00,Canadian Grand Prix2012,2012-06-10 06:00:00,api,2024-06-12
+866,2012,8,Valencia Street Circuit,European Grand Prix,2012-06-24,06:00:00,European Grand Prix2012,2012-06-24 06:00:00,api,2024-06-12
+867,2012,9,Silverstone Circuit,British Grand Prix,2012-07-08,06:00:00,British Grand Prix2012,2012-07-08 06:00:00,api,2024-06-12
+868,2012,10,Hockenheimring,German Grand Prix,2012-07-22,06:00:00,German Grand Prix2012,2012-07-22 06:00:00,api,2024-06-12
+869,2012,11,Hungaroring,Hungarian Grand Prix,2012-07-29,06:00:00,Hungarian Grand Prix2012,2012-07-29 06:00:00,api,2024-06-12
+870,2012,12,Circuit de Spa-Francorchamps,Belgian Grand Prix,2012-09-02,06:00:00,Belgian Grand Prix2012,2012-09-02 06:00:00,api,2024-06-12
+871,2012,13,Autodromo Nazionale di Monza,Italian Grand Prix,2012-09-09,06:00:00,Italian Grand Prix2012,2012-09-09 06:00:00,api,2024-06-12
+872,2012,14,Marina Bay Street Circuit,Singapore Grand Prix,2012-09-23,06:00:00,Singapore Grand Prix2012,2012-09-23 06:00:00,api,2024-06-12
+873,2012,15,Suzuka Circuit,Japanese Grand Prix,2012-10-07,06:00:00,Japanese Grand Prix2012,2012-10-07 06:00:00,api,2024-06-12
+874,2012,16,Korean International Circuit,Korean Grand Prix,2012-10-14,06:00:00,Korean Grand Prix2012,2012-10-14 06:00:00,api,2024-06-12
+875,2012,17,Buddh International Circuit,Indian Grand Prix,2012-10-28,06:00:00,Indian Grand Prix2012,2012-10-28 06:00:00,api,2024-06-12
+876,2012,18,Yas Marina Circuit,Abu Dhabi Grand Prix,2012-11-04,06:00:00,Abu Dhabi Grand Prix2012,2012-11-04 06:00:00,api,2024-06-12
+877,2012,19,Circuit of the Americas,United States Grand Prix,2012-11-18,06:00:00,United States Grand Prix2012,2012-11-18 06:00:00,api,2024-06-12
+878,2012,20,Autódromo José Carlos Pace,Brazilian Grand Prix,2012-11-25,06:00:00,Brazilian Grand Prix2012,2012-11-25 06:00:00,api,2024-06-12
+879,2013,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2013-03-17,06:00:00,Australian Grand Prix2013,2013-03-17 06:00:00,api,2024-06-12
+880,2013,2,Sepang International Circuit,Malaysian Grand Prix,2013-03-24,06:00:00,Malaysian Grand Prix2013,2013-03-24 06:00:00,api,2024-06-12
+881,2013,3,Shanghai International Circuit,Chinese Grand Prix,2013-04-14,06:00:00,Chinese Grand Prix2013,2013-04-14 06:00:00,api,2024-06-12
+882,2013,4,Bahrain International Circuit,Bahrain Grand Prix,2013-04-21,06:00:00,Bahrain Grand Prix2013,2013-04-21 06:00:00,api,2024-06-12
+883,2013,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2013-05-12,06:00:00,Spanish Grand Prix2013,2013-05-12 06:00:00,api,2024-06-12
+884,2013,6,Circuit de Monaco,Monaco Grand Prix,2013-05-26,06:00:00,Monaco Grand Prix2013,2013-05-26 06:00:00,api,2024-06-12
+885,2013,7,Circuit Gilles Villeneuve,Canadian Grand Prix,2013-06-09,06:00:00,Canadian Grand Prix2013,2013-06-09 06:00:00,api,2024-06-12
+886,2013,8,Silverstone Circuit,British Grand Prix,2013-06-30,06:00:00,British Grand Prix2013,2013-06-30 06:00:00,api,2024-06-12
+887,2013,9,Nürburgring,German Grand Prix,2013-07-07,06:00:00,German Grand Prix2013,2013-07-07 06:00:00,api,2024-06-12
+888,2013,10,Hungaroring,Hungarian Grand Prix,2013-07-28,06:00:00,Hungarian Grand Prix2013,2013-07-28 06:00:00,api,2024-06-12
+889,2013,11,Circuit de Spa-Francorchamps,Belgian Grand Prix,2013-08-25,06:00:00,Belgian Grand Prix2013,2013-08-25 06:00:00,api,2024-06-12
+890,2013,12,Autodromo Nazionale di Monza,Italian Grand Prix,2013-09-08,06:00:00,Italian Grand Prix2013,2013-09-08 06:00:00,api,2024-06-12
+891,2013,13,Marina Bay Street Circuit,Singapore Grand Prix,2013-09-22,06:00:00,Singapore Grand Prix2013,2013-09-22 06:00:00,api,2024-06-12
+892,2013,14,Korean International Circuit,Korean Grand Prix,2013-10-06,06:00:00,Korean Grand Prix2013,2013-10-06 06:00:00,api,2024-06-12
+893,2013,15,Suzuka Circuit,Japanese Grand Prix,2013-10-13,06:00:00,Japanese Grand Prix2013,2013-10-13 06:00:00,api,2024-06-12
+894,2013,16,Buddh International Circuit,Indian Grand Prix,2013-10-27,06:00:00,Indian Grand Prix2013,2013-10-27 06:00:00,api,2024-06-12
+895,2013,17,Yas Marina Circuit,Abu Dhabi Grand Prix,2013-11-03,06:00:00,Abu Dhabi Grand Prix2013,2013-11-03 06:00:00,api,2024-06-12
+896,2013,18,Circuit of the Americas,United States Grand Prix,2013-11-17,06:00:00,United States Grand Prix2013,2013-11-17 06:00:00,api,2024-06-12
+897,2013,19,Autódromo José Carlos Pace,Brazilian Grand Prix,2013-11-24,06:00:00,Brazilian Grand Prix2013,2013-11-24 06:00:00,api,2024-06-12
+898,2014,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2014-03-16,06:00:00,Australian Grand Prix2014,2014-03-16 06:00:00,api,2024-06-12
+899,2014,2,Sepang International Circuit,Malaysian Grand Prix,2014-03-30,06:00:00,Malaysian Grand Prix2014,2014-03-30 06:00:00,api,2024-06-12
+900,2014,3,Bahrain International Circuit,Bahrain Grand Prix,2014-04-06,06:00:00,Bahrain Grand Prix2014,2014-04-06 06:00:00,api,2024-06-12
+901,2014,4,Shanghai International Circuit,Chinese Grand Prix,2014-04-20,06:00:00,Chinese Grand Prix2014,2014-04-20 06:00:00,api,2024-06-12
+902,2014,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2014-05-11,06:00:00,Spanish Grand Prix2014,2014-05-11 06:00:00,api,2024-06-12
+903,2014,6,Circuit de Monaco,Monaco Grand Prix,2014-05-25,06:00:00,Monaco Grand Prix2014,2014-05-25 06:00:00,api,2024-06-12
+904,2014,7,Circuit Gilles Villeneuve,Canadian Grand Prix,2014-06-08,06:00:00,Canadian Grand Prix2014,2014-06-08 06:00:00,api,2024-06-12
+905,2014,8,Red Bull Ring,Austrian Grand Prix,2014-06-22,06:00:00,Austrian Grand Prix2014,2014-06-22 06:00:00,api,2024-06-12
+906,2014,9,Silverstone Circuit,British Grand Prix,2014-07-06,06:00:00,British Grand Prix2014,2014-07-06 06:00:00,api,2024-06-12
+907,2014,10,Hockenheimring,German Grand Prix,2014-07-20,06:00:00,German Grand Prix2014,2014-07-20 06:00:00,api,2024-06-12
+908,2014,11,Hungaroring,Hungarian Grand Prix,2014-07-27,06:00:00,Hungarian Grand Prix2014,2014-07-27 06:00:00,api,2024-06-12
+909,2014,12,Circuit de Spa-Francorchamps,Belgian Grand Prix,2014-08-24,06:00:00,Belgian Grand Prix2014,2014-08-24 06:00:00,api,2024-06-12
+910,2014,13,Autodromo Nazionale di Monza,Italian Grand Prix,2014-09-07,06:00:00,Italian Grand Prix2014,2014-09-07 06:00:00,api,2024-06-12
+911,2014,14,Marina Bay Street Circuit,Singapore Grand Prix,2014-09-21,06:00:00,Singapore Grand Prix2014,2014-09-21 06:00:00,api,2024-06-12
+912,2014,15,Suzuka Circuit,Japanese Grand Prix,2014-10-05,06:00:00,Japanese Grand Prix2014,2014-10-05 06:00:00,api,2024-06-12
+913,2014,16,Sochi Autodrom,Russian Grand Prix,2014-10-12,06:00:00,Russian Grand Prix2014,2014-10-12 06:00:00,api,2024-06-12
+914,2014,17,Circuit of the Americas,United States Grand Prix,2014-11-02,06:00:00,United States Grand Prix2014,2014-11-02 06:00:00,api,2024-06-12
+915,2014,18,Autódromo José Carlos Pace,Brazilian Grand Prix,2014-11-09,06:00:00,Brazilian Grand Prix2014,2014-11-09 06:00:00,api,2024-06-12
+916,2014,19,Yas Marina Circuit,Abu Dhabi Grand Prix,2014-11-23,06:00:00,Abu Dhabi Grand Prix2014,2014-11-23 06:00:00,api,2024-06-12
+917,2015,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2015-03-15,06:00:00,Australian Grand Prix2015,2015-03-15 06:00:00,api,2024-06-12
+918,2015,2,Sepang International Circuit,Malaysian Grand Prix,2015-03-29,06:00:00,Malaysian Grand Prix2015,2015-03-29 06:00:00,api,2024-06-12
+919,2015,3,Shanghai International Circuit,Chinese Grand Prix,2015-04-12,06:00:00,Chinese Grand Prix2015,2015-04-12 06:00:00,api,2024-06-12
+920,2015,4,Bahrain International Circuit,Bahrain Grand Prix,2015-04-19,06:00:00,Bahrain Grand Prix2015,2015-04-19 06:00:00,api,2024-06-12
+921,2015,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2015-05-10,06:00:00,Spanish Grand Prix2015,2015-05-10 06:00:00,api,2024-06-12
+922,2015,6,Circuit de Monaco,Monaco Grand Prix,2015-05-24,06:00:00,Monaco Grand Prix2015,2015-05-24 06:00:00,api,2024-06-12
+923,2015,7,Circuit Gilles Villeneuve,Canadian Grand Prix,2015-06-07,06:00:00,Canadian Grand Prix2015,2015-06-07 06:00:00,api,2024-06-12
+924,2015,8,Red Bull Ring,Austrian Grand Prix,2015-06-21,06:00:00,Austrian Grand Prix2015,2015-06-21 06:00:00,api,2024-06-12
+925,2015,9,Silverstone Circuit,British Grand Prix,2015-07-05,06:00:00,British Grand Prix2015,2015-07-05 06:00:00,api,2024-06-12
+926,2015,10,Hungaroring,Hungarian Grand Prix,2015-07-26,06:00:00,Hungarian Grand Prix2015,2015-07-26 06:00:00,api,2024-06-12
+927,2015,11,Circuit de Spa-Francorchamps,Belgian Grand Prix,2015-08-23,06:00:00,Belgian Grand Prix2015,2015-08-23 06:00:00,api,2024-06-12
+928,2015,12,Autodromo Nazionale di Monza,Italian Grand Prix,2015-09-06,06:00:00,Italian Grand Prix2015,2015-09-06 06:00:00,api,2024-06-12
+929,2015,13,Marina Bay Street Circuit,Singapore Grand Prix,2015-09-20,06:00:00,Singapore Grand Prix2015,2015-09-20 06:00:00,api,2024-06-12
+930,2015,14,Suzuka Circuit,Japanese Grand Prix,2015-09-27,06:00:00,Japanese Grand Prix2015,2015-09-27 06:00:00,api,2024-06-12
+931,2015,15,Sochi Autodrom,Russian Grand Prix,2015-10-11,06:00:00,Russian Grand Prix2015,2015-10-11 06:00:00,api,2024-06-12
+932,2015,16,Circuit of the Americas,United States Grand Prix,2015-10-25,06:00:00,United States Grand Prix2015,2015-10-25 06:00:00,api,2024-06-12
+933,2015,17,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2015-11-01,06:00:00,Mexican Grand Prix2015,2015-11-01 06:00:00,api,2024-06-12
+934,2015,18,Autódromo José Carlos Pace,Brazilian Grand Prix,2015-11-15,06:00:00,Brazilian Grand Prix2015,2015-11-15 06:00:00,api,2024-06-12
+935,2015,19,Yas Marina Circuit,Abu Dhabi Grand Prix,2015-11-29,06:00:00,Abu Dhabi Grand Prix2015,2015-11-29 06:00:00,api,2024-06-12
+936,2016,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2016-03-20,06:00:00,Australian Grand Prix2016,2016-03-20 06:00:00,api,2024-06-12
+937,2016,2,Bahrain International Circuit,Bahrain Grand Prix,2016-04-03,06:00:00,Bahrain Grand Prix2016,2016-04-03 06:00:00,api,2024-06-12
+938,2016,3,Shanghai International Circuit,Chinese Grand Prix,2016-04-17,06:00:00,Chinese Grand Prix2016,2016-04-17 06:00:00,api,2024-06-12
+939,2016,4,Sochi Autodrom,Russian Grand Prix,2016-05-01,06:00:00,Russian Grand Prix2016,2016-05-01 06:00:00,api,2024-06-12
+940,2016,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2016-05-15,06:00:00,Spanish Grand Prix2016,2016-05-15 06:00:00,api,2024-06-12
+941,2016,6,Circuit de Monaco,Monaco Grand Prix,2016-05-29,06:00:00,Monaco Grand Prix2016,2016-05-29 06:00:00,api,2024-06-12
+942,2016,7,Circuit Gilles Villeneuve,Canadian Grand Prix,2016-06-12,06:00:00,Canadian Grand Prix2016,2016-06-12 06:00:00,api,2024-06-12
+943,2016,8,Baku City Circuit,European Grand Prix,2016-06-19,06:00:00,European Grand Prix2016,2016-06-19 06:00:00,api,2024-06-12
+944,2016,9,Red Bull Ring,Austrian Grand Prix,2016-07-03,06:00:00,Austrian Grand Prix2016,2016-07-03 06:00:00,api,2024-06-12
+945,2016,10,Silverstone Circuit,British Grand Prix,2016-07-10,06:00:00,British Grand Prix2016,2016-07-10 06:00:00,api,2024-06-12
+946,2016,11,Hungaroring,Hungarian Grand Prix,2016-07-24,06:00:00,Hungarian Grand Prix2016,2016-07-24 06:00:00,api,2024-06-12
+947,2016,12,Hockenheimring,German Grand Prix,2016-07-31,06:00:00,German Grand Prix2016,2016-07-31 06:00:00,api,2024-06-12
+948,2016,13,Circuit de Spa-Francorchamps,Belgian Grand Prix,2016-08-28,06:00:00,Belgian Grand Prix2016,2016-08-28 06:00:00,api,2024-06-12
+949,2016,14,Autodromo Nazionale di Monza,Italian Grand Prix,2016-09-04,06:00:00,Italian Grand Prix2016,2016-09-04 06:00:00,api,2024-06-12
+950,2016,15,Marina Bay Street Circuit,Singapore Grand Prix,2016-09-18,06:00:00,Singapore Grand Prix2016,2016-09-18 06:00:00,api,2024-06-12
+951,2016,16,Sepang International Circuit,Malaysian Grand Prix,2016-10-02,06:00:00,Malaysian Grand Prix2016,2016-10-02 06:00:00,api,2024-06-12
+952,2016,17,Suzuka Circuit,Japanese Grand Prix,2016-10-09,06:00:00,Japanese Grand Prix2016,2016-10-09 06:00:00,api,2024-06-12
+953,2016,18,Circuit of the Americas,United States Grand Prix,2016-10-23,06:00:00,United States Grand Prix2016,2016-10-23 06:00:00,api,2024-06-12
+954,2016,19,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2016-10-30,06:00:00,Mexican Grand Prix2016,2016-10-30 06:00:00,api,2024-06-12
+955,2016,20,Autódromo José Carlos Pace,Brazilian Grand Prix,2016-11-13,06:00:00,Brazilian Grand Prix2016,2016-11-13 06:00:00,api,2024-06-12
+956,2016,21,Yas Marina Circuit,Abu Dhabi Grand Prix,2016-11-27,06:00:00,Abu Dhabi Grand Prix2016,2016-11-27 06:00:00,api,2024-06-12
+957,2017,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2017-03-26,06:00:00,Australian Grand Prix2017,2017-03-26 06:00:00,api,2024-06-12
+958,2017,2,Shanghai International Circuit,Chinese Grand Prix,2017-04-09,06:00:00,Chinese Grand Prix2017,2017-04-09 06:00:00,api,2024-06-12
+959,2017,3,Bahrain International Circuit,Bahrain Grand Prix,2017-04-16,06:00:00,Bahrain Grand Prix2017,2017-04-16 06:00:00,api,2024-06-12
+960,2017,4,Sochi Autodrom,Russian Grand Prix,2017-04-30,06:00:00,Russian Grand Prix2017,2017-04-30 06:00:00,api,2024-06-12
+961,2017,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2017-05-14,06:00:00,Spanish Grand Prix2017,2017-05-14 06:00:00,api,2024-06-12
+962,2017,6,Circuit de Monaco,Monaco Grand Prix,2017-05-28,06:00:00,Monaco Grand Prix2017,2017-05-28 06:00:00,api,2024-06-12
+963,2017,7,Circuit Gilles Villeneuve,Canadian Grand Prix,2017-06-11,06:00:00,Canadian Grand Prix2017,2017-06-11 06:00:00,api,2024-06-12
+964,2017,8,Baku City Circuit,Azerbaijan Grand Prix,2017-06-25,06:00:00,Azerbaijan Grand Prix2017,2017-06-25 06:00:00,api,2024-06-12
+965,2017,9,Red Bull Ring,Austrian Grand Prix,2017-07-09,06:00:00,Austrian Grand Prix2017,2017-07-09 06:00:00,api,2024-06-12
+966,2017,10,Silverstone Circuit,British Grand Prix,2017-07-16,06:00:00,British Grand Prix2017,2017-07-16 06:00:00,api,2024-06-12
+967,2017,11,Hungaroring,Hungarian Grand Prix,2017-07-30,06:00:00,Hungarian Grand Prix2017,2017-07-30 06:00:00,api,2024-06-12
+968,2017,12,Circuit de Spa-Francorchamps,Belgian Grand Prix,2017-08-27,06:00:00,Belgian Grand Prix2017,2017-08-27 06:00:00,api,2024-06-12
+969,2017,13,Autodromo Nazionale di Monza,Italian Grand Prix,2017-09-03,06:00:00,Italian Grand Prix2017,2017-09-03 06:00:00,api,2024-06-12
+970,2017,14,Marina Bay Street Circuit,Singapore Grand Prix,2017-09-17,06:00:00,Singapore Grand Prix2017,2017-09-17 06:00:00,api,2024-06-12
+971,2017,15,Sepang International Circuit,Malaysian Grand Prix,2017-10-01,06:00:00,Malaysian Grand Prix2017,2017-10-01 06:00:00,api,2024-06-12
+972,2017,16,Suzuka Circuit,Japanese Grand Prix,2017-10-08,06:00:00,Japanese Grand Prix2017,2017-10-08 06:00:00,api,2024-06-12
+973,2017,17,Circuit of the Americas,United States Grand Prix,2017-10-22,06:00:00,United States Grand Prix2017,2017-10-22 06:00:00,api,2024-06-12
+974,2017,18,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2017-10-29,06:00:00,Mexican Grand Prix2017,2017-10-29 06:00:00,api,2024-06-12
+975,2017,19,Autódromo José Carlos Pace,Brazilian Grand Prix,2017-11-12,06:00:00,Brazilian Grand Prix2017,2017-11-12 06:00:00,api,2024-06-12
+976,2017,20,Yas Marina Circuit,Abu Dhabi Grand Prix,2017-11-26,06:00:00,Abu Dhabi Grand Prix2017,2017-11-26 06:00:00,api,2024-06-12
+977,2018,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2018-03-25,06:00:00,Australian Grand Prix2018,2018-03-25 06:00:00,api,2024-06-12
+978,2018,2,Bahrain International Circuit,Bahrain Grand Prix,2018-04-08,06:00:00,Bahrain Grand Prix2018,2018-04-08 06:00:00,api,2024-06-12
+979,2018,3,Shanghai International Circuit,Chinese Grand Prix,2018-04-15,06:00:00,Chinese Grand Prix2018,2018-04-15 06:00:00,api,2024-06-12
+980,2018,4,Baku City Circuit,Azerbaijan Grand Prix,2018-04-29,06:00:00,Azerbaijan Grand Prix2018,2018-04-29 06:00:00,api,2024-06-12
+981,2018,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2018-05-13,06:00:00,Spanish Grand Prix2018,2018-05-13 06:00:00,api,2024-06-12
+982,2018,6,Circuit de Monaco,Monaco Grand Prix,2018-05-27,06:00:00,Monaco Grand Prix2018,2018-05-27 06:00:00,api,2024-06-12
+983,2018,7,Circuit Gilles Villeneuve,Canadian Grand Prix,2018-06-10,06:00:00,Canadian Grand Prix2018,2018-06-10 06:00:00,api,2024-06-12
+984,2018,8,Circuit Paul Ricard,French Grand Prix,2018-06-24,06:00:00,French Grand Prix2018,2018-06-24 06:00:00,api,2024-06-12
+985,2018,9,Red Bull Ring,Austrian Grand Prix,2018-07-01,06:00:00,Austrian Grand Prix2018,2018-07-01 06:00:00,api,2024-06-12
+986,2018,10,Silverstone Circuit,British Grand Prix,2018-07-08,06:00:00,British Grand Prix2018,2018-07-08 06:00:00,api,2024-06-12
+987,2018,11,Hockenheimring,German Grand Prix,2018-07-22,06:00:00,German Grand Prix2018,2018-07-22 06:00:00,api,2024-06-12
+988,2018,12,Hungaroring,Hungarian Grand Prix,2018-07-29,06:00:00,Hungarian Grand Prix2018,2018-07-29 06:00:00,api,2024-06-12
+989,2018,13,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018-08-26,06:00:00,Belgian Grand Prix2018,2018-08-26 06:00:00,api,2024-06-12
+990,2018,14,Autodromo Nazionale di Monza,Italian Grand Prix,2018-09-02,06:00:00,Italian Grand Prix2018,2018-09-02 06:00:00,api,2024-06-12
+991,2018,15,Marina Bay Street Circuit,Singapore Grand Prix,2018-09-16,06:00:00,Singapore Grand Prix2018,2018-09-16 06:00:00,api,2024-06-12
+992,2018,16,Sochi Autodrom,Russian Grand Prix,2018-09-30,06:00:00,Russian Grand Prix2018,2018-09-30 06:00:00,api,2024-06-12
+993,2018,17,Suzuka Circuit,Japanese Grand Prix,2018-10-07,06:00:00,Japanese Grand Prix2018,2018-10-07 06:00:00,api,2024-06-12
+994,2018,18,Circuit of the Americas,United States Grand Prix,2018-10-21,06:00:00,United States Grand Prix2018,2018-10-21 06:00:00,api,2024-06-12
+995,2018,19,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018-10-28,06:00:00,Mexican Grand Prix2018,2018-10-28 06:00:00,api,2024-06-12
+996,2018,20,Autódromo José Carlos Pace,Brazilian Grand Prix,2018-11-11,06:00:00,Brazilian Grand Prix2018,2018-11-11 06:00:00,api,2024-06-12
+997,2018,21,Yas Marina Circuit,Abu Dhabi Grand Prix,2018-11-25,06:00:00,Abu Dhabi Grand Prix2018,2018-11-25 06:00:00,api,2024-06-12
+998,2019,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2019-03-17,06:00:00,Australian Grand Prix2019,2019-03-17 06:00:00,api,2024-06-12
+999,2019,2,Bahrain International Circuit,Bahrain Grand Prix,2019-03-31,06:00:00,Bahrain Grand Prix2019,2019-03-31 06:00:00,api,2024-06-12
+1000,2019,3,Shanghai International Circuit,Chinese Grand Prix,2019-04-14,06:00:00,Chinese Grand Prix2019,2019-04-14 06:00:00,api,2024-06-12
+1001,2019,4,Baku City Circuit,Azerbaijan Grand Prix,2019-04-28,06:00:00,Azerbaijan Grand Prix2019,2019-04-28 06:00:00,api,2024-06-12
+1002,2019,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019-05-12,06:00:00,Spanish Grand Prix2019,2019-05-12 06:00:00,api,2024-06-12
+1003,2019,6,Circuit de Monaco,Monaco Grand Prix,2019-05-26,06:00:00,Monaco Grand Prix2019,2019-05-26 06:00:00,api,2024-06-12
+1004,2019,7,Circuit Gilles Villeneuve,Canadian Grand Prix,2019-06-09,06:00:00,Canadian Grand Prix2019,2019-06-09 06:00:00,api,2024-06-12
+1005,2019,8,Circuit Paul Ricard,French Grand Prix,2019-06-23,06:00:00,French Grand Prix2019,2019-06-23 06:00:00,api,2024-06-12
+1006,2019,9,Red Bull Ring,Austrian Grand Prix,2019-06-30,06:00:00,Austrian Grand Prix2019,2019-06-30 06:00:00,api,2024-06-12
+1007,2019,10,Silverstone Circuit,British Grand Prix,2019-07-14,06:00:00,British Grand Prix2019,2019-07-14 06:00:00,api,2024-06-12
+1008,2019,11,Hockenheimring,German Grand Prix,2019-07-28,06:00:00,German Grand Prix2019,2019-07-28 06:00:00,api,2024-06-12
+1009,2019,12,Hungaroring,Hungarian Grand Prix,2019-08-04,06:00:00,Hungarian Grand Prix2019,2019-08-04 06:00:00,api,2024-06-12
+1010,2019,13,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019-09-01,06:00:00,Belgian Grand Prix2019,2019-09-01 06:00:00,api,2024-06-12
+1011,2019,14,Autodromo Nazionale di Monza,Italian Grand Prix,2019-09-08,06:00:00,Italian Grand Prix2019,2019-09-08 06:00:00,api,2024-06-12
+1012,2019,15,Marina Bay Street Circuit,Singapore Grand Prix,2019-09-22,06:00:00,Singapore Grand Prix2019,2019-09-22 06:00:00,api,2024-06-12
+1013,2019,16,Sochi Autodrom,Russian Grand Prix,2019-09-29,06:00:00,Russian Grand Prix2019,2019-09-29 06:00:00,api,2024-06-12
+1014,2019,17,Suzuka Circuit,Japanese Grand Prix,2019-10-13,06:00:00,Japanese Grand Prix2019,2019-10-13 06:00:00,api,2024-06-12
+1015,2019,18,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019-10-27,06:00:00,Mexican Grand Prix2019,2019-10-27 06:00:00,api,2024-06-12
+1016,2019,19,Circuit of the Americas,United States Grand Prix,2019-11-03,06:00:00,United States Grand Prix2019,2019-11-03 06:00:00,api,2024-06-12
+1017,2019,20,Autódromo José Carlos Pace,Brazilian Grand Prix,2019-11-17,06:00:00,Brazilian Grand Prix2019,2019-11-17 06:00:00,api,2024-06-12
+1018,2019,21,Yas Marina Circuit,Abu Dhabi Grand Prix,2019-12-01,06:00:00,Abu Dhabi Grand Prix2019,2019-12-01 06:00:00,api,2024-06-12
+1019,2020,1,Red Bull Ring,Austrian Grand Prix,2020-07-05,06:00:00,Austrian Grand Prix2020,2020-07-05 06:00:00,api,2024-06-12
+1020,2020,2,Red Bull Ring,Styrian Grand Prix,2020-07-12,06:00:00,Styrian Grand Prix2020,2020-07-12 06:00:00,api,2024-06-12
+1021,2020,3,Hungaroring,Hungarian Grand Prix,2020-07-19,06:00:00,Hungarian Grand Prix2020,2020-07-19 06:00:00,api,2024-06-12
+1022,2020,4,Silverstone Circuit,British Grand Prix,2020-08-02,06:00:00,British Grand Prix2020,2020-08-02 06:00:00,api,2024-06-12
+1023,2020,5,Silverstone Circuit,70th Anniversary Grand Prix,2020-08-09,06:00:00,70th Anniversary Grand Prix2020,2020-08-09 06:00:00,api,2024-06-12
+1024,2020,6,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020-08-16,06:00:00,Spanish Grand Prix2020,2020-08-16 06:00:00,api,2024-06-12
+1025,2020,7,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020-08-30,06:00:00,Belgian Grand Prix2020,2020-08-30 06:00:00,api,2024-06-12
+1026,2020,8,Autodromo Nazionale di Monza,Italian Grand Prix,2020-09-06,06:00:00,Italian Grand Prix2020,2020-09-06 06:00:00,api,2024-06-12
+1027,2020,9,Autodromo Internazionale del Mugello,Tuscan Grand Prix,2020-09-13,06:00:00,Tuscan Grand Prix2020,2020-09-13 06:00:00,api,2024-06-12
+1028,2020,10,Sochi Autodrom,Russian Grand Prix,2020-09-27,06:00:00,Russian Grand Prix2020,2020-09-27 06:00:00,api,2024-06-12
+1029,2020,11,Nürburgring,Eifel Grand Prix,2020-10-11,06:00:00,Eifel Grand Prix2020,2020-10-11 06:00:00,api,2024-06-12
+1030,2020,12,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020-10-25,06:00:00,Portuguese Grand Prix2020,2020-10-25 06:00:00,api,2024-06-12
+1031,2020,13,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020-11-01,06:00:00,Emilia Romagna Grand Prix2020,2020-11-01 06:00:00,api,2024-06-12
+1032,2020,14,Istanbul Park,Turkish Grand Prix,2020-11-15,06:00:00,Turkish Grand Prix2020,2020-11-15 06:00:00,api,2024-06-12
+1033,2020,15,Bahrain International Circuit,Bahrain Grand Prix,2020-11-29,06:00:00,Bahrain Grand Prix2020,2020-11-29 06:00:00,api,2024-06-12
+1034,2020,16,Bahrain International Circuit,Sakhir Grand Prix,2020-12-06,06:00:00,Sakhir Grand Prix2020,2020-12-06 06:00:00,api,2024-06-12
+1035,2020,17,Yas Marina Circuit,Abu Dhabi Grand Prix,2020-12-13,06:00:00,Abu Dhabi Grand Prix2020,2020-12-13 06:00:00,api,2024-06-12
+1036,2021,1,Bahrain International Circuit,Bahrain Grand Prix,2021-03-28,06:00:00,Bahrain Grand Prix2021,2021-03-28 06:00:00,api,2024-06-12
+1037,2021,2,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2021-04-18,06:00:00,Emilia Romagna Grand Prix2021,2021-04-18 06:00:00,api,2024-06-12
+1038,2021,3,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021-05-02,06:00:00,Portuguese Grand Prix2021,2021-05-02 06:00:00,api,2024-06-12
+1039,2021,4,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021-05-09,06:00:00,Spanish Grand Prix2021,2021-05-09 06:00:00,api,2024-06-12
+1040,2021,5,Circuit de Monaco,Monaco Grand Prix,2021-05-23,06:00:00,Monaco Grand Prix2021,2021-05-23 06:00:00,api,2024-06-12
+1041,2021,6,Baku City Circuit,Azerbaijan Grand Prix,2021-06-06,06:00:00,Azerbaijan Grand Prix2021,2021-06-06 06:00:00,api,2024-06-12
+1042,2021,7,Circuit Paul Ricard,French Grand Prix,2021-06-20,06:00:00,French Grand Prix2021,2021-06-20 06:00:00,api,2024-06-12
+1043,2021,8,Red Bull Ring,Styrian Grand Prix,2021-06-27,06:00:00,Styrian Grand Prix2021,2021-06-27 06:00:00,api,2024-06-12
+1044,2021,9,Red Bull Ring,Austrian Grand Prix,2021-07-04,06:00:00,Austrian Grand Prix2021,2021-07-04 06:00:00,api,2024-06-12
+1045,2021,10,Silverstone Circuit,British Grand Prix,2021-07-18,06:00:00,British Grand Prix2021,2021-07-18 06:00:00,api,2024-06-12
+1046,2021,11,Hungaroring,Hungarian Grand Prix,2021-08-01,06:00:00,Hungarian Grand Prix2021,2021-08-01 06:00:00,api,2024-06-12
+1047,2021,12,Circuit de Spa-Francorchamps,Belgian Grand Prix,2021-08-29,06:00:00,Belgian Grand Prix2021,2021-08-29 06:00:00,api,2024-06-12
+1048,2021,13,Circuit Park Zandvoort,Dutch Grand Prix,2021-09-05,06:00:00,Dutch Grand Prix2021,2021-09-05 06:00:00,api,2024-06-12
+1049,2021,14,Autodromo Nazionale di Monza,Italian Grand Prix,2021-09-12,06:00:00,Italian Grand Prix2021,2021-09-12 06:00:00,api,2024-06-12
+1050,2021,15,Sochi Autodrom,Russian Grand Prix,2021-09-26,06:00:00,Russian Grand Prix2021,2021-09-26 06:00:00,api,2024-06-12
+1051,2021,16,Istanbul Park,Turkish Grand Prix,2021-10-10,06:00:00,Turkish Grand Prix2021,2021-10-10 06:00:00,api,2024-06-12
+1052,2021,17,Circuit of the Americas,United States Grand Prix,2021-10-24,06:00:00,United States Grand Prix2021,2021-10-24 06:00:00,api,2024-06-12
+1053,2021,18,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021-11-07,06:00:00,Mexico City Grand Prix2021,2021-11-07 06:00:00,api,2024-06-12
+1054,2021,19,Autódromo José Carlos Pace,São Paulo Grand Prix,2021-11-14,06:00:00,São Paulo Grand Prix2021,2021-11-14 06:00:00,api,2024-06-12
+1055,2021,20,Losail International Circuit,Qatar Grand Prix,2021-11-21,06:00:00,Qatar Grand Prix2021,2021-11-21 06:00:00,api,2024-06-12
+1056,2021,21,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021-12-05,06:00:00,Saudi Arabian Grand Prix2021,2021-12-05 06:00:00,api,2024-06-12
+1057,2021,22,Yas Marina Circuit,Abu Dhabi Grand Prix,2021-12-12,06:00:00,Abu Dhabi Grand Prix2021,2021-12-12 06:00:00,api,2024-06-12
+1058,2022,1,Bahrain International Circuit,Bahrain Grand Prix,2022-03-20,06:00:00,Bahrain Grand Prix2022,2022-03-20 06:00:00,api,2024-06-12
+1059,2022,2,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2022-03-27,06:00:00,Saudi Arabian Grand Prix2022,2022-03-27 06:00:00,api,2024-06-12
+1060,2022,3,Albert Park Grand Prix Circuit,Australian Grand Prix,2022-04-10,06:00:00,Australian Grand Prix2022,2022-04-10 06:00:00,api,2024-06-12
+1061,2022,4,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2022-04-24,06:00:00,Emilia Romagna Grand Prix2022,2022-04-24 06:00:00,api,2024-06-12
+1062,2022,5,Miami International Autodrome,Miami Grand Prix,2022-05-08,06:00:00,Miami Grand Prix2022,2022-05-08 06:00:00,api,2024-06-12
+1063,2022,6,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2022-05-22,06:00:00,Spanish Grand Prix2022,2022-05-22 06:00:00,api,2024-06-12
+1064,2022,7,Circuit de Monaco,Monaco Grand Prix,2022-05-29,06:00:00,Monaco Grand Prix2022,2022-05-29 06:00:00,api,2024-06-12
+1065,2022,8,Baku City Circuit,Azerbaijan Grand Prix,2022-06-12,06:00:00,Azerbaijan Grand Prix2022,2022-06-12 06:00:00,api,2024-06-12
+1066,2022,9,Circuit Gilles Villeneuve,Canadian Grand Prix,2022-06-19,06:00:00,Canadian Grand Prix2022,2022-06-19 06:00:00,api,2024-06-12
+1067,2022,10,Silverstone Circuit,British Grand Prix,2022-07-03,06:00:00,British Grand Prix2022,2022-07-03 06:00:00,api,2024-06-12
+1068,2022,11,Red Bull Ring,Austrian Grand Prix,2022-07-10,06:00:00,Austrian Grand Prix2022,2022-07-10 06:00:00,api,2024-06-12
+1069,2022,12,Circuit Paul Ricard,French Grand Prix,2022-07-24,06:00:00,French Grand Prix2022,2022-07-24 06:00:00,api,2024-06-12
+1070,2022,13,Hungaroring,Hungarian Grand Prix,2022-07-31,06:00:00,Hungarian Grand Prix2022,2022-07-31 06:00:00,api,2024-06-12
+1071,2022,14,Circuit de Spa-Francorchamps,Belgian Grand Prix,2022-08-28,06:00:00,Belgian Grand Prix2022,2022-08-28 06:00:00,api,2024-06-12
+1072,2022,15,Circuit Park Zandvoort,Dutch Grand Prix,2022-09-04,06:00:00,Dutch Grand Prix2022,2022-09-04 06:00:00,api,2024-06-12
+1073,2022,16,Autodromo Nazionale di Monza,Italian Grand Prix,2022-09-11,06:00:00,Italian Grand Prix2022,2022-09-11 06:00:00,api,2024-06-12
+1074,2022,17,Marina Bay Street Circuit,Singapore Grand Prix,2022-10-02,06:00:00,Singapore Grand Prix2022,2022-10-02 06:00:00,api,2024-06-12
+1075,2022,18,Suzuka Circuit,Japanese Grand Prix,2022-10-09,06:00:00,Japanese Grand Prix2022,2022-10-09 06:00:00,api,2024-06-12
+1076,2022,19,Circuit of the Americas,United States Grand Prix,2022-10-23,06:00:00,United States Grand Prix2022,2022-10-23 06:00:00,api,2024-06-12
+1077,2022,20,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2022-10-30,06:00:00,Mexico City Grand Prix2022,2022-10-30 06:00:00,api,2024-06-12
+1078,2022,21,Autódromo José Carlos Pace,São Paulo Grand Prix,2022-11-13,06:00:00,São Paulo Grand Prix2022,2022-11-13 06:00:00,api,2024-06-12
+1079,2022,22,Yas Marina Circuit,Abu Dhabi Grand Prix,2022-11-20,06:00:00,Abu Dhabi Grand Prix2022,2022-11-20 06:00:00,api,2024-06-12
+1080,2023,1,Bahrain International Circuit,Bahrain Grand Prix,2023-03-05,06:00:00,Bahrain Grand Prix2023,2023-03-05 06:00:00,api,2024-06-12
+1081,2023,2,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2023-03-19,06:00:00,Saudi Arabian Grand Prix2023,2023-03-19 06:00:00,api,2024-06-12
+1082,2023,3,Albert Park Grand Prix Circuit,Australian Grand Prix,2023-04-02,06:00:00,Australian Grand Prix2023,2023-04-02 06:00:00,api,2024-06-12
+1083,2023,4,Baku City Circuit,Azerbaijan Grand Prix,2023-04-30,06:00:00,Azerbaijan Grand Prix2023,2023-04-30 06:00:00,api,2024-06-12
+1084,2023,5,Miami International Autodrome,Miami Grand Prix,2023-05-07,06:00:00,Miami Grand Prix2023,2023-05-07 06:00:00,api,2024-06-12
+1085,2023,6,Circuit de Monaco,Monaco Grand Prix,2023-05-28,06:00:00,Monaco Grand Prix2023,2023-05-28 06:00:00,api,2024-06-12
+1086,2023,7,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2023-06-04,06:00:00,Spanish Grand Prix2023,2023-06-04 06:00:00,api,2024-06-12
+1087,2023,8,Circuit Gilles Villeneuve,Canadian Grand Prix,2023-06-18,06:00:00,Canadian Grand Prix2023,2023-06-18 06:00:00,api,2024-06-12
+1088,2023,9,Red Bull Ring,Austrian Grand Prix,2023-07-02,06:00:00,Austrian Grand Prix2023,2023-07-02 06:00:00,api,2024-06-12
+1089,2023,10,Silverstone Circuit,British Grand Prix,2023-07-09,06:00:00,British Grand Prix2023,2023-07-09 06:00:00,api,2024-06-12
+1090,2023,11,Hungaroring,Hungarian Grand Prix,2023-07-23,06:00:00,Hungarian Grand Prix2023,2023-07-23 06:00:00,api,2024-06-12
+1091,2023,12,Circuit de Spa-Francorchamps,Belgian Grand Prix,2023-07-30,06:00:00,Belgian Grand Prix2023,2023-07-30 06:00:00,api,2024-06-12
+1092,2023,13,Circuit Park Zandvoort,Dutch Grand Prix,2023-08-27,06:00:00,Dutch Grand Prix2023,2023-08-27 06:00:00,api,2024-06-12
+1093,2023,14,Autodromo Nazionale di Monza,Italian Grand Prix,2023-09-03,06:00:00,Italian Grand Prix2023,2023-09-03 06:00:00,api,2024-06-12
+1094,2023,15,Marina Bay Street Circuit,Singapore Grand Prix,2023-09-17,06:00:00,Singapore Grand Prix2023,2023-09-17 06:00:00,api,2024-06-12
+1095,2023,16,Suzuka Circuit,Japanese Grand Prix,2023-09-24,06:00:00,Japanese Grand Prix2023,2023-09-24 06:00:00,api,2024-06-12
+1096,2023,17,Losail International Circuit,Qatar Grand Prix,2023-10-08,06:00:00,Qatar Grand Prix2023,2023-10-08 06:00:00,api,2024-06-12
+1097,2023,18,Circuit of the Americas,United States Grand Prix,2023-10-22,06:00:00,United States Grand Prix2023,2023-10-22 06:00:00,api,2024-06-12
+1098,2023,19,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2023-10-29,06:00:00,Mexico City Grand Prix2023,2023-10-29 06:00:00,api,2024-06-12
+1099,2023,20,Autódromo José Carlos Pace,São Paulo Grand Prix,2023-11-05,06:00:00,São Paulo Grand Prix2023,2023-11-05 06:00:00,api,2024-06-12
+1100,2023,21,Las Vegas Strip Street Circuit,Las Vegas Grand Prix,2023-11-19,06:00:00,Las Vegas Grand Prix2023,2023-11-19 06:00:00,api,2024-06-12
+1101,2023,22,Yas Marina Circuit,Abu Dhabi Grand Prix,2023-11-26,06:00:00,Abu Dhabi Grand Prix2023,2023-11-26 06:00:00,api,2024-06-12
+1102,2024,1,Bahrain International Circuit,Bahrain Grand Prix,2024-03-02,06:00:00,Bahrain Grand Prix2024,2024-03-02 06:00:00,api,2024-06-12
+1103,2024,2,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2024-03-09,06:00:00,Saudi Arabian Grand Prix2024,2024-03-09 06:00:00,api,2024-06-12
+1104,2024,3,Albert Park Grand Prix Circuit,Australian Grand Prix,2024-03-24,06:00:00,Australian Grand Prix2024,2024-03-24 06:00:00,api,2024-06-12
+1105,2024,4,Suzuka Circuit,Japanese Grand Prix,2024-04-07,06:00:00,Japanese Grand Prix2024,2024-04-07 06:00:00,api,2024-06-12
+1106,2024,5,Shanghai International Circuit,Chinese Grand Prix,2024-04-21,06:00:00,Chinese Grand Prix2024,2024-04-21 06:00:00,api,2024-06-12
+1107,2024,6,Miami International Autodrome,Miami Grand Prix,2024-05-05,06:00:00,Miami Grand Prix2024,2024-05-05 06:00:00,api,2024-06-12
+1108,2024,7,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2024-05-19,06:00:00,Emilia Romagna Grand Prix2024,2024-05-19 06:00:00,api,2024-06-12
+1109,2024,8,Circuit de Monaco,Monaco Grand Prix,2024-05-26,06:00:00,Monaco Grand Prix2024,2024-05-26 06:00:00,api,2024-06-12
+1110,2024,9,Circuit Gilles Villeneuve,Canadian Grand Prix,2024-06-09,06:00:00,Canadian Grand Prix2024,2024-06-09 06:00:00,api,2024-06-12
+1111,2024,10,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2024-06-23,06:00:00,Spanish Grand Prix2024,2024-06-23 06:00:00,api,2024-06-12
+1112,2024,11,Red Bull Ring,Austrian Grand Prix,2024-06-30,06:00:00,Austrian Grand Prix2024,2024-06-30 06:00:00,api,2024-06-12
+1113,2024,12,Silverstone Circuit,British Grand Prix,2024-07-07,06:00:00,British Grand Prix2024,2024-07-07 06:00:00,api,2024-06-12
+1114,2024,13,Hungaroring,Hungarian Grand Prix,2024-07-21,06:00:00,Hungarian Grand Prix2024,2024-07-21 06:00:00,api,2024-06-12
+1115,2024,14,Circuit de Spa-Francorchamps,Belgian Grand Prix,2024-07-28,06:00:00,Belgian Grand Prix2024,2024-07-28 06:00:00,api,2024-06-12
+1116,2024,15,Circuit Park Zandvoort,Dutch Grand Prix,2024-08-25,06:00:00,Dutch Grand Prix2024,2024-08-25 06:00:00,api,2024-06-12
+1117,2024,16,Autodromo Nazionale di Monza,Italian Grand Prix,2024-09-01,06:00:00,Italian Grand Prix2024,2024-09-01 06:00:00,api,2024-06-12
+1118,2024,17,Baku City Circuit,Azerbaijan Grand Prix,2024-09-15,06:00:00,Azerbaijan Grand Prix2024,2024-09-15 06:00:00,api,2024-06-12
+1119,2024,18,Marina Bay Street Circuit,Singapore Grand Prix,2024-09-22,06:00:00,Singapore Grand Prix2024,2024-09-22 06:00:00,api,2024-06-12
+1120,2024,19,Circuit of the Americas,United States Grand Prix,2024-10-20,06:00:00,United States Grand Prix2024,2024-10-20 06:00:00,api,2024-06-12
+1121,2024,20,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2024-10-27,06:00:00,Mexico City Grand Prix2024,2024-10-27 06:00:00,api,2024-06-12
+1122,2024,21,Autódromo José Carlos Pace,São Paulo Grand Prix,2024-11-03,06:00:00,São Paulo Grand Prix2024,2024-11-03 06:00:00,api,2024-06-12
+1123,2024,22,Las Vegas Strip Street Circuit,Las Vegas Grand Prix,2024-11-23,06:00:00,Las Vegas Grand Prix2024,2024-11-23 06:00:00,api,2024-06-12
+1124,2024,23,Losail International Circuit,Qatar Grand Prix,2024-12-01,06:00:00,Qatar Grand Prix2024,2024-12-01 06:00:00,api,2024-06-12
+1125,2024,24,Yas Marina Circuit,Abu Dhabi Grand Prix,2024-12-08,06:00:00,Abu Dhabi Grand Prix2024,2024-12-08 06:00:00,api,2024-06-12

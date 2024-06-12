@@ -1,0 +1,78 @@
+circuit_id,circuit_ref,circuit_name,location,country,latitude,longitude,altitude,data_source,ingestion_date
+1,adelaide,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,alt,dev,2024-06-11
+2,ain-diab,Ain Diab,Casablanca,Morocco,33.5786,-7.6875,alt,dev,2024-06-11
+3,aintree,Aintree,Liverpool,UK,53.4769,-2.94056,alt,dev,2024-06-11
+4,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,alt,dev,2024-06-11
+5,americas,Circuit of the Americas,Austin,USA,30.1328,-97.6411,alt,dev,2024-06-11
+6,anderstorp,Scandinavian Raceway,Anderstorp,Sweden,57.2653,13.6042,alt,dev,2024-06-11
+7,avus,AVUS,Berlin,Germany,52.4806,13.2514,alt,dev,2024-06-11
+8,bahrain,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,alt,dev,2024-06-11
+9,baku,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,alt,dev,2024-06-11
+10,boavista,Circuito da Boavista,Oporto,Portugal,41.1705,-8.67325,alt,dev,2024-06-11
+11,brands_hatch,Brands Hatch,Kent,UK,51.3569,0.263056,alt,dev,2024-06-11
+12,bremgarten,Circuit Bremgarten,Bern,Switzerland,46.9589,7.40194,alt,dev,2024-06-11
+13,buddh,Buddh International Circuit,Uttar Pradesh,India,28.3487,77.5331,alt,dev,2024-06-11
+14,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,alt,dev,2024-06-11
+15,charade,Charade Circuit,Clermont-Ferrand,France,45.7472,3.03889,alt,dev,2024-06-11
+16,dallas,Fair Park,Dallas,USA,32.7774,-96.7587,alt,dev,2024-06-11
+17,detroit,Detroit Street Circuit,Detroit,USA,42.3298,-83.0401,alt,dev,2024-06-11
+18,dijon,Dijon-Prenois,Dijon,France,47.3625,4.89913,alt,dev,2024-06-11
+19,donington,Donington Park,Castle Donington,UK,52.8306,-1.37528,alt,dev,2024-06-11
+20,essarts,Rouen-Les-Essarts,Rouen,France,49.3306,1.00458,alt,dev,2024-06-11
+21,estoril,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,alt,dev,2024-06-11
+22,fuji,Fuji Speedway,Oyama,Japan,35.3717,138.927,alt,dev,2024-06-11
+23,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,alt,dev,2024-06-11
+24,george,Prince George Circuit,Eastern Cape Province,South Africa,-33.0486,27.8736,alt,dev,2024-06-11
+25,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,alt,dev,2024-06-11
+26,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,alt,dev,2024-06-11
+27,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,alt,dev,2024-06-11
+28,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,alt,dev,2024-06-11
+29,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,alt,dev,2024-06-11
+30,istanbul,Istanbul Park,Istanbul,Turkey,40.9517,29.405,alt,dev,2024-06-11
+31,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,alt,dev,2024-06-11
+32,jarama,Jarama,Madrid,Spain,40.6171,-3.58558,alt,dev,2024-06-11
+33,jeddah,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,21.6319,39.1044,alt,dev,2024-06-11
+34,jerez,Circuito de Jerez,Jerez de la Frontera,Spain,36.7083,-6.03417,alt,dev,2024-06-11
+35,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,alt,dev,2024-06-11
+36,las_vegas,Las Vegas Street Circuit,Nevada,USA,36.1162,-115.174,alt,dev,2024-06-11
+37,lemans,Le Mans,Le Mans,France,47.95,0.224231,alt,dev,2024-06-11
+38,long_beach,Long Beach,California,USA,33.7651,-118.189,alt,dev,2024-06-11
+39,losail,Losail International Circuit,Al Daayen,Qatar,25.49,51.4542,alt,dev,2024-06-11
+40,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,alt,dev,2024-06-11
+41,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,alt,dev,2024-06-11
+42,miami,Miami International Autodrome,Miami,USA,25.9581,-80.2389,alt,dev,2024-06-11
+43,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,alt,dev,2024-06-11
+44,monsanto,Monsanto Park Circuit,Lisbon,Portugal,38.7197,-9.20306,alt,dev,2024-06-11
+45,montjuic,Montjuïc,Barcelona,Spain,41.3664,2.15167,alt,dev,2024-06-11
+46,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,alt,dev,2024-06-11
+47,mosport,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,alt,dev,2024-06-11
+48,mugello,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719,alt,dev,2024-06-11
+49,nivelles,Nivelles-Baulers,Brussels,Belgium,50.6211,4.32694,alt,dev,2024-06-11
+50,nurburgring,Nürburgring,Nürburg,Germany,50.3356,6.9475,alt,dev,2024-06-11
+51,okayama,Okayama International Circuit,Okayama,Japan,34.915,134.221,alt,dev,2024-06-11
+52,pedralbes,Circuit de Pedralbes,Barcelona,Spain,41.3903,2.11667,alt,dev,2024-06-11
+53,pescara,Pescara Circuit,Pescara,Italy,42.475,14.1508,alt,dev,2024-06-11
+54,phoenix,Phoenix street circuit,Phoenix,USA,33.4479,-112.075,alt,dev,2024-06-11
+55,portimao,Autódromo Internacional do Algarve,Portimão,Portugal,37.227,-8.6267,alt,dev,2024-06-11
+56,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,alt,dev,2024-06-11
+57,reims,Reims-Gueux,Reims,France,49.2542,3.93083,alt,dev,2024-06-11
+58,ricard,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,alt,dev,2024-06-11
+59,riverside,Riverside International Raceway,California,USA,33.937,-117.273,alt,dev,2024-06-11
+60,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,alt,dev,2024-06-11
+61,sebring,Sebring International Raceway,Florida,USA,27.4547,-81.3483,alt,dev,2024-06-11
+62,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,alt,dev,2024-06-11
+63,shanghai,Shanghai International Circuit,Shanghai,China,31.3389,121.22,alt,dev,2024-06-11
+64,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,alt,dev,2024-06-11
+65,sochi,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,alt,dev,2024-06-11
+66,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,alt,dev,2024-06-11
+67,suzuka,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,alt,dev,2024-06-11
+68,tremblant,Circuit Mont-Tremblant,Quebec,Canada,46.1877,-74.6099,alt,dev,2024-06-11
+69,valencia,Valencia Street Circuit,Valencia,Spain,39.4589,-0.331667,alt,dev,2024-06-11
+70,vegas,Las Vegas Strip Street Circuit,Las Vegas,United States,36.1147,-115.173,alt,dev,2024-06-11
+71,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,alt,dev,2024-06-11
+72,watkins_glen,Watkins Glen,New York State,USA,42.3369,-76.9272,alt,dev,2024-06-11
+73,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,alt,dev,2024-06-11
+74,yeongam,Korean International Circuit,Yeongam County,Korea,34.7333,126.417,alt,dev,2024-06-11
+75,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,alt,dev,2024-06-11
+76,zeltweg,Zeltweg,Styria,Austria,47.2039,14.7478,alt,dev,2024-06-11
+77,zolder,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694,alt,dev,2024-06-11
