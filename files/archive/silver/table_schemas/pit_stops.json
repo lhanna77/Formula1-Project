@@ -1,0 +1,47 @@
+[
+  {
+    "mode": "REQUIRED",
+    "name": "race_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "driverId",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "stop",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "lap",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "time",
+    "type": "TIME"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "duration",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "milliseconds",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "data_source",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ingestion_date",
+    "type": "DATE"
+  }
+]

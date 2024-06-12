@@ -1,0 +1,72 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "grid",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "position",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "points",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "race_time",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "race_year",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "race_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "race_date",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "circuit_location",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "driver_number",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "driver_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "driver_nationality",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "team",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "nationality",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "created_date",
+    "type": "DATE"
+  }
+]

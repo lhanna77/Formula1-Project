@@ -1,0 +1,97 @@
+[
+  {
+    "mode": "REQUIRED",
+    "name": "result_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "race_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "driver_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "REQUIRED",
+    "name": "constructor_id",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "number",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "grid",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "position",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "position_text",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "position_order",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "points",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "laps",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "time",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "milliseconds",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "fastest_lap",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "rank",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "fastest_lap_time",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "fastest_lap_speed",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "data_source",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ingestion_date",
+    "type": "DATE"
+  }
+]
