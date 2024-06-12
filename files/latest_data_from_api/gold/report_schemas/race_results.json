@@ -16,7 +16,12 @@
   },
   {
     "mode": "NULLABLE",
-    "name": "race_time",
+    "name": "race_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "race_date",
     "type": "STRING"
   },
   {
@@ -26,12 +31,7 @@
   },
   {
     "mode": "NULLABLE",
-    "name": "race_name",
-    "type": "STRING"
-  },
-  {
-    "mode": "NULLABLE",
-    "name": "race_date",
+    "name": "circuit_name",
     "type": "STRING"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "mode": "NULLABLE",
-    "name": "nationality",
+    "name": "constructor_nationality",
     "type": "STRING"
   },
   {
