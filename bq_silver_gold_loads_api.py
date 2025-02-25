@@ -13,7 +13,7 @@ def populate_tables(schema_folder_path = 'files/latest_data_from_api/silver/tabl
     else:
         env = 'silver'
     
-    #files = ['race_circuits.json']
+    files = ['race_results.json']
 
     for f in files:
         
@@ -62,4 +62,4 @@ def populate_tables(schema_folder_path = 'files/latest_data_from_api/silver/tabl
 if __name__ == '__main__':
     
     populate_tables()
-    #populate_tables(schema_folder_path = 'files/latest_data_from_api/gold/report_schemas')
+    populate_tables(schema_folder_path = 'files/latest_data_from_api/gold/report_schemas')

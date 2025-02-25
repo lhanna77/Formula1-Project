@@ -53,7 +53,7 @@ def main(latest, season, round):
     write_api_results_to_json('json',output_file,all_rows_df)
 
 if __name__ == '__main__':
-    #main(latest=True,season=2024,round=1)
+    main(latest=False,season=2024,round=25)
     
-    for i in range(9):
-        main(latest=False,season=2024,round=i+1)
+    # for i in range(14):
+    #     main(latest=False,season=2024,round=i+1)

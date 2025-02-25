@@ -1,0 +1,200 @@
+result_id,race_id,driver_id,constructor_id,number,grid,position,position_text,position_order,points,laps,status,data_source,ingestion_date
+202403,1104,305,6,10,17,13,13,positionOrder,0,57,+1 Lap,api,2024-06-25
+202403,1104,573,6,31,15,16,16,positionOrder,0,57,+1 Lap,api,2024-06-25
+202403,1104,17,14,14,10,8,8,positionOrder,4,58,Finished,api,2024-06-25
+202403,1104,745,14,18,9,6,6,positionOrder,8,58,Finished,api,2024-06-25
+202403,1104,456,75,16,4,2,2,positionOrder,19,58,Finished,api,2024-06-25
+202403,1104,679,75,55,2,1,1,positionOrder,25,58,Finished,api,2024-06-25
+202403,1104,385,85,27,16,9,9,positionOrder,2,58,Finished,api,2024-06-25
+202403,1104,491,85,20,14,10,10,positionOrder,1,57,+1 Lap,api,2024-06-25
+202403,1104,569,135,4,3,3,3,positionOrder,15,58,Finished,api,2024-06-25
+202403,1104,604,135,81,5,4,4,positionOrder,12,58,Finished,api,2024-06-25
+202403,1104,349,140,44,11,18,R,positionOrder,0,15,Engine,api,2024-06-25
+202403,1104,671,140,63,7,17,17,positionOrder,0,56,Accident,api,2024-06-25
+202403,1104,650,165,3,18,12,12,positionOrder,0,57,+1 Lap,api,2024-06-25
+202403,1104,785,165,22,8,7,7,positionOrder,6,58,Finished,api,2024-06-25
+202403,1104,803,168,1,1,19,R,positionOrder,0,3,Brakes,api,2024-06-25
+202403,1104,595,168,11,6,5,5,positionOrder,10,58,Finished,api,2024-06-25
+202403,1104,98,171,77,13,14,14,positionOrder,0,57,+1 Lap,api,2024-06-25
+202403,1104,856,171,24,19,15,15,positionOrder,0,57,+1 Lap,api,2024-06-25
+202403,1104,11,210,23,12,11,11,positionOrder,0,57,+1 Lap,api,2024-06-25
+202401,1102,305,6,10,20,18,18,positionOrder,0,56,+1 Lap,api,2024-06-25
+202401,1102,573,6,31,19,17,17,positionOrder,0,56,+1 Lap,api,2024-06-25
+202401,1102,17,14,14,6,9,9,positionOrder,2,57,Finished,api,2024-06-25
+202401,1102,745,14,18,12,10,10,positionOrder,1,57,Finished,api,2024-06-25
+202401,1102,456,75,16,2,4,4,positionOrder,12,57,Finished,api,2024-06-25
+202401,1102,679,75,55,4,3,3,positionOrder,15,57,Finished,api,2024-06-25
+202401,1102,385,85,27,10,16,16,positionOrder,0,56,+1 Lap,api,2024-06-25
+202401,1102,491,85,20,15,12,12,positionOrder,0,56,+1 Lap,api,2024-06-25
+202401,1102,569,135,4,7,6,6,positionOrder,8,57,Finished,api,2024-06-25
+202401,1102,604,135,81,8,8,8,positionOrder,4,57,Finished,api,2024-06-25
+202401,1102,349,140,44,9,7,7,positionOrder,6,57,Finished,api,2024-06-25
+202401,1102,671,140,63,3,5,5,positionOrder,10,57,Finished,api,2024-06-25
+202401,1102,650,165,3,14,13,13,positionOrder,0,56,+1 Lap,api,2024-06-25
+202401,1102,785,165,22,11,14,14,positionOrder,0,56,+1 Lap,api,2024-06-25
+202401,1102,803,168,1,1,1,1,positionOrder,26,57,Finished,api,2024-06-25
+202401,1102,595,168,11,5,2,2,positionOrder,18,57,Finished,api,2024-06-25
+202401,1102,98,171,77,16,19,19,positionOrder,0,56,+1 Lap,api,2024-06-25
+202401,1102,856,171,24,17,11,11,positionOrder,0,56,+1 Lap,api,2024-06-25
+202401,1102,11,210,23,13,15,15,positionOrder,0,56,+1 Lap,api,2024-06-25
+202401,1102,684,210,2,18,20,20,positionOrder,0,55,+2 Laps,api,2024-06-25
+202409,1110,305,6,10,15,9,9,positionOrder,2,70,Finished,api,2024-06-25
+202409,1110,573,6,31,18,10,10,positionOrder,1,70,Finished,api,2024-06-25
+202409,1110,17,14,14,6,6,6,positionOrder,8,70,Finished,api,2024-06-25
+202409,1110,745,14,18,9,7,7,positionOrder,6,70,Finished,api,2024-06-25
+202409,1110,456,75,16,11,19,R,positionOrder,0,40,Engine,api,2024-06-25
+202409,1110,679,75,55,12,16,R,positionOrder,0,52,Collision,api,2024-06-25
+202409,1110,385,85,27,17,11,11,positionOrder,0,70,Finished,api,2024-06-25
+202409,1110,491,85,20,14,12,12,positionOrder,0,70,Finished,api,2024-06-25
+202409,1110,569,135,4,3,2,2,positionOrder,18,70,Finished,api,2024-06-25
+202409,1110,604,135,81,4,5,5,positionOrder,10,70,Finished,api,2024-06-25
+202409,1110,349,140,44,7,4,4,positionOrder,13,70,Finished,api,2024-06-25
+202409,1110,671,140,63,1,3,3,positionOrder,15,70,Finished,api,2024-06-25
+202409,1110,650,165,3,5,8,8,positionOrder,4,70,Finished,api,2024-06-25
+202409,1110,785,165,22,8,14,14,positionOrder,0,70,Finished,api,2024-06-25
+202409,1110,803,168,1,2,1,1,positionOrder,25,70,Finished,api,2024-06-25
+202409,1110,595,168,11,16,18,R,positionOrder,0,51,Accident,api,2024-06-25
+202409,1110,98,171,77,0,13,13,positionOrder,0,70,Finished,api,2024-06-25
+202409,1110,856,171,24,0,15,15,positionOrder,0,69,+1 Lap,api,2024-06-25
+202409,1110,11,210,23,10,17,R,positionOrder,0,52,Collision,api,2024-06-25
+202409,1110,684,210,2,13,20,R,positionOrder,0,23,Accident,api,2024-06-25
+202405,1106,305,6,10,15,13,13,positionOrder,0,56,Finished,api,2024-06-25
+202405,1106,573,6,31,13,11,11,positionOrder,0,56,Finished,api,2024-06-25
+202405,1106,17,14,14,3,7,7,positionOrder,7,56,Finished,api,2024-06-25
+202405,1106,745,14,18,11,15,15,positionOrder,0,56,Finished,api,2024-06-25
+202405,1106,456,75,16,6,4,4,positionOrder,12,56,Finished,api,2024-06-25
+202405,1106,679,75,55,7,5,5,positionOrder,10,56,Finished,api,2024-06-25
+202405,1106,385,85,27,9,10,10,positionOrder,1,56,Finished,api,2024-06-25
+202405,1106,491,85,20,17,16,16,positionOrder,0,56,Finished,api,2024-06-25
+202405,1106,569,135,4,4,2,2,positionOrder,18,56,Finished,api,2024-06-25
+202405,1106,604,135,81,5,8,8,positionOrder,4,56,Finished,api,2024-06-25
+202405,1106,349,140,44,18,9,9,positionOrder,2,56,Finished,api,2024-06-25
+202405,1106,671,140,63,8,6,6,positionOrder,8,56,Finished,api,2024-06-25
+202405,1106,650,165,3,12,18,R,positionOrder,0,33,Retired,api,2024-06-25
+202405,1106,785,165,22,19,19,R,positionOrder,0,26,Retired,api,2024-06-25
+202405,1106,803,168,1,1,1,1,positionOrder,25,56,Finished,api,2024-06-25
+202405,1106,595,168,11,2,3,3,positionOrder,15,56,Finished,api,2024-06-25
+202405,1106,98,171,77,10,20,R,positionOrder,0,19,Retired,api,2024-06-25
+202405,1106,856,171,24,16,14,14,positionOrder,0,56,Finished,api,2024-06-25
+202405,1106,11,210,23,14,12,12,positionOrder,0,56,Finished,api,2024-06-25
+202405,1106,684,210,2,20,17,17,positionOrder,0,56,Finished,api,2024-06-25
+202407,1108,305,6,10,15,16,16,positionOrder,0,62,+1 Lap,api,2024-06-25
+202407,1108,573,6,31,12,14,14,positionOrder,0,62,+1 Lap,api,2024-06-25
+202407,1108,17,14,14,20,19,19,positionOrder,0,62,+1 Lap,api,2024-06-25
+202407,1108,745,14,18,13,9,9,positionOrder,2,63,Finished,api,2024-06-25
+202407,1108,456,75,16,3,3,3,positionOrder,15,63,Finished,api,2024-06-25
+202407,1108,679,75,55,4,5,5,positionOrder,10,63,Finished,api,2024-06-25
+202407,1108,385,85,27,10,11,11,positionOrder,0,62,+1 Lap,api,2024-06-25
+202407,1108,491,85,20,18,12,12,positionOrder,0,62,+1 Lap,api,2024-06-25
+202407,1108,569,135,4,2,2,2,positionOrder,18,63,Finished,api,2024-06-25
+202407,1108,604,135,81,5,4,4,positionOrder,12,63,Finished,api,2024-06-25
+202407,1108,349,140,44,8,6,6,positionOrder,8,63,Finished,api,2024-06-25
+202407,1108,671,140,63,6,7,7,positionOrder,7,63,Finished,api,2024-06-25
+202407,1108,650,165,3,9,13,13,positionOrder,0,62,+1 Lap,api,2024-06-25
+202407,1108,785,165,22,7,10,10,positionOrder,1,62,+1 Lap,api,2024-06-25
+202407,1108,803,168,1,1,1,1,positionOrder,25,63,Finished,api,2024-06-25
+202407,1108,595,168,11,11,8,8,positionOrder,4,63,Finished,api,2024-06-25
+202407,1108,98,171,77,16,18,18,positionOrder,0,62,+1 Lap,api,2024-06-25
+202407,1108,856,171,24,17,15,15,positionOrder,0,62,+1 Lap,api,2024-06-25
+202407,1108,11,210,23,14,20,R,positionOrder,0,51,Retired,api,2024-06-25
+202407,1108,684,210,2,19,17,17,positionOrder,0,62,+1 Lap,api,2024-06-25
+202404,1105,305,6,10,17,16,16,positionOrder,0,52,+1 Lap,api,2024-06-25
+202404,1105,573,6,31,15,15,15,positionOrder,0,52,+1 Lap,api,2024-06-25
+202404,1105,17,14,14,5,6,6,positionOrder,8,53,Finished,api,2024-06-25
+202404,1105,745,14,18,16,12,12,positionOrder,0,52,+1 Lap,api,2024-06-25
+202404,1105,456,75,16,8,4,4,positionOrder,12,53,Finished,api,2024-06-25
+202404,1105,679,75,55,4,3,3,positionOrder,15,53,Finished,api,2024-06-25
+202404,1105,385,85,27,12,11,11,positionOrder,0,52,+1 Lap,api,2024-06-25
+202404,1105,491,85,20,18,13,13,positionOrder,0,52,+1 Lap,api,2024-06-25
+202404,1105,569,135,4,3,5,5,positionOrder,10,53,Finished,api,2024-06-25
+202404,1105,604,135,81,6,8,8,positionOrder,4,53,Finished,api,2024-06-25
+202404,1105,349,140,44,7,9,9,positionOrder,2,53,Finished,api,2024-06-25
+202404,1105,671,140,63,9,7,7,positionOrder,6,53,Finished,api,2024-06-25
+202404,1105,650,165,3,11,19,R,positionOrder,0,0,Accident,api,2024-06-25
+202404,1105,785,165,22,10,10,10,positionOrder,1,52,+1 Lap,api,2024-06-25
+202404,1105,803,168,1,1,1,1,positionOrder,26,53,Finished,api,2024-06-25
+202404,1105,595,168,11,2,2,2,positionOrder,18,53,Finished,api,2024-06-25
+202404,1105,98,171,77,13,14,14,positionOrder,0,52,+1 Lap,api,2024-06-25
+202404,1105,856,171,24,20,18,R,positionOrder,0,12,Gearbox,api,2024-06-25
+202404,1105,11,210,23,14,20,R,positionOrder,0,0,Accident,api,2024-06-25
+202404,1105,684,210,2,19,17,17,positionOrder,0,52,+1 Lap,api,2024-06-25
+202406,1107,305,6,10,12,12,12,positionOrder,0,57,Finished,api,2024-06-25
+202406,1107,573,6,31,13,10,10,positionOrder,1,57,Finished,api,2024-06-25
+202406,1107,17,14,14,15,9,9,positionOrder,2,57,Finished,api,2024-06-25
+202406,1107,745,14,18,11,17,17,positionOrder,0,57,Finished,api,2024-06-25
+202406,1107,456,75,16,2,3,3,positionOrder,15,57,Finished,api,2024-06-25
+202406,1107,679,75,55,3,5,5,positionOrder,10,57,Finished,api,2024-06-25
+202406,1107,385,85,27,9,11,11,positionOrder,0,57,Finished,api,2024-06-25
+202406,1107,491,85,20,18,19,19,positionOrder,0,57,Finished,api,2024-06-25
+202406,1107,569,135,4,5,1,1,positionOrder,25,57,Finished,api,2024-06-25
+202406,1107,604,135,81,6,13,13,positionOrder,0,57,Finished,api,2024-06-25
+202406,1107,349,140,44,8,6,6,positionOrder,8,57,Finished,api,2024-06-25
+202406,1107,671,140,63,7,8,8,positionOrder,4,57,Finished,api,2024-06-25
+202406,1107,650,165,3,20,15,15,positionOrder,0,57,Finished,api,2024-06-25
+202406,1107,785,165,22,10,7,7,positionOrder,6,57,Finished,api,2024-06-25
+202406,1107,803,168,1,1,2,2,positionOrder,18,57,Finished,api,2024-06-25
+202406,1107,595,168,11,4,4,4,positionOrder,12,57,Finished,api,2024-06-25
+202406,1107,98,171,77,16,16,16,positionOrder,0,57,Finished,api,2024-06-25
+202406,1107,856,171,24,19,14,14,positionOrder,0,57,Finished,api,2024-06-25
+202406,1107,11,210,23,14,18,18,positionOrder,0,57,Finished,api,2024-06-25
+202406,1107,684,210,2,17,20,R,positionOrder,0,27,Collision,api,2024-06-25
+202408,1109,305,6,10,10,10,10,positionOrder,1,77,+1 Lap,api,2024-06-25
+202408,1109,573,6,31,11,17,R,positionOrder,0,0,Collision,api,2024-06-25
+202408,1109,17,14,14,14,11,11,positionOrder,0,76,+2 Laps,api,2024-06-25
+202408,1109,745,14,18,13,14,14,positionOrder,0,76,+2 Laps,api,2024-06-25
+202408,1109,456,75,16,1,1,1,positionOrder,25,78,Finished,api,2024-06-25
+202408,1109,679,75,55,3,3,3,positionOrder,15,78,Finished,api,2024-06-25
+202408,1109,385,85,27,19,19,R,positionOrder,0,0,Collision,api,2024-06-25
+202408,1109,491,85,20,20,20,R,positionOrder,0,0,Collision,api,2024-06-25
+202408,1109,569,135,4,4,4,4,positionOrder,12,78,Finished,api,2024-06-25
+202408,1109,604,135,81,2,2,2,positionOrder,18,78,Finished,api,2024-06-25
+202408,1109,349,140,44,7,7,7,positionOrder,7,78,Finished,api,2024-06-25
+202408,1109,671,140,63,5,5,5,positionOrder,10,78,Finished,api,2024-06-25
+202408,1109,650,165,3,12,12,12,positionOrder,0,76,+2 Laps,api,2024-06-25
+202408,1109,785,165,22,8,8,8,positionOrder,4,77,+1 Lap,api,2024-06-25
+202408,1109,803,168,1,6,6,6,positionOrder,8,78,Finished,api,2024-06-25
+202408,1109,595,168,11,16,18,R,positionOrder,0,0,Collision,api,2024-06-25
+202408,1109,98,171,77,17,13,13,positionOrder,0,76,+2 Laps,api,2024-06-25
+202408,1109,856,171,24,18,16,16,positionOrder,0,76,+2 Laps,api,2024-06-25
+202408,1109,11,210,23,9,9,9,positionOrder,2,77,+1 Lap,api,2024-06-25
+202408,1109,684,210,2,15,15,15,positionOrder,0,76,+2 Laps,api,2024-06-25
+202402,1103,305,6,10,18,20,R,positionOrder,0,1,Gearbox,api,2024-06-25
+202402,1103,573,6,31,17,13,13,positionOrder,0,49,+1 Lap,api,2024-06-25
+202402,1103,17,14,14,4,5,5,positionOrder,10,50,Finished,api,2024-06-25
+202402,1103,745,14,18,10,19,R,positionOrder,0,5,Accident,api,2024-06-25
+202402,1103,58,75,38,11,7,7,positionOrder,6,50,Finished,api,2024-06-25
+202402,1103,456,75,16,2,3,3,positionOrder,16,50,Finished,api,2024-06-25
+202402,1103,385,85,27,15,10,10,positionOrder,1,50,Finished,api,2024-06-25
+202402,1103,491,85,20,13,12,12,positionOrder,0,50,Finished,api,2024-06-25
+202402,1103,569,135,4,6,8,8,positionOrder,4,50,Finished,api,2024-06-25
+202402,1103,604,135,81,5,4,4,positionOrder,12,50,Finished,api,2024-06-25
+202402,1103,349,140,44,8,9,9,positionOrder,2,50,Finished,api,2024-06-25
+202402,1103,671,140,63,7,6,6,positionOrder,8,50,Finished,api,2024-06-25
+202402,1103,650,165,3,14,16,16,positionOrder,0,49,+1 Lap,api,2024-06-25
+202402,1103,785,165,22,9,15,15,positionOrder,0,49,+1 Lap,api,2024-06-25
+202402,1103,803,168,1,1,1,1,positionOrder,25,50,Finished,api,2024-06-25
+202402,1103,595,168,11,3,2,2,positionOrder,18,50,Finished,api,2024-06-25
+202402,1103,98,171,77,16,17,17,positionOrder,0,49,+1 Lap,api,2024-06-25
+202402,1103,856,171,24,20,18,18,positionOrder,0,49,+1 Lap,api,2024-06-25
+202402,1103,11,210,23,12,11,11,positionOrder,0,50,Finished,api,2024-06-25
+202402,1103,684,210,2,19,14,14,positionOrder,0,49,+1 Lap,api,2024-06-25
+202410,1111,305,6,10,7,9,9,positionOrder,2,66,Finished,api,2024-06-25
+202410,1111,573,6,31,8,10,10,positionOrder,1,66,Finished,api,2024-06-25
+202410,1111,17,14,14,10,12,12,positionOrder,0,65,+1 Lap,api,2024-06-25
+202410,1111,745,14,18,14,14,14,positionOrder,0,65,+1 Lap,api,2024-06-25
+202410,1111,456,75,16,5,5,5,positionOrder,10,66,Finished,api,2024-06-25
+202410,1111,679,75,55,6,6,6,positionOrder,8,66,Finished,api,2024-06-25
+202410,1111,385,85,27,13,11,11,positionOrder,0,66,Finished,api,2024-06-25
+202410,1111,491,85,20,16,17,17,positionOrder,0,65,+1 Lap,api,2024-06-25
+202410,1111,569,135,4,1,2,2,positionOrder,19,66,Finished,api,2024-06-25
+202410,1111,604,135,81,9,7,7,positionOrder,6,66,Finished,api,2024-06-25
+202410,1111,349,140,44,3,3,3,positionOrder,15,66,Finished,api,2024-06-25
+202410,1111,671,140,63,4,4,4,positionOrder,12,66,Finished,api,2024-06-25
+202410,1111,650,165,3,18,15,15,positionOrder,0,65,+1 Lap,api,2024-06-25
+202410,1111,785,165,22,17,19,19,positionOrder,0,65,+1 Lap,api,2024-06-25
+202410,1111,803,168,1,2,1,1,positionOrder,25,66,Finished,api,2024-06-25
+202410,1111,595,168,11,11,8,8,positionOrder,4,66,Finished,api,2024-06-25
+202410,1111,98,171,77,12,16,16,positionOrder,0,65,+1 Lap,api,2024-06-25
+202410,1111,856,171,24,15,13,13,positionOrder,0,65,+1 Lap,api,2024-06-25
+202410,1111,11,210,23,0,18,18,positionOrder,0,65,+1 Lap,api,2024-06-25
+202410,1111,684,210,2,19,20,20,positionOrder,0,64,+2 Laps,api,2024-06-25
